@@ -5,167 +5,167 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 07:56:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 21:05:13 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
-<title>OpenAI to acquire Pierre Computer Company, Inc.</title>
-<link>https://openai.com/index/openai-to-acquire-pierre</link>
-<guid isPermaLink="true">https://openai.com/index/openai-to-acquire-pierre</guid>
-<description>OpenAI will acquire Pierre Computer Company, folding Pierre's Trees and Diffs libraries—already used by Codex—and its Code Storage feature into Codex while keeping them open source. (OpenAI News)</description>
+<title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
+<link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
+<description>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Wed, 04 Nov 2026 21:12:50 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
 </item>
 <item>
-<title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
-<link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
-<guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
-<description>Dharma Field Extractor, a 2-billion-parameter model trained with LoRA on 43,384 samples, converts any document type into JSON fields specified by an open request or schema, which Dharma-AI says outperforms every frontier LLM tested at a fraction of the cost. (Hugging Face Blog)</description>
+<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash</guid>
+<description>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips (Google AI Blog)</description>
 <category>Official update</category>
-<pubDate>Wed, 04 Nov 2026 17:50:10 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot is now available in Xcode’s coding assistant</title>
-<link>https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant</guid>
-<description>GitHub Copilot is now in public preview inside Xcode 27.3 beta’s built-in coding assistant, requiring macOS Tahoe 26.6 or later and setup via Settings &gt; Intelligence, with all Copilot plans supported and the original Xcode extension retained. (GitHub Changelog)</description>
+<title>GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents</title>
+<link>https://openai.com/index/introducing-gpt-6-cyber</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-cyber</guid>
+<description>GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Wed, 04 Nov 2026 19:10:40 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
-<title>A thousand fewer paths to root</title>
-<link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
-<guid isPermaLink="true">https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
-<description>OpenAI’s autonomous pipeline analyzed 2,308 Linux kernel candidates, dynamically reproduced 1,724 vulnerabilities and generated patches for 948 local privilege-escalation flaws at an API cost of $1,213,400. (OpenAI News)</description>
+<title>Secret scanning upgrades detectors, adds SpaceX as partner</title>
+<link>https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner</guid>
+<description>Secret scanning upgrades detectors, adds SpaceX as partner (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Thu, 05 Nov 2026 02:01:04 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 15:48:50 +0000</pubDate>
 </item>
 <item>
-<title>CodeQL 2.27.4 improves accuracy and query metadata</title>
-<link>https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata</guid>
-<description>CodeQL 2.27.4 improves query accuracy for Java/Kotlin, Rust and C/C++, strengthens security checks when bundling or publishing a pack, and corrects query metadata. (GitHub Changelog)</description>
+<title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
+<link>https://huggingface.co/blog/phonon-tts</link>
+<guid isPermaLink="true">https://huggingface.co/blog/phonon-tts</guid>
+<description>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks. (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Wed, 04 Nov 2026 20:04:52 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Claude Code product lead Cat Wu makes lightning exit as three core members depart within two weeks</title>
+<title>New pull request overview page in public preview</title>
+<link>https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview</guid>
+<description>New pull request overview page in public preview (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Setting a new standard for responsible AI infrastructure</title>
+<link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
+<guid isPermaLink="true">https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
+<description>Setting a new standard for responsible AI infrastructure (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体</title>
+<link>https://www.aibase.com/news/32125</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32125</guid>
+<description>AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 05 Nov 2026 18:05:13 +0000</pubDate>
+</item>
+<item>
+<title>AI 让死亡成为"可选项"？布罗克曼抛出生命终极命题</title>
+<link>https://www.aibase.com/news/32123</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32123</guid>
+<description>AI 让死亡成为"可选项"？布罗克曼抛出生命终极命题 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 05 Nov 2026 18:05:13 +0000</pubDate>
+</item>
+<item>
+<title>Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu</title>
+<link>https://www.aibase.com/news/32124</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32124</guid>
+<description>Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 05 Nov 2026 18:05:13 +0000</pubDate>
+</item>
+<item>
+<title>研发超级 AI 或判 20 年：美国民主党抛出最严封杀令</title>
+<link>https://www.aibase.com/news/32122</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32122</guid>
+<description>研发超级 AI 或判 20 年：美国民主党抛出最严封杀令 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 05 Nov 2026 18:05:13 +0000</pubDate>
+</item>
+<item>
+<title>Meta warns that election backlash against data centers could make AI expansion harder</title>
+<link>https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder</guid>
+<description>Meta warns that election backlash against data centers could make AI expansion harder (TechCrunch AI)</description>
+<category>Worth watching</category>
+<pubDate>Thu, 05 Nov 2026 19:12:39 +0000</pubDate>
+</item>
+<item>
+<title>Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职</title>
 <link>https://www.aibase.com/news/32120</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32120</guid>
-<description>Claude Code product lead Cat Wu left Anthropic and joined OpenAI in a core product role one day later, as Thariq Shihipar and Anthony Morris exited within ten days, the third core departure in two weeks. (AIbase)</description>
+<description>Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Thu, 05 Nov 2026 07:56:30 +0000</pubDate>
 </item>
 <item>
-<title>Kimi Hosted Agents launches, shifting Harness runtime to cloud hosting</title>
+<title>Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more</title>
+<link>https://www.producthunt.com/products/stitch-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/stitch-ai</guid>
+<description>Your AI workspace for mail, calendar, notes, tasks and more (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Thu, 05 Nov 2026 21:01:59 +0000</pubDate>
+</item>
+<item>
+<title>Kimi Hosted Agents 发布:Harness 运行时转向云端托管</title>
 <link>https://www.aibase.com/news/32112</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32112</guid>
-<description>On November 5, Kimi Open Platform launched Kimi Hosted Agents, turning its Harness runtime into a cloud service with 140+ Skills, 30+ plugins, long-task support and multi-agent collaboration. (AIbase)</description>
+<description>Kimi Hosted Agents 发布:Harness 运行时转向云端托管 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Thu, 05 Nov 2026 07:56:30 +0000</pubDate>
 </item>
 <item>
-<title>Sand.ai announces completion of a $200 million Series A+ funding round, with backing from multiple investors and Shanghai state capital.</title>
+<title>AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending</title>
+<link>https://www.producthunt.com/products/easy-peasy-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/easy-peasy-ai</guid>
+<description>Hire an AI team that splits the work and asks before sending (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Thu, 05 Nov 2026 20:49:39 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6 Astra 在安全研究方面表现隐隐逊色</title>
+<link>https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks</link>
+<guid isPermaLink="true">https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks</guid>
+<description>GPT-6 Astra 在安全研究方面表现隐隐逊色 (alignment.openai.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Thu, 05 Nov 2026 15:45:34 +0000</pubDate>
+</item>
+<item>
+<title>Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码</title>
 <link>https://www.aibase.com/news/32119</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32119</guid>
-<description>Sand.ai, a frontier company focused on video large-model R&amp;D, completed a $200 million A+ round led jointly by Cornerstone Capital and Wangsu Science &amp; Technology, with Shanghai state-backed investors including Pudong Venture Capital and Shanghai Guofang participating. (AIbase)</description>
+<description>Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Thu, 05 Nov 2026 07:56:30 +0000</pubDate>
 </item>
 <item>
-<title>From drawing to editing: OpenAI rounds out its image generation workflow with Images 2.6</title>
-<link>https://www.aibase.com/news/32116</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32116</guid>
-<description>OpenAI's Images 2.6 targets editing workflows with roughly 50% faster generation, GIF support and stronger multi-turn consistency, as users create 4 billion images weekly across ChatGPT, Codex and the API—over 500 million daily. (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 07:56:30 +0000</pubDate>
-</item>
-<item>
-<title>Qianwen AI Office upgrades its in-app editing and template capabilities, letting users modify Word, Excel and PPT files on demand</title>
-<link>https://www.aibase.com/news/32115</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32115</guid>
-<description>On November 5, Qwen AI Office upgraded in-app editing and custom templates for Word, Excel and PPT, letting users directly change text, tables, images, fonts and sizes while uploaded templates retain their original layout and logo. (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 07:56:30 +0000</pubDate>
-</item>
-<item>
-<title>LLMs stumble on real-time interaction! Nvidia and other institutions release Realtime-Bench: even the strongest model, GPT-6-Astra, succeeds only 44% of the time</title>
-<link>https://www.aibase.com/news/32114</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32114</guid>
-<description>NVIDIA and other institutions release Realtime-Bench, spanning 50 tasks across 8 scenario categories to test 12 frontier models on real-time perception and time-adaptive reasoning, where the best, GPT-6-Astra, reaches only a 44% success rate. (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 07:56:30 +0000</pubDate>
-</item>
-<item>
-<title>Gemini for Home now plugs into AT&amp;#038;T’s smart security system</title>
-<link>https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</guid>
-<description>AT&amp;T's Connected Life System is the first home security system to integrate with Gemini for Home, letting subscribers on the $29.99/month plan get AI event summaries and search recorded video history. (The Verge)</description>
+<title>Tencent Launches Hy4, One of the Leading Open-Source AI Models</title>
+<link>https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models</link>
+<guid isPermaLink="true">https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models</guid>
+<description>Tencent Launches Hy4, One of the Leading Open-Source AI Models</description>
 <category>Worth watching</category>
-<pubDate>Wed, 04 Nov 2026 20:23:24 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 20:21:43 +0000</pubDate>
 </item>
 <item>
-<title>KREV AI — An AI team that runs your ecommerce brand</title>
-<link>https://www.producthunt.com/products/krev</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/krev</guid>
-<description>The KREV AI page bills itself as "an AI team that runs your ecommerce brand," yet its body holds only a CAPTCHA security check, with no product details, data or readable content. (Product Hunt)</description>
+<title>作为双侧人工耳蜗使用者，我的心理物理学体验</title>
+<link>https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf</link>
+<guid isPermaLink="true">https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf</guid>
+<description>作为双侧人工耳蜗使用者，我的心理物理学体验 (claude.ai)</description>
 <category>Worth watching</category>
-<pubDate>Thu, 05 Nov 2026 07:48:53 +0000</pubDate>
-</item>
-<item>
-<title>Baidu open-sources 280B-parameter ERNIE 5.5 Flash Base, setting new SOTA for models of its size across multiple benchmarks</title>
-<link>https://www.aibase.com/news/32118</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32118</guid>
-<description>Baidu open-sourced ERNIE 5.5 Flash Base on November 5, a 280-billion-parameter MoE model with 14 billion active parameters pretrained on 33.5 trillion tokens that set same-size SOTA on multiple benchmarks. (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 07:56:30 +0000</pubDate>
-</item>
-<item>
-<title>Orphex MCP — Run your entire digital marketing stack via one unified MCP</title>
-<link>https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing</guid>
-<description>Orphex MCP's title claims one unified MCP can run an entire digital marketing stack, but the body is only a CAPTCHA security verification screen, leaving no substantive content to read. (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Thu, 05 Nov 2026 07:48:19 +0000</pubDate>
-</item>
-<item>
-<title>Trimming budgets, not strategy: Apple tightens the leash on internal AI spending</title>
-<link>https://www.aibase.com/news/32117</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32117</guid>
-<description>Apple in October cut some engineering teams’ daily AI allowance from $300 to $200—with future quotas of $100 or even $25 under discussion—while fiscal 2026 R&amp;D spending still grows, targeting token waste rather than AI strategy. (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 07:56:30 +0000</pubDate>
-</item>
-<item>
-<title>Qualcomm Cloud AI 100 Ultra: a 150W AI accelerator card with 128GB of memory and 548GB/s transfer speed</title>
-<link>https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra</link>
-<guid isPermaLink="true">https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra</guid>
-<description>Qualcomm Cloud AI 100 Ultra: a 150W AI accelerator card with 128GB of memory and 548GB/s transfer speed (www.qualcomm.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Thu, 05 Nov 2026 01:44:43 +0000</pubDate>
-</item>
-<item>
-<title>Everything Is an AI Scam Now</title>
-<link>https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now</link>
-<guid isPermaLink="true">https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now</guid>
-<description>Everything Is an AI Scam Now (www.davidralphlewis.co.uk)</description>
-<category>Multi-source buzz</category>
-<pubDate>Wed, 04 Nov 2026 23:04:46 +0000</pubDate>
-</item>
-<item>
-<title>Advances in Provable Reasoning for Large Language Models</title>
-<link>https://www.anthropic.com/research/provable-inference</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/provable-inference</guid>
-<description>Advances in Provable Reasoning for Large Language Models (www.anthropic.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Wed, 04 Nov 2026 19:37:46 +0000</pubDate>
-</item>
-<item>
-<title>Google hasn&amp;#8217;t figured out how to make AI pay like its search engine</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</guid>
-<description>Alphabet reports the fastest search-query growth in five years, yet Q3 Search revenue growth slowed from about 17% to 12% and paid clicks from 13% to 8%, with AI Mode monetizing below traditional search. (The Verge)</description>
-<category>Worth watching</category>
-<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 19:34:42 +0000</pubDate>
 </item>
 </channel>
 </rss>
