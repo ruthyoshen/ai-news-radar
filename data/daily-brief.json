@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T21:05:13.194195Z",
+  "generated_at": "2026-11-05T22:41:06.570540Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8561,
-      "importance": 0.8561,
-      "importance_score": 0.8561,
+      "score": 0.8521,
+      "importance": 0.8521,
+      "importance_score": 0.8521,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9786,
+        "recency": 0.9563,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8417,
-      "importance": 0.8417,
-      "importance_score": 0.8417,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9427,
+        "recency": 0.9212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8398,
+        "recency": 0.8207,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9267,
+        "recency": 0.9055,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,12 +348,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
       "story_id": "story_e4f862191cfe",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "url": "https://huggingface.co/blog/phonon-tts",
       "primary_url": "https://huggingface.co/blog/phonon-tts",
       "source": "Hugging Face Blog",
@@ -361,8 +361,8 @@
       "sources": [
         {
           "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
-          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-          "title_zh": null,
+          "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
           "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
           "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
           "summary": null,
@@ -383,8 +383,8 @@
       "items": [
         {
           "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
-          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-          "title_zh": null,
+          "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
           "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
           "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
           "summary": null,
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7375,
+        "recency": 0.7207,
         "story_heat": 0.0
       },
       "category": "official",
@@ -421,8 +421,8 @@
       "latest_at": "2026-11-05T00:00:00Z",
       "primary_item": {
         "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
-        "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-        "title_zh": null,
+        "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+        "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
         "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
         "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
         "summary": null,
@@ -435,12 +435,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
       "story_id": "story_2fb9f8919489",
-      "title": "New pull request overview page in public preview",
+      "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
       "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
       "primary_url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
       "source": "GitHub Changelog",
@@ -448,8 +448,8 @@
       "sources": [
         {
           "id": "951395a070151ffeb897674157f63461692438b9",
-          "title": "New pull request overview page in public preview",
-          "title_zh": null,
+          "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
+          "title_zh": "公共预览中的新拉取请求概述页面",
           "title_en": "New pull request overview page in public preview",
           "title_original": "New pull request overview page in public preview",
           "summary": null,
@@ -470,8 +470,8 @@
       "items": [
         {
           "id": "951395a070151ffeb897674157f63461692438b9",
-          "title": "New pull request overview page in public preview",
-          "title_zh": null,
+          "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
+          "title_zh": "公共预览中的新拉取请求概述页面",
           "title_en": "New pull request overview page in public preview",
           "title_original": "New pull request overview page in public preview",
           "summary": null,
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8278,
+        "recency": 0.8089,
         "story_heat": 0.0
       },
       "category": "official",
@@ -508,8 +508,8 @@
       "latest_at": "2026-11-05T08:00:00Z",
       "primary_item": {
         "id": "951395a070151ffeb897674157f63461692438b9",
-        "title": "New pull request overview page in public preview",
-        "title_zh": null,
+        "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
+        "title_zh": "公共预览中的新拉取请求概述页面",
         "title_en": "New pull request overview page in public preview",
         "title_original": "New pull request overview page in public preview",
         "summary": null,
@@ -522,12 +522,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
       "story_id": "story_44fc9c8ae05c",
-      "title": "Setting a new standard for responsible AI infrastructure",
+      "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
       "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "primary_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "source": "OpenAI News",
@@ -535,8 +535,8 @@
       "sources": [
         {
           "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
-          "title": "Setting a new standard for responsible AI infrastructure",
-          "title_zh": null,
+          "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+          "title_zh": "为负责任的人工智能基础设施设定新标准",
           "title_en": "Setting a new standard for responsible AI infrastructure",
           "title_original": "Setting a new standard for responsible AI infrastructure",
           "summary": null,
@@ -557,8 +557,8 @@
       "items": [
         {
           "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
-          "title": "Setting a new standard for responsible AI infrastructure",
-          "title_zh": null,
+          "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+          "title_zh": "为负责任的人工智能基础设施设定新标准",
           "title_en": "Setting a new standard for responsible AI infrastructure",
           "title_original": "Setting a new standard for responsible AI infrastructure",
           "summary": null,
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7591,
+        "recency": 0.7418,
         "story_heat": 0.0
       },
       "category": "official",
@@ -595,8 +595,8 @@
       "latest_at": "2026-11-05T02:00:00Z",
       "primary_item": {
         "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
-        "title": "Setting a new standard for responsible AI infrastructure",
-        "title_zh": null,
+        "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+        "title_zh": "为负责任的人工智能基础设施设定新标准",
         "title_en": "Setting a new standard for responsible AI infrastructure",
         "title_original": "Setting a new standard for responsible AI infrastructure",
         "summary": null,
@@ -609,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -661,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -695,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -747,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -781,7 +781,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -833,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -867,7 +867,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -919,15 +919,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9358,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -953,7 +953,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -1038,15 +1038,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6439,
-      "importance": 0.6439,
-      "importance_score": 0.6439,
+      "score": 0.64,
+      "importance": 0.64,
+      "importance_score": 0.64,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9733,
+        "recency": 0.9511,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1071,7 +1071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -1123,15 +1123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.8082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,7 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -1180,7 +1180,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-03T06:04:34Z",
-          "updated_at": "2026-11-05T21:01:59Z",
+          "updated_at": "2026-11-05T21:59:28Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1219,7 +1219,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-03T06:04:34Z",
-          "updated_at": "2026-11-05T21:01:59Z",
+          "updated_at": "2026-11-05T21:59:28Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1241,15 +1241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "score": 0.5924,
+      "importance": 0.5924,
+      "importance_score": 0.5924,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9992,
+        "recency": 0.99,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1257,7 +1257,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-05T20:49:39.518000Z",
-      "latest_at": "2026-11-05T21:01:59Z",
+      "latest_at": "2026-11-05T21:59:28Z",
       "primary_item": {
         "id": "f90059f11044b04670eb70d997be6bf96ac33a76",
         "title": "Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区 / Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
@@ -1274,7 +1274,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -1326,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.8082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1359,7 +1359,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -1444,15 +1444,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5915,
-      "importance": 0.5915,
-      "importance_score": 0.5915,
+      "score": 0.5874,
+      "importance": 0.5874,
+      "importance_score": 0.5874,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9849,
+        "recency": 0.9625,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1477,7 +1477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -1522,8 +1522,8 @@
         },
         {
           "id": "50d24487082a2689397959b0ea11db81af3d9fb4",
-          "title": "GPT-6 Astra covertly underperforms on safety research",
-          "title_zh": null,
+          "title": "GPT-6 Astra 在安全研究方面表现不佳 / GPT-6 Astra covertly underperforms on safety research",
+          "title_zh": "GPT-6 Astra 在安全研究方面表现不佳",
           "title_en": "GPT-6 Astra covertly underperforms on safety research",
           "title_original": "GPT-6 Astra covertly underperforms on safety research",
           "summary": null,
@@ -1578,8 +1578,8 @@
         },
         {
           "id": "50d24487082a2689397959b0ea11db81af3d9fb4",
-          "title": "GPT-6 Astra covertly underperforms on safety research",
-          "title_zh": null,
+          "title": "GPT-6 Astra 在安全研究方面表现不佳 / GPT-6 Astra covertly underperforms on safety research",
+          "title_zh": "GPT-6 Astra 在安全研究方面表现不佳",
           "title_en": "GPT-6 Astra covertly underperforms on safety research",
           "title_original": "GPT-6 Astra covertly underperforms on safety research",
           "summary": null,
@@ -1595,15 +1595,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5575,
-      "importance": 0.5575,
-      "importance_score": 0.5575,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.926,
+        "recency": 0.9048,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1628,7 +1628,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -1680,15 +1680,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.8082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1713,46 +1713,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
-      "story_id": "story_c234c4c4b200",
-      "title": "腾讯推出领先的开源人工智能模型之一Hy4 / Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models",
-      "primary_url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models",
+      "story_id": "story_c4922604118b",
+      "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "primary_url": "https://github.com/anthropics/claude-code/issues/107757",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "66f00258e3553cea0a41ea5a198f90a10e28ba2c",
-          "title": "腾讯推出领先的开源人工智能模型之一Hy4 / Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-          "title_zh": "腾讯推出领先的开源人工智能模型之一Hy4",
-          "title_en": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-          "title_original": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+          "id": "5e06951b96c5ad8f23b50fa02c14287a46656e6b",
+          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
+          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
+          "title_en": "Claude Code sends your email address to websites",
+          "title_original": "Claude Code sends your email address to websites",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models",
+          "url": "https://github.com/anthropics/claude-code/issues/107757",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-05T20:21:43Z",
+          "published_at": "2026-11-05T22:17:15Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "f23208bb0be7bd3deba034e26047b03531adb792",
-          "title": "腾讯推出领先的开源人工智能模型之一Hy4 / Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-          "title_zh": "腾讯推出领先的开源人工智能模型之一Hy4",
-          "title_en": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-          "title_original": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+          "id": "fc92f5b66586e4ad9d922b683a84b87f2b2fe1f9",
+          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
+          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
+          "title_en": "Claude Code sends your email address to websites",
+          "title_original": "Claude Code sends your email address to websites",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50383963",
+          "url": "https://news.ycombinator.com/item?id=50385272",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-05T20:21:43Z",
+          "published_at": "2026-11-05T22:17:15Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1764,66 +1764,66 @@
       ],
       "items": [
         {
-          "id": "66f00258e3553cea0a41ea5a198f90a10e28ba2c",
-          "title": "腾讯推出领先的开源人工智能模型之一Hy4 / Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-          "title_zh": "腾讯推出领先的开源人工智能模型之一Hy4",
-          "title_en": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-          "title_original": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+          "id": "5e06951b96c5ad8f23b50fa02c14287a46656e6b",
+          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
+          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
+          "title_en": "Claude Code sends your email address to websites",
+          "title_original": "Claude Code sends your email address to websites",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models",
+          "url": "https://github.com/anthropics/claude-code/issues/107757",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-05T20:21:43Z",
+          "published_at": "2026-11-05T22:17:15Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "f23208bb0be7bd3deba034e26047b03531adb792",
-          "title": "腾讯推出领先的开源人工智能模型之一Hy4 / Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-          "title_zh": "腾讯推出领先的开源人工智能模型之一Hy4",
-          "title_en": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-          "title_original": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+          "id": "fc92f5b66586e4ad9d922b683a84b87f2b2fe1f9",
+          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
+          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
+          "title_en": "Claude Code sends your email address to websites",
+          "title_original": "Claude Code sends your email address to websites",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50383963",
+          "url": "https://news.ycombinator.com/item?id=50385272",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-05T20:21:43Z",
+          "published_at": "2026-11-05T22:17:15Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9896,
+        "recency": 0.9943,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-05T20:21:43Z",
-      "latest_at": "2026-11-05T20:21:43Z",
+      "earliest_at": "2026-11-05T22:17:15Z",
+      "latest_at": "2026-11-05T22:17:15Z",
       "primary_item": {
-        "id": "66f00258e3553cea0a41ea5a198f90a10e28ba2c",
-        "title": "腾讯推出领先的开源人工智能模型之一Hy4 / Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-        "title_zh": "腾讯推出领先的开源人工智能模型之一Hy4",
-        "title_en": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-        "title_original": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+        "id": "5e06951b96c5ad8f23b50fa02c14287a46656e6b",
+        "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
+        "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
+        "title_en": "Claude Code sends your email address to websites",
+        "title_original": "Claude Code sends your email address to websites",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models",
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1831,7 +1831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     },
     {
@@ -1916,15 +1916,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9785,
+        "recency": 0.9561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1949,7 +1949,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T21:06:10.852747Z"
+        "scored_at": "2026-11-05T22:42:05.022864Z"
       }
     }
   ]
