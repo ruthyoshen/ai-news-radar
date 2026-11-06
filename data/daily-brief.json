@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T03:26:06.643495Z",
+  "generated_at": "2026-11-06T07:58:04.667904Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8573,
-      "importance": 0.8573,
-      "importance_score": 0.8573,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9516,
+        "recency": 0.8913,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8417,
-      "importance": 0.8417,
-      "importance_score": 0.8417,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8982,
+        "recency": 0.8413,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8929,
+        "recency": 0.8363,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.956,
+        "recency": 0.8954,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8601,
+        "recency": 0.8056,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9536,
+        "recency": 0.8931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8601,
+        "recency": 0.8056,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,30 +609,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
-      "story_id": "story_5879fb423a80",
-      "title": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
-      "url": "https://www.aibase.com/news/32129",
-      "primary_url": "https://www.aibase.com/news/32129",
+      "story_id": "story_1f214e02bb3b",
+      "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+      "url": "https://www.aibase.com/news/32148",
+      "primary_url": "https://www.aibase.com/news/32148",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ff44c76d9ee6df653dd6ad1b0be51246c0c68fc3",
-          "title": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
-          "title_zh": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
+          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
           "title_en": null,
-          "title_original": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32129",
+          "url": "https://www.aibase.com/news/32148",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -643,18 +643,18 @@
       ],
       "items": [
         {
-          "id": "ff44c76d9ee6df653dd6ad1b0be51246c0c68fc3",
-          "title": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
-          "title_zh": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
+          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
           "title_en": null,
-          "title_original": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32129",
+          "url": "https://www.aibase.com/news/32148",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -677,17 +677,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-06T03:26:06.643495Z",
-      "latest_at": "2026-11-06T03:26:06.643495Z",
+      "earliest_at": "2026-11-06T07:58:04.667904Z",
+      "latest_at": "2026-11-06T07:58:04.667904Z",
       "primary_item": {
-        "id": "ff44c76d9ee6df653dd6ad1b0be51246c0c68fc3",
-        "title": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
-        "title_zh": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+        "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
+        "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
+        "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
         "title_en": null,
-        "title_original": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+        "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32129",
+        "url": "https://www.aibase.com/news/32148",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -695,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -747,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7663,
+        "recency": 0.7177,
         "story_heat": 0.0
       },
       "category": "official",
@@ -782,7 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -834,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8065,
+      "importance": 0.8065,
+      "importance_score": 0.8065,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8455,
+        "recency": 0.7919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -869,30 +869,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
-      "story_id": "story_9cff66b41344",
-      "title": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
-      "url": "https://www.aibase.com/news/32128",
-      "primary_url": "https://www.aibase.com/news/32128",
+      "story_id": "story_53619c63b162",
+      "title": "OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态",
+      "url": "https://www.aibase.com/news/32141",
+      "primary_url": "https://www.aibase.com/news/32141",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "eaee0cad8d4358b62ed384f2554e31839a21b647",
-          "title": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
-          "title_zh": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+          "id": "7b505a080e80bb0f8dd905f20cab9fadad1ad159",
+          "title": "OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态",
+          "title_zh": "OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态",
           "title_en": null,
-          "title_original": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+          "title_original": "OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32128",
+          "url": "https://www.aibase.com/news/32141",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -903,18 +903,18 @@
       ],
       "items": [
         {
-          "id": "eaee0cad8d4358b62ed384f2554e31839a21b647",
-          "title": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
-          "title_zh": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+          "id": "7b505a080e80bb0f8dd905f20cab9fadad1ad159",
+          "title": "OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态",
+          "title_zh": "OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态",
           "title_en": null,
-          "title_original": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+          "title_original": "OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32128",
+          "url": "https://www.aibase.com/news/32141",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -937,17 +937,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-06T03:26:06.643495Z",
-      "latest_at": "2026-11-06T03:26:06.643495Z",
+      "earliest_at": "2026-11-06T07:58:04.667904Z",
+      "latest_at": "2026-11-06T07:58:04.667904Z",
       "primary_item": {
-        "id": "eaee0cad8d4358b62ed384f2554e31839a21b647",
-        "title": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
-        "title_zh": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+        "id": "7b505a080e80bb0f8dd905f20cab9fadad1ad159",
+        "title": "OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态",
+        "title_zh": "OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态",
         "title_en": null,
-        "title_original": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+        "title_original": "OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32128",
+        "url": "https://www.aibase.com/news/32141",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -955,7 +955,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -1007,15 +1007,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7553,
+        "recency": 0.7074,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1042,7 +1042,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
+      }
+    },
+    {
+      "story_id": "story_55769fea568e",
+      "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+      "url": "https://www.aibase.com/news/32152",
+      "primary_url": "https://www.aibase.com/news/32152",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3c686d99a15a22bfda6ec1142a9fa16847e47806",
+          "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+          "title_zh": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+          "title_en": null,
+          "title_original": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32152",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T07:58:04.667904Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3c686d99a15a22bfda6ec1142a9fa16847e47806",
+          "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+          "title_zh": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+          "title_en": null,
+          "title_original": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32152",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T07:58:04.667904Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T07:58:04.667904Z",
+      "latest_at": "2026-11-06T07:58:04.667904Z",
+      "primary_item": {
+        "id": "3c686d99a15a22bfda6ec1142a9fa16847e47806",
+        "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+        "title_zh": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+        "title_en": null,
+        "title_original": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32152",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -1094,15 +1180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7553,
+        "recency": 0.7074,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1129,30 +1215,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
-      "story_id": "story_aca14cbab3a8",
-      "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
-      "url": "https://www.aibase.com/news/32134",
-      "primary_url": "https://www.aibase.com/news/32134",
+      "story_id": "story_2c748b272af5",
+      "title": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
+      "url": "https://www.aibase.com/news/32144",
+      "primary_url": "https://www.aibase.com/news/32144",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c52b86afb476972ff7ef986c7c22d1acbdadc7dd",
-          "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
-          "title_zh": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
+          "id": "2a6f6b97045d0f196977e2fb9a5240681a749402",
+          "title": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
+          "title_zh": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
           "title_en": null,
-          "title_original": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
+          "title_original": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32134",
+          "url": "https://www.aibase.com/news/32144",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1163,18 +1249,18 @@
       ],
       "items": [
         {
-          "id": "c52b86afb476972ff7ef986c7c22d1acbdadc7dd",
-          "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
-          "title_zh": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
+          "id": "2a6f6b97045d0f196977e2fb9a5240681a749402",
+          "title": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
+          "title_zh": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
           "title_en": null,
-          "title_original": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
+          "title_original": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32134",
+          "url": "https://www.aibase.com/news/32144",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1197,17 +1283,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-06T03:26:06.643495Z",
-      "latest_at": "2026-11-06T03:26:06.643495Z",
+      "earliest_at": "2026-11-06T07:58:04.667904Z",
+      "latest_at": "2026-11-06T07:58:04.667904Z",
       "primary_item": {
-        "id": "c52b86afb476972ff7ef986c7c22d1acbdadc7dd",
-        "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
-        "title_zh": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
+        "id": "2a6f6b97045d0f196977e2fb9a5240681a749402",
+        "title": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
+        "title_zh": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
         "title_en": null,
-        "title_original": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
+        "title_original": "三星砸 42 亿建数据中心，算力的子弹先留给自己人",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32134",
+        "url": "https://www.aibase.com/news/32144",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1215,30 +1301,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
-      "story_id": "story_0123aa56b1a8",
-      "title": "Meta面向美国用户推出Muse AI化身视频聊天功能",
-      "url": "https://www.aibase.com/news/32127",
-      "primary_url": "https://www.aibase.com/news/32127",
+      "story_id": "story_8d3a217a7e3e",
+      "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
+      "url": "https://www.aibase.com/news/32147",
+      "primary_url": "https://www.aibase.com/news/32147",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d339a4edaf2465305438bd2fc1c7be67f1a28aea",
-          "title": "Meta面向美国用户推出Muse AI化身视频聊天功能",
-          "title_zh": "Meta面向美国用户推出Muse AI化身视频聊天功能",
+          "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
+          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
+          "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
           "title_en": null,
-          "title_original": "Meta面向美国用户推出Muse AI化身视频聊天功能",
+          "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32127",
+          "url": "https://www.aibase.com/news/32147",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1249,18 +1335,18 @@
       ],
       "items": [
         {
-          "id": "d339a4edaf2465305438bd2fc1c7be67f1a28aea",
-          "title": "Meta面向美国用户推出Muse AI化身视频聊天功能",
-          "title_zh": "Meta面向美国用户推出Muse AI化身视频聊天功能",
+          "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
+          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
+          "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
           "title_en": null,
-          "title_original": "Meta面向美国用户推出Muse AI化身视频聊天功能",
+          "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32127",
+          "url": "https://www.aibase.com/news/32147",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1283,17 +1369,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-06T03:26:06.643495Z",
-      "latest_at": "2026-11-06T03:26:06.643495Z",
+      "earliest_at": "2026-11-06T07:58:04.667904Z",
+      "latest_at": "2026-11-06T07:58:04.667904Z",
       "primary_item": {
-        "id": "d339a4edaf2465305438bd2fc1c7be67f1a28aea",
-        "title": "Meta面向美国用户推出Muse AI化身视频聊天功能",
-        "title_zh": "Meta面向美国用户推出Muse AI化身视频聊天功能",
+        "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
+        "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
+        "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
         "title_en": null,
-        "title_original": "Meta面向美国用户推出Muse AI化身视频聊天功能",
+        "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32127",
+        "url": "https://www.aibase.com/news/32147",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1301,93 +1387,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
-      }
-    },
-    {
-      "story_id": "story_e89f74523a8f",
-      "title": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
-      "url": "https://www.aibase.com/news/32132",
-      "primary_url": "https://www.aibase.com/news/32132",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dd7afc59e23a6f015dcbea9f3da45a13f0cb147c",
-          "title": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
-          "title_zh": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
-          "title_en": null,
-          "title_original": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32132",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "dd7afc59e23a6f015dcbea9f3da45a13f0cb147c",
-          "title": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
-          "title_zh": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
-          "title_en": null,
-          "title_original": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32132",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T03:26:06.643495Z",
-      "latest_at": "2026-11-06T03:26:06.643495Z",
-      "primary_item": {
-        "id": "dd7afc59e23a6f015dcbea9f3da45a13f0cb147c",
-        "title": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
-        "title_zh": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
-        "title_en": null,
-        "title_original": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32132",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -1472,15 +1472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6286,
-      "importance": 0.6286,
-      "importance_score": 0.6286,
+      "score": 0.6185,
+      "importance": 0.6185,
+      "importance_score": 0.6185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.888,
+        "recency": 0.8318,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1505,30 +1505,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
-      "story_id": "story_6ce72fe505cc",
-      "title": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
-      "url": "https://www.aibase.com/news/32140",
-      "primary_url": "https://www.aibase.com/news/32140",
+      "story_id": "story_8cfe62ffa8a2",
+      "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+      "url": "https://www.aibase.com/news/32150",
+      "primary_url": "https://www.aibase.com/news/32150",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "03f778d9aa411f12a5db4405d627a35e601570ab",
-          "title": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
-          "title_zh": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
+          "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
+          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+          "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
           "title_en": null,
-          "title_original": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
+          "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32140",
+          "url": "https://www.aibase.com/news/32150",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1539,18 +1539,18 @@
       ],
       "items": [
         {
-          "id": "03f778d9aa411f12a5db4405d627a35e601570ab",
-          "title": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
-          "title_zh": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
+          "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
+          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+          "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
           "title_en": null,
-          "title_original": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
+          "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32140",
+          "url": "https://www.aibase.com/news/32150",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1573,17 +1573,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-06T03:26:06.643495Z",
-      "latest_at": "2026-11-06T03:26:06.643495Z",
+      "earliest_at": "2026-11-06T07:58:04.667904Z",
+      "latest_at": "2026-11-06T07:58:04.667904Z",
       "primary_item": {
-        "id": "03f778d9aa411f12a5db4405d627a35e601570ab",
-        "title": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
-        "title_zh": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
+        "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
+        "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
+        "title_zh": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
         "title_en": null,
-        "title_original": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
+        "title_original": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32140",
+        "url": "https://www.aibase.com/news/32150",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1591,7 +1591,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
@@ -1615,7 +1615,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-03T06:04:34Z",
-          "updated_at": "2026-11-06T03:23:51Z",
+          "updated_at": "2026-11-06T07:50:11Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1654,7 +1654,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-03T06:04:34Z",
-          "updated_at": "2026-11-06T03:23:51Z",
+          "updated_at": "2026-11-06T07:50:11Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1676,15 +1676,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9995,
+        "recency": 0.9981,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1692,7 +1692,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-05T20:49:39.518000Z",
-      "latest_at": "2026-11-06T03:23:51Z",
+      "latest_at": "2026-11-06T07:50:11Z",
       "primary_item": {
         "id": "f90059f11044b04670eb70d997be6bf96ac33a76",
         "title": "Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区 / Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
@@ -1709,30 +1709,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     },
     {
-      "story_id": "story_b477fedbe1d7",
-      "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
-      "url": "https://www.aibase.com/news/32135",
-      "primary_url": "https://www.aibase.com/news/32135",
+      "story_id": "story_1d465e284ffb",
+      "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
+      "url": "https://www.aibase.com/news/32145",
+      "primary_url": "https://www.aibase.com/news/32145",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8ebf7da3bcf78b11309cd920eb21444ab8dbe9e3",
-          "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
-          "title_zh": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
+          "id": "b894fca77eff8b2f8a72b2c084eb6890e536f9bf",
+          "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
+          "title_zh": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
           "title_en": null,
-          "title_original": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
+          "title_original": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32135",
+          "url": "https://www.aibase.com/news/32145",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1743,18 +1743,18 @@
       ],
       "items": [
         {
-          "id": "8ebf7da3bcf78b11309cd920eb21444ab8dbe9e3",
-          "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
-          "title_zh": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
+          "id": "b894fca77eff8b2f8a72b2c084eb6890e536f9bf",
+          "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
+          "title_zh": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
           "title_en": null,
-          "title_original": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
+          "title_original": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32135",
+          "url": "https://www.aibase.com/news/32145",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-06T03:26:06.643495Z",
+          "published_at": "2026-11-06T07:58:04.667904Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1777,17 +1777,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-06T03:26:06.643495Z",
-      "latest_at": "2026-11-06T03:26:06.643495Z",
+      "earliest_at": "2026-11-06T07:58:04.667904Z",
+      "latest_at": "2026-11-06T07:58:04.667904Z",
       "primary_item": {
-        "id": "8ebf7da3bcf78b11309cd920eb21444ab8dbe9e3",
-        "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
-        "title_zh": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
+        "id": "b894fca77eff8b2f8a72b2c084eb6890e536f9bf",
+        "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
+        "title_zh": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
         "title_en": null,
-        "title_original": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
+        "title_original": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32135",
+        "url": "https://www.aibase.com/news/32145",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1795,7 +1795,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T03:37:35.372119Z"
+        "scored_at": "2026-11-06T08:13:35.646245Z"
       }
     }
   ]
