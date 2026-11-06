@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T20:28:12.557140Z",
+  "generated_at": "2026-11-06T22:09:19.228168Z",
   "date": "2026-11-07",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-06T20:27:26.954684Z"
+      "observed_at": "2026-11-06T22:08:34.685029Z"
     },
     {
       "id": "project_94b4fb19a6b7",
@@ -27,9 +27,9 @@
       "recommend_reason_zh": "体验它主打的「Custom cursors for Mac」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Custom cursors for Mac\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-06T01:53:45Z",
-      "updated_at": "2026-11-06T20:21:56Z",
+      "updated_at": "2026-11-06T20:45:51Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T20:28:01.671864Z"
+      "observed_at": "2026-11-06T22:09:08.676826Z"
     },
     {
       "id": "project_876f4401e17e",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-06T20:27:26.954684Z"
+      "observed_at": "2026-11-06T22:08:34.685029Z"
     },
     {
       "id": "project_53c5ac171932",
@@ -57,7 +57,7 @@
       "published_at": "2026-09-09T03:42:27Z",
       "updated_at": "2026-11-06T19:48:32Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T20:28:01.671864Z"
+      "observed_at": "2026-11-06T22:09:08.676826Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 18,
-      "duration_ms": 1704,
+      "duration_ms": 1940,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 149,
+      "duration_ms": 114,
       "error": null
     }
   ]

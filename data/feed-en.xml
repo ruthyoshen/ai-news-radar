@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 20:27:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 22:08:34 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
@@ -117,7 +117,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/supplyzpro-the-conversational-erp</guid>
 <description>The ERP you never need to open (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 06 Nov 2026 20:25:25 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 22:05:10 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态</title>
@@ -133,7 +133,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/cursor-craft</guid>
 <description>Custom cursors for Mac (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 06 Nov 2026 20:21:56 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 20:45:51 +0000</pubDate>
 </item>
 <item>
 <title>Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案</title>
@@ -152,20 +152,20 @@
 <pubDate>Fri, 06 Nov 2026 10:52:42 +0000</pubDate>
 </item>
 <item>
-<title>Memorilla: Latent Semantic Memory for LLMs</title>
-<link>https://arxiv.org/abs/2610.21375</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.21375</guid>
-<description>Memorilla: Latent Semantic Memory for LLMs</description>
+<title>SketchAgentBench – evaluate LLMs on 3D spatial reasoning</title>
+<link>https://sketchagent.dev</link>
+<guid isPermaLink="true">https://sketchagent.dev</guid>
+<description>SketchAgentBench – evaluate LLMs on 3D spatial reasoning</description>
 <category>Worth watching</category>
-<pubDate>Fri, 06 Nov 2026 18:03:33 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 20:28:24 +0000</pubDate>
 </item>
 <item>
-<title>古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元</title>
-<link>https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</link>
-<guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</guid>
-<description>古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元 (finance.yahoo.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Fri, 06 Nov 2026 02:25:57 +0000</pubDate>
+<title>University libraries are being swarmed by AI bots, putting public access at risk</title>
+<link>https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287</link>
+<guid isPermaLink="true">https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287</guid>
+<description>University libraries are being swarmed by AI bots, putting public access at risk</description>
+<category>Worth watching</category>
+<pubDate>Fri, 06 Nov 2026 14:13:09 +0000</pubDate>
 </item>
 </channel>
 </rss>
