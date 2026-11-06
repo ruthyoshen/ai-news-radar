@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T22:41:54.612767Z",
+  "generated_at": "2026-11-06T03:26:55.539237Z",
   "date": "2026-11-06",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-05T22:41:06.570540Z"
+      "observed_at": "2026-11-06T03:26:06.643495Z"
     },
     {
-      "id": "project_3a5002e0320f",
-      "project_name": "Stitch.ai",
-      "url": "https://www.producthunt.com/products/stitch-ai",
-      "summary": "Your AI workspace for mail, calendar, notes, tasks and more",
+      "id": "project_0f001285637e",
+      "project_name": "Rerun",
+      "url": "https://www.producthunt.com/products/rerun-2",
+      "summary": "Turn your AI subscriptions into a team of coworkers",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your AI workspace for mail, calendar, notes, tasks and more」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your AI workspace for mail, calendar, notes, tasks and more\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-03T06:04:34Z",
-      "updated_at": "2026-11-05T21:59:28Z",
+      "recommend_reason_zh": "体验它主打的「Turn your AI subscriptions into a team of coworkers」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Turn your AI subscriptions into a team of coworkers\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-03T13:00:39Z",
+      "updated_at": "2026-11-06T03:24:44Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-05T22:41:43.865492Z"
+      "observed_at": "2026-11-06T03:26:44.345476Z"
     },
     {
       "id": "project_b22ad9f6b573",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-05T22:41:06.570540Z"
+      "observed_at": "2026-11-06T03:26:06.643495Z"
     },
     {
-      "id": "project_74d9f5c0d635",
-      "project_name": "Clocknext",
-      "url": "https://www.producthunt.com/products/clocknext",
-      "summary": "Pricing and Billing Infrastructure for AI Agents",
+      "id": "project_c3121311bd95",
+      "project_name": "Nemotron 3.5 Transcribe",
+      "url": "https://www.producthunt.com/products/nvidia",
+      "summary": "Intelligent Transcription with a Speech LLM",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Pricing and Billing Infrastructure for AI Agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Pricing and Billing Infrastructure for AI Agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-02T11:41:56Z",
-      "updated_at": "2026-11-05T22:38:16Z",
+      "recommend_reason_zh": "用一段自己的录音试试转写，看看准确度是否满足你的需求。",
+      "recommend_reason_en": "Try its transcription on a recording of your own and check whether the accuracy meets your needs.",
+      "published_at": "2026-11-05T04:51:07Z",
+      "updated_at": "2026-11-06T03:24:41Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-05T22:41:43.865492Z"
+      "observed_at": "2026-11-06T03:26:44.345476Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1576,
+      "duration_ms": 1524,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 95,
+      "duration_ms": 189,
       "error": null
     }
   ]

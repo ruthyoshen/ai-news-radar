@@ -1,8 +1,182 @@
 {
-  "generated_at": "2026-11-05T22:41:06.570540Z",
+  "generated_at": "2026-11-06T03:26:06.643495Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_6a48686fb246",
+      "title": "Codex CLI 0.167.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "88677f33f1069dded4b9389443a6b9d0786a0f3b",
+          "title": "Codex CLI 0.167.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.167.0",
+          "title_original": "Codex CLI 0.167.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "88677f33f1069dded4b9389443a6b9d0786a0f3b",
+          "title": "Codex CLI 0.167.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.167.0",
+          "title_original": "Codex CLI 0.167.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8573,
+      "importance": 0.8573,
+      "importance_score": 0.8573,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9516,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T00:00:00Z",
+      "latest_at": "2026-11-06T00:00:00Z",
+      "primary_item": {
+        "id": "88677f33f1069dded4b9389443a6b9d0786a0f3b",
+        "title": "Codex CLI 0.167.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.167.0",
+        "title_original": "Codex CLI 0.167.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T03:37:35.372119Z"
+      }
+    },
+    {
+      "story_id": "story_65d1d501dd25",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "primary_url": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ba025fbad02a10169c191970e604d56009173d01",
+          "title": "Cult.fit builds operational muscle with Codex",
+          "title_zh": null,
+          "title_en": "Cult.fit builds operational muscle with Codex",
+          "title_original": "Cult.fit builds operational muscle with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T20:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "ba025fbad02a10169c191970e604d56009173d01",
+          "title": "Cult.fit builds operational muscle with Codex",
+          "title_zh": null,
+          "title_en": "Cult.fit builds operational muscle with Codex",
+          "title_original": "Cult.fit builds operational muscle with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T20:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8982,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T20:00:00Z",
+      "latest_at": "2026-11-05T20:00:00Z",
+      "primary_item": {
+        "id": "ba025fbad02a10169c191970e604d56009173d01",
+        "title": "Cult.fit builds operational muscle with Codex",
+        "title_zh": null,
+        "title_en": "Cult.fit builds operational muscle with Codex",
+        "title_original": "Cult.fit builds operational muscle with Codex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/cultfit-builds-with-codex",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T03:37:35.372119Z"
+      }
+    },
     {
       "story_id": "story_3ce30504df16",
       "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
@@ -52,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9563,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +261,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
+      }
+    },
+    {
+      "story_id": "story_ed0675af196e",
+      "title": "Usage metrics API adds code review details and addressed rate",
+      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+      "primary_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
+          "title": "Usage metrics API adds code review details and addressed rate",
+          "title_zh": null,
+          "title_en": "Usage metrics API adds code review details and addressed rate",
+          "title_original": "Usage metrics API adds code review details and addressed rate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:19:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
+          "title": "Usage metrics API adds code review details and addressed rate",
+          "title_zh": null,
+          "title_en": "Usage metrics API adds code review details and addressed rate",
+          "title_original": "Usage metrics API adds code review details and addressed rate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:19:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.956,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T00:19:07Z",
+      "latest_at": "2026-11-06T00:19:07Z",
+      "primary_item": {
+        "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
+        "title": "Usage metrics API adds code review details and addressed rate",
+        "title_zh": null,
+        "title_en": "Usage metrics API adds code review details and addressed rate",
+        "title_original": "Usage metrics API adds code review details and addressed rate",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
@@ -139,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9212,
+        "recency": 0.8601,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +435,267 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
+      }
+    },
+    {
+      "story_id": "story_66e7edfe1c39",
+      "title": "Usage metrics API flags telemetry and version gaps",
+      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+      "primary_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
+          "title": "Usage metrics API flags telemetry and version gaps",
+          "title_zh": null,
+          "title_en": "Usage metrics API flags telemetry and version gaps",
+          "title_original": "Usage metrics API flags telemetry and version gaps",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:08:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
+          "title": "Usage metrics API flags telemetry and version gaps",
+          "title_zh": null,
+          "title_en": "Usage metrics API flags telemetry and version gaps",
+          "title_original": "Usage metrics API flags telemetry and version gaps",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:08:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9536,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T00:08:31Z",
+      "latest_at": "2026-11-06T00:08:31Z",
+      "primary_item": {
+        "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
+        "title": "Usage metrics API flags telemetry and version gaps",
+        "title_zh": null,
+        "title_en": "Usage metrics API flags telemetry and version gaps",
+        "title_original": "Usage metrics API flags telemetry and version gaps",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T03:37:35.372119Z"
+      }
+    },
+    {
+      "story_id": "story_c56e1527103f",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "primary_url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0d21f3013b6577a82dfdd83b78d72606164b5b3f",
+          "title": "Australian universities are creating AI-native graduates",
+          "title_zh": null,
+          "title_en": "Australian universities are creating AI-native graduates",
+          "title_original": "Australian universities are creating AI-native graduates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0d21f3013b6577a82dfdd83b78d72606164b5b3f",
+          "title": "Australian universities are creating AI-native graduates",
+          "title_zh": null,
+          "title_en": "Australian universities are creating AI-native graduates",
+          "title_original": "Australian universities are creating AI-native graduates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8601,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T17:00:00Z",
+      "latest_at": "2026-11-05T17:00:00Z",
+      "primary_item": {
+        "id": "0d21f3013b6577a82dfdd83b78d72606164b5b3f",
+        "title": "Australian universities are creating AI-native graduates",
+        "title_zh": null,
+        "title_en": "Australian universities are creating AI-native graduates",
+        "title_original": "Australian universities are creating AI-native graduates",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T03:37:35.372119Z"
+      }
+    },
+    {
+      "story_id": "story_5879fb423a80",
+      "title": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+      "url": "https://www.aibase.com/news/32129",
+      "primary_url": "https://www.aibase.com/news/32129",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ff44c76d9ee6df653dd6ad1b0be51246c0c68fc3",
+          "title": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+          "title_zh": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+          "title_en": null,
+          "title_original": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32129",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T03:26:06.643495Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ff44c76d9ee6df653dd6ad1b0be51246c0c68fc3",
+          "title": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+          "title_zh": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+          "title_en": null,
+          "title_original": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32129",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T03:26:06.643495Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T03:26:06.643495Z",
+      "latest_at": "2026-11-06T03:26:06.643495Z",
+      "primary_item": {
+        "id": "ff44c76d9ee6df653dd6ad1b0be51246c0c68fc3",
+        "title": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+        "title_zh": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+        "title_en": null,
+        "title_original": "Airbnb宣布将于2027年上半年推出定制化AI旅行代理",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32129",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
@@ -226,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8207,
+        "recency": 0.7663,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
@@ -313,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9055,
+        "recency": 0.8455,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,67 +869,153 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
-      "story_id": "story_e4f862191cfe",
-      "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "primary_url": "https://huggingface.co/blog/phonon-tts",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9cff66b41344",
+      "title": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+      "url": "https://www.aibase.com/news/32128",
+      "primary_url": "https://www.aibase.com/news/32128",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
-          "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-          "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
-          "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-          "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "id": "eaee0cad8d4358b62ed384f2554e31839a21b647",
+          "title": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+          "title_zh": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+          "title_en": null,
+          "title_original": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/phonon-tts",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T00:00:00Z",
+          "url": "https://www.aibase.com/news/32128",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
-          "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-          "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
-          "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-          "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "id": "eaee0cad8d4358b62ed384f2554e31839a21b647",
+          "title": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+          "title_zh": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+          "title_en": null,
+          "title_original": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/phonon-tts",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T00:00:00Z",
+          "url": "https://www.aibase.com/news/32128",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T03:26:06.643495Z",
+      "latest_at": "2026-11-06T03:26:06.643495Z",
+      "primary_item": {
+        "id": "eaee0cad8d4358b62ed384f2554e31839a21b647",
+        "title": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+        "title_zh": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+        "title_en": null,
+        "title_original": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32128",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T03:37:35.372119Z"
+      }
+    },
+    {
+      "story_id": "story_6708e526ca4d",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "primary_url": "https://openai.com/index/merge-builds-with-openai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c20af2b87cce5b46f28c558e27203ad8dc7061d7",
+          "title": "Merge builds product and business tools with OpenAI technology",
+          "title_zh": null,
+          "title_en": "Merge builds product and business tools with OpenAI technology",
+          "title_original": "Merge builds product and business tools with OpenAI technology",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/merge-builds-with-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c20af2b87cce5b46f28c558e27203ad8dc7061d7",
+          "title": "Merge builds product and business tools with OpenAI technology",
+          "title_zh": null,
+          "title_en": "Merge builds product and business tools with OpenAI technology",
+          "title_original": "Merge builds product and business tools with OpenAI technology",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/merge-builds-with-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7207,
+        "ai_relevance": 0.91,
+        "recency": 0.7553,
         "story_heat": 0.0
       },
       "category": "official",
@@ -417,25 +1024,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T00:00:00Z",
-      "latest_at": "2026-11-05T00:00:00Z",
+      "earliest_at": "2026-11-05T08:00:00Z",
+      "latest_at": "2026-11-05T08:00:00Z",
       "primary_item": {
-        "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
-        "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-        "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
-        "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-        "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+        "id": "c20af2b87cce5b46f28c558e27203ad8dc7061d7",
+        "title": "Merge builds product and business tools with OpenAI technology",
+        "title_zh": null,
+        "title_en": "Merge builds product and business tools with OpenAI technology",
+        "title_original": "Merge builds product and business tools with OpenAI technology",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/phonon-tts",
-        "source": "Hugging Face Blog",
+        "url": "https://openai.com/index/merge-builds-with-openai",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
@@ -487,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8089,
+        "recency": 0.7553,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,117 +1129,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
-      "story_id": "story_44fc9c8ae05c",
-      "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "primary_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
-          "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
-          "title_zh": "为负责任的人工智能基础设施设定新标准",
-          "title_en": "Setting a new standard for responsible AI infrastructure",
-          "title_original": "Setting a new standard for responsible AI infrastructure",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T02:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
-          "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
-          "title_zh": "为负责任的人工智能基础设施设定新标准",
-          "title_en": "Setting a new standard for responsible AI infrastructure",
-          "title_original": "Setting a new standard for responsible AI infrastructure",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T02:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7418,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T02:00:00Z",
-      "latest_at": "2026-11-05T02:00:00Z",
-      "primary_item": {
-        "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
-        "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
-        "title_zh": "为负责任的人工智能基础设施设定新标准",
-        "title_en": "Setting a new standard for responsible AI infrastructure",
-        "title_original": "Setting a new standard for responsible AI infrastructure",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
-      }
-    },
-    {
-      "story_id": "story_e4e99ccb9f67",
-      "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
-      "url": "https://www.aibase.com/news/32125",
-      "primary_url": "https://www.aibase.com/news/32125",
+      "story_id": "story_aca14cbab3a8",
+      "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
+      "url": "https://www.aibase.com/news/32134",
+      "primary_url": "https://www.aibase.com/news/32134",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
-          "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
-          "title_zh": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "id": "c52b86afb476972ff7ef986c7c22d1acbdadc7dd",
+          "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
+          "title_zh": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
           "title_en": null,
-          "title_original": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "title_original": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32125",
+          "url": "https://www.aibase.com/news/32134",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T18:05:13.194195Z",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -643,33 +1163,33 @@
       ],
       "items": [
         {
-          "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
-          "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
-          "title_zh": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "id": "c52b86afb476972ff7ef986c7c22d1acbdadc7dd",
+          "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
+          "title_zh": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
           "title_en": null,
-          "title_original": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "title_original": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32125",
+          "url": "https://www.aibase.com/news/32134",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T18:05:13.194195Z",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9358,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -677,17 +1197,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T18:05:13.194195Z",
-      "latest_at": "2026-11-05T18:05:13.194195Z",
+      "earliest_at": "2026-11-06T03:26:06.643495Z",
+      "latest_at": "2026-11-06T03:26:06.643495Z",
       "primary_item": {
-        "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
-        "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
-        "title_zh": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+        "id": "c52b86afb476972ff7ef986c7c22d1acbdadc7dd",
+        "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
+        "title_zh": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
         "title_en": null,
-        "title_original": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+        "title_original": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32125",
+        "url": "https://www.aibase.com/news/32134",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -695,30 +1215,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
-      "story_id": "story_13b665bd92e7",
-      "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
-      "url": "https://www.aibase.com/news/32123",
-      "primary_url": "https://www.aibase.com/news/32123",
+      "story_id": "story_0123aa56b1a8",
+      "title": "Meta面向美国用户推出Muse AI化身视频聊天功能",
+      "url": "https://www.aibase.com/news/32127",
+      "primary_url": "https://www.aibase.com/news/32127",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
-          "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
-          "title_zh": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "id": "d339a4edaf2465305438bd2fc1c7be67f1a28aea",
+          "title": "Meta面向美国用户推出Muse AI化身视频聊天功能",
+          "title_zh": "Meta面向美国用户推出Muse AI化身视频聊天功能",
           "title_en": null,
-          "title_original": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "title_original": "Meta面向美国用户推出Muse AI化身视频聊天功能",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32123",
+          "url": "https://www.aibase.com/news/32127",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T18:05:13.194195Z",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -729,33 +1249,33 @@
       ],
       "items": [
         {
-          "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
-          "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
-          "title_zh": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "id": "d339a4edaf2465305438bd2fc1c7be67f1a28aea",
+          "title": "Meta面向美国用户推出Muse AI化身视频聊天功能",
+          "title_zh": "Meta面向美国用户推出Muse AI化身视频聊天功能",
           "title_en": null,
-          "title_original": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "title_original": "Meta面向美国用户推出Muse AI化身视频聊天功能",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32123",
+          "url": "https://www.aibase.com/news/32127",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T18:05:13.194195Z",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9358,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -763,17 +1283,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T18:05:13.194195Z",
-      "latest_at": "2026-11-05T18:05:13.194195Z",
+      "earliest_at": "2026-11-06T03:26:06.643495Z",
+      "latest_at": "2026-11-06T03:26:06.643495Z",
       "primary_item": {
-        "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
-        "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
-        "title_zh": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+        "id": "d339a4edaf2465305438bd2fc1c7be67f1a28aea",
+        "title": "Meta面向美国用户推出Muse AI化身视频聊天功能",
+        "title_zh": "Meta面向美国用户推出Muse AI化身视频聊天功能",
         "title_en": null,
-        "title_original": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+        "title_original": "Meta面向美国用户推出Muse AI化身视频聊天功能",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32123",
+        "url": "https://www.aibase.com/news/32127",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -781,30 +1301,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
-      "story_id": "story_eec3f849fb91",
-      "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
-      "url": "https://www.aibase.com/news/32124",
-      "primary_url": "https://www.aibase.com/news/32124",
+      "story_id": "story_e89f74523a8f",
+      "title": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
+      "url": "https://www.aibase.com/news/32132",
+      "primary_url": "https://www.aibase.com/news/32132",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d6ad8346d332e7c1a569d4c4704a3df741c86539",
-          "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
-          "title_zh": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "id": "dd7afc59e23a6f015dcbea9f3da45a13f0cb147c",
+          "title": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
+          "title_zh": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
           "title_en": null,
-          "title_original": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "title_original": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32124",
+          "url": "https://www.aibase.com/news/32132",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T18:05:13.194195Z",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -815,33 +1335,33 @@
       ],
       "items": [
         {
-          "id": "d6ad8346d332e7c1a569d4c4704a3df741c86539",
-          "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
-          "title_zh": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "id": "dd7afc59e23a6f015dcbea9f3da45a13f0cb147c",
+          "title": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
+          "title_zh": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
           "title_en": null,
-          "title_original": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "title_original": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32124",
+          "url": "https://www.aibase.com/news/32132",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T18:05:13.194195Z",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9358,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -849,17 +1369,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-05T18:05:13.194195Z",
-      "latest_at": "2026-11-05T18:05:13.194195Z",
+      "earliest_at": "2026-11-06T03:26:06.643495Z",
+      "latest_at": "2026-11-06T03:26:06.643495Z",
       "primary_item": {
-        "id": "d6ad8346d332e7c1a569d4c4704a3df741c86539",
-        "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
-        "title_zh": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+        "id": "dd7afc59e23a6f015dcbea9f3da45a13f0cb147c",
+        "title": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
+        "title_zh": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
         "title_en": null,
-        "title_original": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+        "title_original": "OpenAI 迄今最强网络安全模型 GPT-6 Cyber 正式发布：精准挖出 81 个 Firefox 高危漏洞",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32124",
+        "url": "https://www.aibase.com/news/32132",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -867,93 +1387,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
-      }
-    },
-    {
-      "story_id": "story_8a422e6ab426",
-      "title": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
-      "url": "https://www.aibase.com/news/32122",
-      "primary_url": "https://www.aibase.com/news/32122",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e928f443b3e1f6ce1b1975e87393f53e1e1a7a2e",
-          "title": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
-          "title_zh": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
-          "title_en": null,
-          "title_original": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32122",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T18:05:13.194195Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e928f443b3e1f6ce1b1975e87393f53e1e1a7a2e",
-          "title": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
-          "title_zh": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
-          "title_en": null,
-          "title_original": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32122",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T18:05:13.194195Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9358,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T18:05:13.194195Z",
-      "latest_at": "2026-11-05T18:05:13.194195Z",
-      "primary_item": {
-        "id": "e928f443b3e1f6ce1b1975e87393f53e1e1a7a2e",
-        "title": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
-        "title_zh": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
-        "title_en": null,
-        "title_original": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32122",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
@@ -1038,15 +1472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.64,
-      "importance": 0.64,
-      "importance_score": 0.64,
+      "score": 0.6286,
+      "importance": 0.6286,
+      "importance_score": 0.6286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9511,
+        "recency": 0.888,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1071,30 +1505,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
-      "story_id": "story_8075cf06dc1d",
-      "title": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
-      "url": "https://www.aibase.com/news/32120",
-      "primary_url": "https://www.aibase.com/news/32120",
+      "story_id": "story_6ce72fe505cc",
+      "title": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
+      "url": "https://www.aibase.com/news/32140",
+      "primary_url": "https://www.aibase.com/news/32140",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a0df7c469efe4a814f2be6c13475b00c7a9c883c",
-          "title": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
-          "title_zh": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
+          "id": "03f778d9aa411f12a5db4405d627a35e601570ab",
+          "title": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
+          "title_zh": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
           "title_en": null,
-          "title_original": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
+          "title_original": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32120",
+          "url": "https://www.aibase.com/news/32140",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T07:56:30.102266Z",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1105,50 +1539,51 @@
       ],
       "items": [
         {
-          "id": "a0df7c469efe4a814f2be6c13475b00c7a9c883c",
-          "title": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
-          "title_zh": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
+          "id": "03f778d9aa411f12a5db4405d627a35e601570ab",
+          "title": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
+          "title_zh": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
           "title_en": null,
-          "title_original": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
+          "title_original": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32120",
+          "url": "https://www.aibase.com/news/32140",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T07:56:30.102266Z",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8082,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-05T07:56:30.102266Z",
-      "latest_at": "2026-11-05T07:56:30.102266Z",
+      "earliest_at": "2026-11-06T03:26:06.643495Z",
+      "latest_at": "2026-11-06T03:26:06.643495Z",
       "primary_item": {
-        "id": "a0df7c469efe4a814f2be6c13475b00c7a9c883c",
-        "title": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
-        "title_zh": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
+        "id": "03f778d9aa411f12a5db4405d627a35e601570ab",
+        "title": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
+        "title_zh": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
         "title_en": null,
-        "title_original": "Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职",
+        "title_original": "一场 AI 量身定制的谋杀计划？男子起诉 OpenAI 教唆投毒",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32120",
+        "url": "https://www.aibase.com/news/32140",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1156,7 +1591,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
@@ -1180,7 +1615,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-03T06:04:34Z",
-          "updated_at": "2026-11-05T21:59:28Z",
+          "updated_at": "2026-11-06T03:23:51Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1219,7 +1654,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-03T06:04:34Z",
-          "updated_at": "2026-11-05T21:59:28Z",
+          "updated_at": "2026-11-06T03:23:51Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1241,15 +1676,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5924,
-      "importance": 0.5924,
-      "importance_score": 0.5924,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.99,
+        "recency": 0.9995,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1257,7 +1692,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-05T20:49:39.518000Z",
-      "latest_at": "2026-11-05T21:59:28Z",
+      "latest_at": "2026-11-06T03:23:51Z",
       "primary_item": {
         "id": "f90059f11044b04670eb70d997be6bf96ac33a76",
         "title": "Stitch.ai — 用于邮件、日历、笔记、任务等的 AI 工作区 / Stitch.ai — Your AI workspace for mail, calendar, notes, tasks and more",
@@ -1274,30 +1709,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     },
     {
-      "story_id": "story_dcbae242f434",
-      "title": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
-      "url": "https://www.aibase.com/news/32112",
-      "primary_url": "https://www.aibase.com/news/32112",
+      "story_id": "story_b477fedbe1d7",
+      "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
+      "url": "https://www.aibase.com/news/32135",
+      "primary_url": "https://www.aibase.com/news/32135",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0f2406c3d48bbac25e331c5d3cf15afdca7ace2c",
-          "title": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
-          "title_zh": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
+          "id": "8ebf7da3bcf78b11309cd920eb21444ab8dbe9e3",
+          "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
+          "title_zh": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
           "title_en": null,
-          "title_original": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
+          "title_original": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32112",
+          "url": "https://www.aibase.com/news/32135",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T07:56:30.102266Z",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1308,50 +1743,51 @@
       ],
       "items": [
         {
-          "id": "0f2406c3d48bbac25e331c5d3cf15afdca7ace2c",
-          "title": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
-          "title_zh": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
+          "id": "8ebf7da3bcf78b11309cd920eb21444ab8dbe9e3",
+          "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
+          "title_zh": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
           "title_en": null,
-          "title_original": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
+          "title_original": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32112",
+          "url": "https://www.aibase.com/news/32135",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-05T07:56:30.102266Z",
+          "published_at": "2026-11-06T03:26:06.643495Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8082,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-05T07:56:30.102266Z",
-      "latest_at": "2026-11-05T07:56:30.102266Z",
+      "earliest_at": "2026-11-06T03:26:06.643495Z",
+      "latest_at": "2026-11-06T03:26:06.643495Z",
       "primary_item": {
-        "id": "0f2406c3d48bbac25e331c5d3cf15afdca7ace2c",
-        "title": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
-        "title_zh": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
+        "id": "8ebf7da3bcf78b11309cd920eb21444ab8dbe9e3",
+        "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
+        "title_zh": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
         "title_en": null,
-        "title_original": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
+        "title_original": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32112",
+        "url": "https://www.aibase.com/news/32135",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1359,597 +1795,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
-      }
-    },
-    {
-      "story_id": "story_28945ffc3130",
-      "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-      "url": "https://www.producthunt.com/products/easy-peasy-ai",
-      "primary_url": "https://www.producthunt.com/products/easy-peasy-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
-          "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
-          "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "summary": "Hire an AI team that splits the work and asks before sending",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/easy-peasy-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-04T06:19:49Z",
-          "updated_at": "2026-11-05T20:02:09Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "96e387c1f2671d95fefea702640de285e459a453",
-          "title": "AI Employees by Easy-Peasy.AI",
-          "title_zh": null,
-          "title_en": "AI Employees by Easy-Peasy.AI",
-          "title_original": "AI Employees by Easy-Peasy.AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/easy-peasy-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T20:49:39.518000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
-          "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
-          "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "summary": "Hire an AI team that splits the work and asks before sending",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/easy-peasy-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-04T06:19:49Z",
-          "updated_at": "2026-11-05T20:02:09Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "96e387c1f2671d95fefea702640de285e459a453",
-          "title": "AI Employees by Easy-Peasy.AI",
-          "title_zh": null,
-          "title_en": "AI Employees by Easy-Peasy.AI",
-          "title_original": "AI Employees by Easy-Peasy.AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/easy-peasy-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T20:49:39.518000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5874,
-      "importance": 0.5874,
-      "importance_score": 0.5874,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9625,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-05T20:02:09Z",
-      "latest_at": "2026-11-05T20:49:39.518000Z",
-      "primary_item": {
-        "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
-        "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-        "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
-        "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-        "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-        "summary": "Hire an AI team that splits the work and asks before sending",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/easy-peasy-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
-      }
-    },
-    {
-      "story_id": "story_65eb7f420f21",
-      "title": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
-      "primary_url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
-      "source": "alignment.openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "47bdb04928a362e36d0ac5e952f745ada2bc8841",
-          "title": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-          "title_zh": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-          "title_en": null,
-          "title_original": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
-          "source": "alignment.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T15:45:34.486000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "658868a7e5e366d848f991a2ea4e80505777a08c",
-          "title": "GPT-6 Astra 在安全研究方面表现隐隐逊色 / GPT-6 Astra covertly underperforms on safety research",
-          "title_zh": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-          "title_en": "GPT-6 Astra covertly underperforms on safety research",
-          "title_original": "GPT-6 Astra covertly underperforms on safety research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T07:44:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "50d24487082a2689397959b0ea11db81af3d9fb4",
-          "title": "GPT-6 Astra 在安全研究方面表现不佳 / GPT-6 Astra covertly underperforms on safety research",
-          "title_zh": "GPT-6 Astra 在安全研究方面表现不佳",
-          "title_en": "GPT-6 Astra covertly underperforms on safety research",
-          "title_original": "GPT-6 Astra covertly underperforms on safety research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50376313",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T07:44:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "alignment.openai.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "47bdb04928a362e36d0ac5e952f745ada2bc8841",
-          "title": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-          "title_zh": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-          "title_en": null,
-          "title_original": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
-          "source": "alignment.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T15:45:34.486000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "658868a7e5e366d848f991a2ea4e80505777a08c",
-          "title": "GPT-6 Astra 在安全研究方面表现隐隐逊色 / GPT-6 Astra covertly underperforms on safety research",
-          "title_zh": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-          "title_en": "GPT-6 Astra covertly underperforms on safety research",
-          "title_original": "GPT-6 Astra covertly underperforms on safety research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T07:44:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "50d24487082a2689397959b0ea11db81af3d9fb4",
-          "title": "GPT-6 Astra 在安全研究方面表现不佳 / GPT-6 Astra covertly underperforms on safety research",
-          "title_zh": "GPT-6 Astra 在安全研究方面表现不佳",
-          "title_en": "GPT-6 Astra covertly underperforms on safety research",
-          "title_original": "GPT-6 Astra covertly underperforms on safety research",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50376313",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T07:44:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5537,
-      "importance": 0.5537,
-      "importance_score": 0.5537,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9048,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-05T07:44:30Z",
-      "latest_at": "2026-11-05T15:45:34.486000Z",
-      "primary_item": {
-        "id": "47bdb04928a362e36d0ac5e952f745ada2bc8841",
-        "title": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-        "title_zh": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-        "title_en": null,
-        "title_original": "GPT-6 Astra 在安全研究方面表现隐隐逊色",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
-        "source": "alignment.openai.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
-      }
-    },
-    {
-      "story_id": "story_c0226fde6902",
-      "title": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
-      "url": "https://www.aibase.com/news/32119",
-      "primary_url": "https://www.aibase.com/news/32119",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e4e38607a015118187dd7b014a4043d11112b565",
-          "title": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
-          "title_zh": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
-          "title_en": null,
-          "title_original": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32119",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T07:56:30.102266Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e4e38607a015118187dd7b014a4043d11112b565",
-          "title": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
-          "title_zh": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
-          "title_en": null,
-          "title_original": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32119",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T07:56:30.102266Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8082,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-05T07:56:30.102266Z",
-      "latest_at": "2026-11-05T07:56:30.102266Z",
-      "primary_item": {
-        "id": "e4e38607a015118187dd7b014a4043d11112b565",
-        "title": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
-        "title_zh": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
-        "title_en": null,
-        "title_original": "Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32119",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
-      }
-    },
-    {
-      "story_id": "story_c4922604118b",
-      "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "primary_url": "https://github.com/anthropics/claude-code/issues/107757",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "5e06951b96c5ad8f23b50fa02c14287a46656e6b",
-          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/107757",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T22:17:15Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "fc92f5b66586e4ad9d922b683a84b87f2b2fe1f9",
-          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50385272",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T22:17:15Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5e06951b96c5ad8f23b50fa02c14287a46656e6b",
-          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-code/issues/107757",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T22:17:15Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "fc92f5b66586e4ad9d922b683a84b87f2b2fe1f9",
-          "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
-          "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
-          "title_en": "Claude Code sends your email address to websites",
-          "title_original": "Claude Code sends your email address to websites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50385272",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T22:17:15Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9943,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-05T22:17:15Z",
-      "latest_at": "2026-11-05T22:17:15Z",
-      "primary_item": {
-        "id": "5e06951b96c5ad8f23b50fa02c14287a46656e6b",
-        "title": "Claude·代码将您的电子邮件地址发送到网站 / Claude Code sends your email address to websites",
-        "title_zh": "Claude·代码将您的电子邮件地址发送到网站",
-        "title_en": "Claude Code sends your email address to websites",
-        "title_original": "Claude Code sends your email address to websites",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/anthropics/claude-code/issues/107757",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
-      }
-    },
-    {
-      "story_id": "story_27a96b710ea0",
-      "title": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-      "primary_url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-      "source": "claude.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "17dd377517ac13777a7f6351fb1cc1e4d1b1bca9",
-          "title": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-          "title_zh": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-          "title_en": null,
-          "title_original": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-          "source": "claude.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T19:34:42.612000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "9f67232d5945181331611ad070473ef13ef9cf2a",
-          "title": "作为双侧人工耳蜗使用者，我的心理物理学体验 / My psychophysics as a bilateral cochlear implant user",
-          "title_zh": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-          "title_en": "My psychophysics as a bilateral cochlear implant user",
-          "title_original": "My psychophysics as a bilateral cochlear implant user",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T16:21:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "claude.ai"
-      ],
-      "items": [
-        {
-          "id": "17dd377517ac13777a7f6351fb1cc1e4d1b1bca9",
-          "title": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-          "title_zh": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-          "title_en": null,
-          "title_original": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-          "source": "claude.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T19:34:42.612000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "9f67232d5945181331611ad070473ef13ef9cf2a",
-          "title": "作为双侧人工耳蜗使用者，我的心理物理学体验 / My psychophysics as a bilateral cochlear implant user",
-          "title_zh": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-          "title_en": "My psychophysics as a bilateral cochlear implant user",
-          "title_original": "My psychophysics as a bilateral cochlear implant user",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T16:21:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9561,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-05T16:21:12Z",
-      "latest_at": "2026-11-05T19:34:42.612000Z",
-      "primary_item": {
-        "id": "17dd377517ac13777a7f6351fb1cc1e4d1b1bca9",
-        "title": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-        "title_zh": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-        "title_en": null,
-        "title_original": "作为双侧人工耳蜗使用者，我的心理物理学体验",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-        "source": "claude.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T22:42:05.022864Z"
+        "scored_at": "2026-11-06T03:37:35.372119Z"
       }
     }
   ]
