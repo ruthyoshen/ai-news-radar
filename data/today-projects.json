@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:47:27.704712Z",
+  "generated_at": "2026-11-07T08:53:24.595101Z",
   "date": "2026-11-07",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T02:46:35.969265Z"
+      "observed_at": "2026-11-07T08:52:42.969774Z"
     },
     {
-      "id": "project_69cd7835a89d",
-      "project_name": "Alysis Code",
-      "url": "https://www.producthunt.com/products/alysis-code",
-      "summary": "Open-source AI coding agent",
+      "id": "project_4756513f9598",
+      "project_name": "ClarifierAI for Chrome",
+      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
+      "summary": "Use AI for writing & translating in your Chrome",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Open-source AI coding agent」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Open-source AI coding agent\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-03T12:47:30Z",
-      "updated_at": "2026-11-06T22:09:11Z",
+      "recommend_reason_zh": "体验它主打的「Use AI for writing & translating in your Chrome」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Use AI for writing & translating in your Chrome\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T10:38:44Z",
+      "updated_at": "2026-11-07T08:52:49Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T02:47:15.724263Z"
+      "observed_at": "2026-11-07T08:53:13.151288Z"
     },
     {
       "id": "project_876f4401e17e",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T02:46:35.969265Z"
+      "observed_at": "2026-11-07T08:52:42.969774Z"
     },
     {
-      "id": "project_dd6754595fb7",
-      "project_name": "Tobira Site Agent",
-      "url": "https://www.producthunt.com/products/tobira-ai",
-      "summary": "Turn your website into an AI agent that sells to AI agents",
+      "id": "project_f3bc89ac70fa",
+      "project_name": "Deal Pilot",
+      "url": "https://www.producthunt.com/products/deal-pilot",
+      "summary": "AI SDR that books meetings in Japan, the US & SE Asia",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Turn your website into an AI agent that sells to AI agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Turn your website into an AI agent that sells to AI agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-24T11:25:07Z",
-      "updated_at": "2026-11-07T02:47:04Z",
+      "recommend_reason_zh": "体验它主打的「AI SDR that books meetings in Japan, the US & SE Asia」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI SDR that books meetings in Japan, the US & SE Asia\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-02T00:27:34Z",
+      "updated_at": "2026-11-07T08:52:45Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T02:47:15.724263Z"
+      "observed_at": "2026-11-07T08:53:13.151288Z"
     }
   ],
   "sources": [
@@ -65,16 +65,16 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 17,
-      "duration_ms": 1858,
+      "item_count": 18,
+      "duration_ms": 251,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 50,
-      "duration_ms": 124,
+      "item_count": 49,
+      "duration_ms": 119,
       "error": null
     }
   ]

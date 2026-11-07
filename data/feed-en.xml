@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 02:46:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 08:52:42 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Copilot code review: API management and review overview updates</title>
@@ -30,14 +30,6 @@
 <description>Beyond code generation: A developer’s guide to agentic engineering (GitHub AI &amp; ML)</description>
 <category>Official update</category>
 <pubDate>Fri, 06 Nov 2026 22:15:59 +0000</pubDate>
-</item>
-<item>
-<title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
-<link>https://openai.com/index/partnering-with-hacktron</link>
-<guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
-<description>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Fri, 06 Nov 2026 19:41:59 +0000</pubDate>
 </item>
 <item>
 <title>Copilot impact dashboard adds chat and VS Code agent usage</title>
@@ -96,14 +88,6 @@
 <pubDate>Fri, 06 Nov 2026 12:55:49 +0000</pubDate>
 </item>
 <item>
-<title>4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车</title>
-<link>https://www.aibase.com/news/32148</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32148</guid>
-<description>4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 06 Nov 2026 07:58:04 +0000</pubDate>
-</item>
-<item>
 <title>Meta&amp;#8217;s Muse AI can create custom &amp;#8216;spaces&amp;#8217; for the version of the app you need right now</title>
 <link>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</link>
 <guid isPermaLink="true">https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</guid>
@@ -120,12 +104,12 @@
 <pubDate>Sat, 07 Nov 2026 02:29:32 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态</title>
-<link>https://www.aibase.com/news/32141</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32141</guid>
-<description>OpenAI 宣布收购 Pierre，全面扩充 Codex 开发者工具生态 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 06 Nov 2026 07:58:04 +0000</pubDate>
+<title>Memorilla：面向大型语言模型（LLM）的潜在语义记忆</title>
+<link>https://arxiv.org/abs/2610.21375</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.21375</guid>
+<description>Memorilla：面向大型语言模型（LLM）的潜在语义记忆 (arxiv.org)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sat, 07 Nov 2026 05:22:36 +0000</pubDate>
 </item>
 <item>
 <title>DALI AI by SupplyzPro — The ERP you never need to open</title>
@@ -160,12 +144,28 @@
 <pubDate>Fri, 06 Nov 2026 22:56:22 +0000</pubDate>
 </item>
 <item>
-<title>Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案</title>
-<link>https://www.aibase.com/news/32152</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32152</guid>
-<description>Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 06 Nov 2026 07:58:04 +0000</pubDate>
+<title>Firecracker VM 逃脱：PwnEscape 第二部分</title>
+<link>https://pwn.ai/blog/firecracker-escape</link>
+<guid isPermaLink="true">https://pwn.ai/blog/firecracker-escape</guid>
+<description>Firecracker VM 逃脱：PwnEscape 第二部分 (pwn.ai)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 06 Nov 2026 22:56:22 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT silently passes data between connectors and the bounty wants an ID card</title>
+<link>https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053</link>
+<guid isPermaLink="true">https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053</guid>
+<description>ChatGPT silently passes data between connectors and the bounty wants an ID card</description>
+<category>Worth watching</category>
+<pubDate>Fri, 06 Nov 2026 22:50:43 +0000</pubDate>
+</item>
+<item>
+<title>Perplexity launches AI agents for work</title>
+<link>https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</link>
+<guid isPermaLink="true">https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</guid>
+<description>Perplexity launches AI agents for work</description>
+<category>Worth watching</category>
+<pubDate>Fri, 06 Nov 2026 17:59:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
