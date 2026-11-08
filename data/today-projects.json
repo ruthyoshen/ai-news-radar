@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T00:41:57.250555Z",
+  "generated_at": "2026-11-08T02:29:07.318944Z",
   "date": "2026-11-08",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-08T00:40:55.094682Z"
+      "observed_at": "2026-11-08T02:28:22.471580Z"
     },
     {
-      "id": "project_bd9853707f0c",
-      "project_name": "Google Omni 1.2 Flash",
-      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
-      "summary": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second",
+      "id": "project_c354691ede7f",
+      "project_name": "Quest",
+      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
+      "summary": "Your personal AI advisor for a more intentional life",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-05T17:10:35Z",
-      "updated_at": "2026-11-08T00:41:27Z",
+      "recommend_reason_zh": "体验它主打的「Your personal AI advisor for a more intentional life」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your personal AI advisor for a more intentional life\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-21T15:22:29Z",
+      "updated_at": "2026-11-08T02:27:07Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-08T00:41:45.746012Z"
+      "observed_at": "2026-11-08T02:28:56.598254Z"
     },
     {
       "id": "project_6426decba2ef",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-08T00:40:55.094682Z"
+      "observed_at": "2026-11-08T02:28:22.471580Z"
     },
     {
       "id": "project_f6f0b21aa3e6",
@@ -55,9 +55,9 @@
       "recommend_reason_zh": "体验它主打的「OpenAI’s cyber model, with vetted access for defenders」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"OpenAI’s cyber model, with vetted access for defenders\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-05T17:12:40Z",
-      "updated_at": "2026-11-08T00:41:27Z",
+      "updated_at": "2026-11-08T02:16:58Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-08T00:41:45.746012Z"
+      "observed_at": "2026-11-08T02:28:56.598254Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1476,
+      "duration_ms": 1529,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 115,
+      "duration_ms": 139,
       "error": null
     }
   ]
