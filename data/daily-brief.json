@@ -1,10 +1,96 @@
 {
-  "generated_at": "2026-11-08T09:05:48.801082Z",
+  "generated_at": "2026-11-08T11:55:50.399363Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 8,
   "items": [
     {
-      "story_id": "story_138e680b83a8",
+      "story_id": "story_55b8a01511e9",
+      "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
+          "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-08T11:34:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
+          "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-08T11:34:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9949,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-08T11:34:35Z",
+      "latest_at": "2026-11-08T11:34:35Z",
+      "primary_item": {
+        "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
+        "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-08T11:58:24.336758Z"
+      }
+    },
+    {
+      "story_id": "story_e7f81ba5e5af",
       "title": "ChatGPT Images 2.6 — 使用 AI 创建、编辑和动画图像 / ChatGPT Images 2.6 — Create, edit, and animate images with AI",
       "url": "https://www.producthunt.com/products/openai",
       "primary_url": "https://www.producthunt.com/products/openai",
@@ -24,7 +110,23 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-05T16:20:03Z",
-          "updated_at": "2026-11-07T11:42:59Z",
+          "updated_at": "2026-11-08T11:57:03Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "3f38a641f210e0e62c88b8e664f6f88852d86516",
+          "title": "GPT‑6 Cyber​​ — OpenAI 的网络模型，为防御者提供经过审查的访问权限 / GPT‑6 Cyber — OpenAI’s cyber model, with vetted access for defenders",
+          "title_zh": "GPT‑6 Cyber​​ — OpenAI 的网络模型，为防御者提供经过审查的访问权限",
+          "title_en": "GPT‑6 Cyber — OpenAI’s cyber model, with vetted access for defenders",
+          "title_original": "GPT‑6 Cyber — OpenAI’s cyber model, with vetted access for defenders",
+          "summary": "OpenAI’s cyber model, with vetted access for defenders",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-05T17:12:40Z",
+          "updated_at": "2026-11-08T07:38:19Z",
           "recency_basis": "updated_at"
         },
         {
@@ -33,22 +135,6 @@
           "title_zh": null,
           "title_en": "ChatGPT Images 2.6",
           "title_original": "ChatGPT Images 2.6",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:46:43.320000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3d87b2f237d4630e09ed9017529c181beee88574",
-          "title": "GPT‑6 Cyber",
-          "title_zh": null,
-          "title_en": "GPT‑6 Cyber",
-          "title_original": "GPT‑6 Cyber",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.producthunt.com/products/openai",
@@ -79,7 +165,23 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-05T16:20:03Z",
-          "updated_at": "2026-11-07T11:42:59Z",
+          "updated_at": "2026-11-08T11:57:03Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "3f38a641f210e0e62c88b8e664f6f88852d86516",
+          "title": "GPT‑6 Cyber​​ — OpenAI 的网络模型，为防御者提供经过审查的访问权限 / GPT‑6 Cyber — OpenAI’s cyber model, with vetted access for defenders",
+          "title_zh": "GPT‑6 Cyber​​ — OpenAI 的网络模型，为防御者提供经过审查的访问权限",
+          "title_en": "GPT‑6 Cyber — OpenAI’s cyber model, with vetted access for defenders",
+          "title_original": "GPT‑6 Cyber — OpenAI’s cyber model, with vetted access for defenders",
+          "summary": "OpenAI’s cyber model, with vetted access for defenders",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-05T17:12:40Z",
+          "updated_at": "2026-11-08T07:38:19Z",
           "recency_basis": "updated_at"
         },
         {
@@ -97,43 +199,27 @@
           "published_at": "2026-11-07T18:46:43.320000Z",
           "updated_at": null,
           "recency_basis": null
-        },
-        {
-          "id": "3d87b2f237d4630e09ed9017529c181beee88574",
-          "title": "GPT‑6 Cyber",
-          "title_zh": null,
-          "title_en": "GPT‑6 Cyber",
-          "title_original": "GPT‑6 Cyber",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:46:43.320000Z",
-          "updated_at": null,
-          "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5714,
-      "importance": 0.5714,
-      "importance_score": 0.5714,
+      "score": 0.6192,
+      "importance": 0.6192,
+      "importance_score": 0.6192,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7344,
+        "recency": 1.0,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T11:42:59Z",
-      "latest_at": "2026-11-07T18:46:43.320000Z",
+      "earliest_at": "2026-11-07T18:46:43.320000Z",
+      "latest_at": "2026-11-08T11:57:03Z",
       "primary_item": {
         "id": "fee3a6b8b826f39d7a05dbe8da0eb175ce95fceb",
         "title": "ChatGPT Images 2.6 — 使用 AI 创建、编辑和动画图像 / ChatGPT Images 2.6 — Create, edit, and animate images with AI",
@@ -150,7 +236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:07:08.483442Z"
+        "scored_at": "2026-11-08T11:58:24.336758Z"
       }
     },
     {
@@ -268,15 +354,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5489,
-      "importance": 0.5489,
-      "importance_score": 0.5489,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8783,
+        "recency": 0.8431,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -301,125 +387,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:07:08.483442Z"
-      }
-    },
-    {
-      "story_id": "story_3e5cd34c5756",
-      "title": "dsx-ai-factory/nvke — NVIDIA Kubernetes 引擎 (NVKE)。裸机上 GPU Kubernetes 的管理平面。 / dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "primary_url": "https://github.com/dsx-ai-factory/nvke",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "72898f28103627ea3ed886c45b0f9bfedf77260c",
-          "title": "dsx-ai-factory/nvke — NVIDIA Kubernetes 引擎 (NVKE)。裸机上 GPU Kubernetes 的管理平面。 / dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-          "title_zh": "dsx-ai-factory/nvke — NVIDIA Kubernetes 引擎 (NVKE)。裸机上 GPU Kubernetes 的管理平面。",
-          "title_en": "dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-          "title_original": "dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-          "summary": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "778c1770dfe203d6bb084f0550ee054509a76b74",
-          "title": "dsx-ai-factory /      nvke",
-          "title_zh": null,
-          "title_en": "dsx-ai-factory /      nvke",
-          "title_original": "dsx-ai-factory /      nvke",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T11:14:03.783000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "72898f28103627ea3ed886c45b0f9bfedf77260c",
-          "title": "dsx-ai-factory/nvke — NVIDIA Kubernetes 引擎 (NVKE)。裸机上 GPU Kubernetes 的管理平面。 / dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-          "title_zh": "dsx-ai-factory/nvke — NVIDIA Kubernetes 引擎 (NVKE)。裸机上 GPU Kubernetes 的管理平面。",
-          "title_en": "dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-          "title_original": "dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-          "summary": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "778c1770dfe203d6bb084f0550ee054509a76b74",
-          "title": "dsx-ai-factory /      nvke",
-          "title_zh": null,
-          "title_en": "dsx-ai-factory /      nvke",
-          "title_original": "dsx-ai-factory /      nvke",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T11:14:03.783000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5464,
-      "importance": 0.5464,
-      "importance_score": 0.5464,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7344,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T11:14:03.783000Z",
-      "latest_at": "2026-11-07T11:42:59.513743Z",
-      "primary_item": {
-        "id": "72898f28103627ea3ed886c45b0f9bfedf77260c",
-        "title": "dsx-ai-factory/nvke — NVIDIA Kubernetes 引擎 (NVKE)。裸机上 GPU Kubernetes 的管理平面。 / dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-        "title_zh": "dsx-ai-factory/nvke — NVIDIA Kubernetes 引擎 (NVKE)。裸机上 GPU Kubernetes 的管理平面。",
-        "title_en": "dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-        "title_original": "dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-        "summary": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/dsx-ai-factory/nvke",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:07:08.483442Z"
+        "scored_at": "2026-11-08T11:58:24.336758Z"
       }
     },
     {
@@ -537,15 +505,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8239,
+        "recency": 0.7908,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -570,7 +538,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:07:08.483442Z"
+        "scored_at": "2026-11-08T11:58:24.336758Z"
       }
     },
     {
@@ -687,15 +655,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8046,
+        "recency": 0.7723,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -720,7 +688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:07:08.483442Z"
+        "scored_at": "2026-11-08T11:58:24.336758Z"
       }
     },
     {
@@ -805,15 +773,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
+      "score": 0.5103,
+      "importance": 0.5103,
+      "importance_score": 0.5103,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8365,
+        "recency": 0.8029,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -838,7 +806,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:07:08.483442Z"
+        "scored_at": "2026-11-08T11:58:24.336758Z"
       }
     },
     {
@@ -923,15 +891,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5049,
-      "importance": 0.5049,
-      "importance_score": 0.5049,
+      "score": 0.4994,
+      "importance": 0.4994,
+      "importance_score": 0.4994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.773,
+        "recency": 0.742,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -953,10 +921,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:07:08.483442Z"
+        "scored_at": "2026-11-08T11:58:24.336758Z"
       }
     },
     {
@@ -1041,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5245,
+      "importance": 0.5245,
+      "importance_score": 0.5245,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9183,
+        "recency": 0.8815,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1074,125 +1042,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:07:08.483442Z"
-      }
-    },
-    {
-      "story_id": "story_e77e726919f1",
-      "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "primary_url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "source": "8rank.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "15ab017e2478008a5fb85134e73bd28dc2fd6ec9",
-          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-          "title_zh": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-          "title_en": null,
-          "title_original": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-          "source": "8rank.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T11:57:50.761000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a397626cf6c503c66ff0dbfa4c75e0e59c25e7c0",
-          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器 / Every Mac comes with an (undocumented) family member classifier",
-          "title_zh": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-          "title_en": "Every Mac comes with an (undocumented) family member classifier",
-          "title_original": "Every Mac comes with an (undocumented) family member classifier",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T09:46:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "8rank.ai",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "15ab017e2478008a5fb85134e73bd28dc2fd6ec9",
-          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-          "title_zh": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-          "title_en": null,
-          "title_original": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-          "source": "8rank.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T11:57:50.761000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a397626cf6c503c66ff0dbfa4c75e0e59c25e7c0",
-          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器 / Every Mac comes with an (undocumented) family member classifier",
-          "title_zh": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-          "title_en": "Every Mac comes with an (undocumented) family member classifier",
-          "title_original": "Every Mac comes with an (undocumented) family member classifier",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T09:46:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4985,
-      "importance": 0.4985,
-      "importance_score": 0.4985,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.737,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T09:46:03Z",
-      "latest_at": "2026-11-07T11:57:50.761000Z",
-      "primary_item": {
-        "id": "15ab017e2478008a5fb85134e73bd28dc2fd6ec9",
-        "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-        "title_zh": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-        "title_en": null,
-        "title_original": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-        "source": "8rank.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-08T09:07:08.483442Z"
+        "scored_at": "2026-11-08T11:58:24.336758Z"
       }
     }
   ]
