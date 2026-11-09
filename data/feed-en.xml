@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 21:12:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 00:56:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
+<item>
+<title>ChatGPT 遭大规模集中停用，高价 200 美元 Pro 订阅用户也未能幸免</title>
+<link>https://www.aibase.com/news/32158</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32158</guid>
+<description>ChatGPT 遭大规模集中停用，高价 200 美元 Pro 订阅用户也未能幸免 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Mon, 09 Nov 2026 00:56:31 +0000</pubDate>
+</item>
 <item>
 <title>何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界</title>
 <link>https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45</link>
@@ -14,6 +22,14 @@
 <description>何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界 (Daily Digest)</description>
 <category>Industry news</category>
 <pubDate>Sun, 08 Nov 2026 11:34:35 +0000</pubDate>
+</item>
+<item>
+<title>我如何对抗AI脑力透支</title>
+<link>https://sergeykuhne.com/blog/fighting-ai-brain-fry</link>
+<guid isPermaLink="true">https://sergeykuhne.com/blog/fighting-ai-brain-fry</guid>
+<description>我如何对抗AI脑力透支 (sergeykuhne.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 08 Nov 2026 22:19:44 +0000</pubDate>
 </item>
 <item>
 <title>anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</title>
@@ -40,12 +56,12 @@
 <pubDate>Sun, 08 Nov 2026 20:56:03 +0000</pubDate>
 </item>
 <item>
-<title>How I Fight AI Brain Fry</title>
-<link>https://sergeykuhne.com/blog/fighting-ai-brain-fry</link>
-<guid isPermaLink="true">https://sergeykuhne.com/blog/fighting-ai-brain-fry</guid>
-<description>How I Fight AI Brain Fry</description>
+<title>为什么我不会在编程中使用大型语言模型</title>
+<link>https://www.polso.info/why-i-will-not-be-using-llms-coding</link>
+<guid isPermaLink="true">https://www.polso.info/why-i-will-not-be-using-llms-coding</guid>
+<description>为什么我不会在编程中使用大型语言模型 (www.polso.info)</description>
 <category>Worth watching</category>
-<pubDate>Sun, 08 Nov 2026 19:37:42 +0000</pubDate>
+<pubDate>Sun, 08 Nov 2026 21:47:44 +0000</pubDate>
 </item>
 <item>
 <title>Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It</title>
@@ -56,10 +72,10 @@
 <pubDate>Sun, 08 Nov 2026 18:43:07 +0000</pubDate>
 </item>
 <item>
-<title>Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders</title>
+<title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
 <link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
 <guid isPermaLink="true">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</guid>
-<description>Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders</description>
+<description>Goldman Sachs is pulling Claude Code from its bankers and traders</description>
 <category>Worth watching</category>
 <pubDate>Sun, 08 Nov 2026 18:16:07 +0000</pubDate>
 </item>
