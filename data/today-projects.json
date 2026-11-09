@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:52:57.405830Z",
+  "generated_at": "2026-11-09T23:26:54.399948Z",
   "date": "2026-11-10",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-09T18:52:17.082267Z"
+      "observed_at": "2026-11-09T23:26:05.594744Z"
     },
     {
-      "id": "project_661a8188e396",
-      "project_name": "Dageno AI 2.0",
-      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-      "summary": "See why AI recommends your competitors instead of you",
+      "id": "project_6cfe18c131b5",
+      "project_name": "Cardboard AI",
+      "url": "https://www.producthunt.com/products/cardboard-3",
+      "summary": "Best way to edit videos with AI",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「See why AI recommends your competitors instead of you」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"See why AI recommends your competitors instead of you\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-03T10:49:37Z",
-      "updated_at": "2026-11-09T18:52:10Z",
+      "recommend_reason_zh": "体验它主打的「Best way to edit videos with AI」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Best way to edit videos with AI\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-05T15:56:52Z",
+      "updated_at": "2026-11-09T23:24:39Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-09T18:52:47.464470Z"
+      "observed_at": "2026-11-09T23:26:44.355706Z"
     },
     {
       "id": "project_26b52d229f33",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-09T18:52:17.082267Z"
+      "observed_at": "2026-11-09T23:26:05.594744Z"
     },
     {
-      "id": "project_64dc25ca4653",
-      "project_name": "ClipsPal",
-      "url": "https://www.producthunt.com/products/clipspal",
-      "summary": "AI video editor that edits your talking-head videos",
+      "id": "project_cab433b7ceaa",
+      "project_name": "Pawse.ai",
+      "url": "https://www.producthunt.com/products/pawse-ai",
+      "summary": "Sound engineered for dogs, not humans",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "用一段自己的素材试试 AI 视频剪辑，看看能否减少手工操作。",
-      "recommend_reason_en": "Try its AI video editing on your own footage and see whether it cuts down manual work.",
-      "published_at": "2026-11-08T13:34:07Z",
-      "updated_at": "2026-11-09T17:38:31Z",
+      "recommend_reason_zh": "体验它主打的「Sound engineered for dogs, not humans」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Sound engineered for dogs, not humans\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-02T11:48:42Z",
+      "updated_at": "2026-11-09T23:05:17Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-09T18:52:47.464470Z"
+      "observed_at": "2026-11-09T23:26:44.355706Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 1290,
+      "duration_ms": 1342,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 46,
-      "duration_ms": 183,
+      "item_count": 48,
+      "duration_ms": 130,
       "error": null
     }
   ]
