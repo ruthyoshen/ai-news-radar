@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 11 Nov 2026 21:25:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 23:28:45 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions</title>
@@ -13,7 +13,7 @@
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</guid>
 <description>Google AI Blog</description>
 <category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 18:32:42 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 21:32:55 +0000</pubDate>
 </item>
 <item>
 <title>Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI</title>
@@ -21,7 +21,7 @@
 <guid isPermaLink="true">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 21:25:03 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 23:28:45 +0000</pubDate>
 </item>
 <item>
 <title>问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts</title>
@@ -46,6 +46,14 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.167.2</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
@@ -136,12 +144,12 @@
 <pubDate>Wed, 11 Nov 2026 07:47:08 +0000</pubDate>
 </item>
 <item>
-<title>ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算 / ScroogeFrog AI — AI ad fraud detection that protects your marketing budget</title>
-<link>https://www.producthunt.com/products/scroogefrog-ai-antifraud</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/scroogefrog-ai-antifraud</guid>
-<description>AI ad fraud detection that protects your marketing budget（Product Hunt）</description>
+<title>Kippy AI——边玩边学语言！ / Kippy AI — Learn languages while having fun!</title>
+<link>https://www.producthunt.com/products/kippy-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/kippy-ai</guid>
+<description>Learn languages while having fun!（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Wed, 11 Nov 2026 21:13:55 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 23:22:43 +0000</pubDate>
 </item>
 <item>
 <title>AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型</title>
@@ -152,20 +160,12 @@
 <pubDate>Wed, 11 Nov 2026 07:47:08 +0000</pubDate>
 </item>
 <item>
-<title>openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security</title>
-<link>https://github.com/openai/codex-security</link>
-<guid isPermaLink="true">https://github.com/openai/codex-security</guid>
-<description>OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security（GitHub Trending）</description>
-<category>值得关注</category>
-<pubDate>Wed, 11 Nov 2026 12:41:57 +0000</pubDate>
-</item>
-<item>
-<title>Kippy AI——边玩边学语言！ / Kippy AI — Learn languages while having fun!</title>
-<link>https://www.producthunt.com/products/kippy-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/kippy-ai</guid>
-<description>Learn languages while having fun!（Product Hunt）</description>
-<category>值得关注</category>
-<pubDate>Wed, 11 Nov 2026 21:05:30 +0000</pubDate>
+<title>谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔</title>
+<link>https://pietromiotti.com/latest/maya-site/?maya=</link>
+<guid isPermaLink="true">https://pietromiotti.com/latest/maya-site/?maya=</guid>
+<description>pietromiotti.com</description>
+<category>多源热议</category>
+<pubDate>Wed, 11 Nov 2026 13:34:43 +0000</pubDate>
 </item>
 </channel>
 </rss>
