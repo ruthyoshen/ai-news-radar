@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T22:24:11.993901Z",
+  "generated_at": "2026-11-11T02:47:20.471782Z",
   "date": "2026-11-11",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-10T22:23:27.907149Z"
+      "observed_at": "2026-11-11T02:46:36.079295Z"
     },
     {
-      "id": "project_d8b372aaa1b8",
-      "project_name": "Kata Send",
-      "url": "https://www.producthunt.com/products/kata-send",
-      "summary": "Cold email infrastructure for AI agents",
+      "id": "project_ae4fb86c61b1",
+      "project_name": "Maxma",
+      "url": "https://www.producthunt.com/products/maxma-2",
+      "summary": "The 24/7 AI teammate that scales your paid ad performance",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Cold email infrastructure for AI agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Cold email infrastructure for AI agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-05T08:50:12Z",
-      "updated_at": "2026-11-10T20:54:45Z",
+      "recommend_reason_zh": "体验它主打的「The 24/7 AI teammate that scales your paid ad performance」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The 24/7 AI teammate that scales your paid ad performance\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-24T00:59:22Z",
+      "updated_at": "2026-11-11T02:45:41Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-10T22:24:02.758304Z"
+      "observed_at": "2026-11-11T02:47:10.044996Z"
     },
     {
       "id": "project_2e74d0228d63",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-10T22:23:27.907149Z"
+      "observed_at": "2026-11-11T02:46:36.079295Z"
     },
     {
-      "id": "project_8a51199ce8a5",
-      "project_name": "Latch.ai",
-      "url": "https://www.producthunt.com/products/latch-ai-2",
-      "summary": "Automate complex accounting work without a single prompt",
+      "id": "project_9de95cb5fb07",
+      "project_name": "Alsona",
+      "url": "https://www.producthunt.com/products/alsona",
+      "summary": "AI agents that turn buying signals into booked sales calls",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Automate complex accounting work without a single prompt」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Automate complex accounting work without a single prompt\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T20:19:05Z",
-      "updated_at": "2026-11-10T22:17:02Z",
+      "recommend_reason_zh": "体验它主打的「AI agents that turn buying signals into booked sales calls」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI agents that turn buying signals into booked sales calls\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-21T15:41:38Z",
+      "updated_at": "2026-11-11T02:45:26Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-10T22:24:02.758304Z"
+      "observed_at": "2026-11-11T02:47:10.044996Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1324,
+      "duration_ms": 1341,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 116,
+      "duration_ms": 136,
       "error": null
     }
   ]
