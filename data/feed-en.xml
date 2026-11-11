@@ -5,23 +5,31 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 16:14:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 21:25:03 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
+<item>
+<title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</guid>
+<description>Gemini Decisions API: Fast, calibrated multimodal decisions (Google AI Blog)</description>
+<category>Official update</category>
+<pubDate>Wed, 11 Nov 2026 18:32:42 +0000</pubDate>
+</item>
 <item>
 <title>Gilbert + Tobin rethinks the business of law with AI</title>
 <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
 <guid isPermaLink="true">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
 <description>Gilbert + Tobin rethinks the business of law with AI (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Wed, 11 Nov 2026 16:14:33 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 21:25:03 +0000</pubDate>
 </item>
 <item>
-<title>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</guid>
-<description>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together. (Google AI Blog)</description>
+<title>Issue types and fields are available for personal accounts</title>
+<link>https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts</guid>
+<description>Issue types and fields are available for personal accounts (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 17:16:46 +0000</pubDate>
 </item>
 <item>
 <title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
@@ -40,12 +48,12 @@
 <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
 </item>
 <item>
-<title>GitHub App support for Enterprise Copilot seat management</title>
-<link>https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</guid>
-<description>GitHub App support for Enterprise Copilot seat management (GitHub Changelog)</description>
+<title>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</guid>
+<description>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together. (Google AI Blog)</description>
 <category>Official update</category>
-<pubDate>Wed, 11 Nov 2026 00:10:31 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT Plus for veterans and servicemembers</title>
@@ -56,14 +64,6 @@
 <pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Experience the art and legacy of Dr. Esther Mahlangu</title>
-<link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu</link>
-<guid isPermaLink="true">https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu</guid>
-<description>Experience the art and legacy of Dr. Esther Mahlangu (Google AI Blog)</description>
-<category>Official update</category>
-<pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
 <link>https://huggingface.co/blog/token-pooling</link>
 <guid isPermaLink="true">https://huggingface.co/blog/token-pooling</guid>
@@ -72,12 +72,20 @@
 <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Carbon in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot</guid>
-<description>Gemini 4 Carbon in GitHub Copilot (GitHub Changelog)</description>
+<title>GitHub App support for Enterprise Copilot seat management</title>
+<link>https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</guid>
+<description>GitHub App support for Enterprise Copilot seat management (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 10 Nov 2026 19:26:51 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 00:10:31 +0000</pubDate>
+</item>
+<item>
+<title>Experience the art and legacy of Dr. Esther Mahlangu</title>
+<link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu</link>
+<guid isPermaLink="true">https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu</guid>
+<description>Experience the art and legacy of Dr. Esther Mahlangu (Google AI Blog)</description>
+<category>Official update</category>
+<pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账</title>
@@ -88,20 +96,12 @@
 <pubDate>Wed, 11 Nov 2026 12:41:57 +0000</pubDate>
 </item>
 <item>
-<title>Gemini Intelligence: New features, on more devices</title>
-<link>https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices</guid>
-<description>Gemini Intelligence: New features, on more devices (Google AI Blog)</description>
+<title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
+<link>https://openai.com/index/jiostar-vijay-seshadri</link>
+<guid isPermaLink="true">https://openai.com/index/jiostar-vijay-seshadri</guid>
+<description>JioStar’s chief architect on AI discovery at 500M-user scale (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>C++ language server now auto-configures MSBuild builds</title>
-<link>https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds</guid>
-<description>C++ language server now auto-configures MSBuild builds (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 10 Nov 2026 17:04:10 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>北京互联网法院:平台误判AI生成内容未标识构成违约</title>
@@ -136,20 +136,20 @@
 <pubDate>Wed, 11 Nov 2026 07:47:08 +0000</pubDate>
 </item>
 <item>
+<title>ScroogeFrog AI — AI ad fraud detection that protects your marketing budget</title>
+<link>https://www.producthunt.com/products/scroogefrog-ai-antifraud</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/scroogefrog-ai-antifraud</guid>
+<description>AI ad fraud detection that protects your marketing budget (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Wed, 11 Nov 2026 21:13:55 +0000</pubDate>
+</item>
+<item>
 <title>AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型</title>
 <link>https://www.aibase.com/news/32237</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32237</guid>
 <description>AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Wed, 11 Nov 2026 07:47:08 +0000</pubDate>
-</item>
-<item>
-<title>Kippy AI — Learn languages while having fun!</title>
-<link>https://www.producthunt.com/products/kippy-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/kippy-ai</guid>
-<description>Learn languages while having fun! (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Wed, 11 Nov 2026 16:14:05 +0000</pubDate>
 </item>
 <item>
 <title>openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security</title>
@@ -160,12 +160,12 @@
 <pubDate>Wed, 11 Nov 2026 12:41:57 +0000</pubDate>
 </item>
 <item>
-<title>Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控</title>
-<link>https://www.aibase.com/news/32243</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32243</guid>
-<description>Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 11 Nov 2026 07:47:08 +0000</pubDate>
+<title>Kippy AI — Learn languages while having fun!</title>
+<link>https://www.producthunt.com/products/kippy-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/kippy-ai</guid>
+<description>Learn languages while having fun! (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Wed, 11 Nov 2026 21:05:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
