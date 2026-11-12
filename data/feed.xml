@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 12 Nov 2026 21:27:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 22:45:05 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
@@ -24,20 +24,20 @@
 <pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Introducing Gemini 4 Hydrogen</title>
-<link>https://deepmind.google/blog/introducing-gemini-4-hydrogen</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
-</item>
-<item>
 <title>Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
 <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</link>
 <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</guid>
 <description>Google AI Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing Gemini 4 Hydrogen</title>
+<link>https://deepmind.google/blog/introducing-gemini-4-hydrogen</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
 </item>
 <item>
 <title>ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux &amp; Windows retirement</title>
@@ -136,12 +136,12 @@
 <pubDate>Thu, 12 Nov 2026 08:23:40 +0000</pubDate>
 </item>
 <item>
-<title>Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team</title>
-<link>https://www.producthunt.com/products/grok</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/grok</guid>
-<description>Bots work together alongside your team（Product Hunt）</description>
+<title>Insight7 语音 AI 代理 — 为您呼叫客户的 AI 语音代理 / Insight7 Voice AI Agents — AI voice agents that call your customers for you</title>
+<link>https://www.producthunt.com/products/insight7</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/insight7</guid>
+<description>AI voice agents that call your customers for you（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Thu, 12 Nov 2026 21:25:51 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 22:42:36 +0000</pubDate>
 </item>
 <item>
 <title>Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作</title>
@@ -160,12 +160,12 @@
 <pubDate>Thu, 12 Nov 2026 13:45:47 +0000</pubDate>
 </item>
 <item>
-<title>Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps</title>
-<link>https://www.producthunt.com/products/adobe-ai-assistant</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/adobe-ai-assistant</guid>
-<description>Create and edit faster with AI across Adobe apps（Product Hunt）</description>
+<title>Gemini Decisions API — 快速、经过校准的多模式决策 / Gemini Decisions API — Fast, calibrated multimodal decisions</title>
+<link>https://www.producthunt.com/products/google</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/google</guid>
+<description>Fast, calibrated multimodal decisions（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Thu, 12 Nov 2026 21:14:06 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 22:37:39 +0000</pubDate>
 </item>
 </channel>
 </rss>
