@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 12 Nov 2026 08:23:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 13:44:50 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex</title>
+<link>https://openai.com/business/customer-stories/holidays-extras-codex</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/holidays-extras-codex</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 09:30:00 +0000</pubDate>
+</item>
 <item>
 <title>Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions</title>
 <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</link>
@@ -14,14 +22,6 @@
 <description>Google AI Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 11 Nov 2026 21:32:55 +0000</pubDate>
-</item>
-<item>
-<title>Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI</title>
-<link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
-<guid isPermaLink="true">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts</title>
@@ -40,12 +40,60 @@
 <pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
 </item>
 <item>
+<title>Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI</title>
+<link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
+<guid isPermaLink="true">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录</title>
+<link>https://www.aibase.com/news/32283</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32283</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 12 Nov 2026 13:44:50 +0000</pubDate>
+</item>
+<item>
 <title>尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
 <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</guid>
 <description>Google AI Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety</title>
+<link>https://openai.com/index/children-first-declaration</link>
+<guid isPermaLink="true">https://openai.com/index/children-first-declaration</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成</title>
+<link>https://www.aibase.com/news/32285</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32285</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 12 Nov 2026 13:44:50 +0000</pubDate>
+</item>
+<item>
+<title>微软松口允许关闭必应 AI 答案，但开门要收"过路费"</title>
+<link>https://www.aibase.com/news/32284</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32284</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 12 Nov 2026 13:44:50 +0000</pubDate>
+</item>
+<item>
+<title>押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元</title>
+<link>https://www.aibase.com/news/32286</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32286</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 12 Nov 2026 13:44:50 +0000</pubDate>
 </item>
 <item>
 <title>AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入</title>
@@ -64,12 +112,20 @@
 <pubDate>Thu, 12 Nov 2026 08:23:40 +0000</pubDate>
 </item>
 <item>
-<title>体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu</title>
-<link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu</link>
-<guid isPermaLink="true">https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
+<title>Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)</title>
+<link>https://github.com/Alishahryar1/free-claude-code</link>
+<guid isPermaLink="true">https://github.com/Alishahryar1/free-claude-code</guid>
+<description>Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)（GitHub Trending）</description>
+<category>值得关注</category>
+<pubDate>Thu, 12 Nov 2026 13:45:47 +0000</pubDate>
+</item>
+<item>
+<title>Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team</title>
+<link>https://www.producthunt.com/products/grok</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/grok</guid>
+<description>Bots work together alongside your team（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Thu, 12 Nov 2026 13:45:10 +0000</pubDate>
 </item>
 <item>
 <title>免费相册成引流入口？Win11 照片应用悄悄接入 Adobe</title>
@@ -80,44 +136,12 @@
 <pubDate>Thu, 12 Nov 2026 08:23:40 +0000</pubDate>
 </item>
 <item>
-<title>国产地震大模型“谛听”亮相：汇聚 2000 万数据集，让 AI 听懂地球“心跳”</title>
-<link>https://www.aibase.com/news/32276</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32276</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 12 Nov 2026 08:23:40 +0000</pubDate>
-</item>
-<item>
-<title>火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%</title>
-<link>https://www.aibase.com/news/32277</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32277</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 12 Nov 2026 08:23:40 +0000</pubDate>
-</item>
-<item>
-<title>百度发布大模型交易平台“词元所”：宣称中立可信，打造大模型界的“证券交易所”</title>
-<link>https://www.aibase.com/news/32272</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32272</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 12 Nov 2026 08:23:40 +0000</pubDate>
-</item>
-<item>
-<title>ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算 / ScroogeFrog AI — AI ad fraud detection that protects your marketing budget</title>
-<link>https://www.producthunt.com/products/scroogefrog-ai-antifraud</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/scroogefrog-ai-antifraud</guid>
-<description>AI ad fraud detection that protects your marketing budget（Product Hunt）</description>
+<title>Insight7 语音 AI 代理 — 为您呼叫客户的 AI 语音代理 / Insight7 Voice AI Agents — AI voice agents that call your customers for you</title>
+<link>https://www.producthunt.com/products/insight7</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/insight7</guid>
+<description>AI voice agents that call your customers for you（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Thu, 12 Nov 2026 08:00:39 +0000</pubDate>
-</item>
-<item>
-<title>百度文心大模型再升级：ERNIE 5.5 Flash Preview 亮相，模型权重将于 11 月 25 日前正式开源</title>
-<link>https://www.aibase.com/news/32278</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32278</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 12 Nov 2026 08:23:40 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 13:45:42 +0000</pubDate>
 </item>
 <item>
 <title>联合航空禁止人工智能代理代表旅客预订航班 / United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers</title>
@@ -128,44 +152,20 @@
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line</title>
-<link>https://www.producthunt.com/products/mitra-5</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/mitra-5</guid>
-<description>Give your AI agents access to your personal phone line（Product Hunt）</description>
-<category>值得关注</category>
-<pubDate>Thu, 12 Nov 2026 07:06:04 +0000</pubDate>
-</item>
-<item>
-<title>腾讯辟谣裁员50%:计划将一半力量投入AI Native探索</title>
-<link>https://www.aibase.com/news/32275</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32275</guid>
+<title>国产地震大模型“谛听”亮相：汇聚 2000 万数据集，让 AI 听懂地球“心跳”</title>
+<link>https://www.aibase.com/news/32276</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32276</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Thu, 12 Nov 2026 08:23:40 +0000</pubDate>
 </item>
 <item>
-<title>谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔</title>
-<link>https://pietromiotti.com/latest/maya-site/?maya=</link>
-<guid isPermaLink="true">https://pietromiotti.com/latest/maya-site/?maya=</guid>
-<description>pietromiotti.com</description>
-<category>多源热议</category>
-<pubDate>Wed, 11 Nov 2026 13:34:43 +0000</pubDate>
-</item>
-<item>
-<title>openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security</title>
-<link>https://github.com/openai/codex-security</link>
-<guid isPermaLink="true">https://github.com/openai/codex-security</guid>
-<description>OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security（GitHub Trending）</description>
+<title>Anthropic首次公开募股</title>
+<link>https://ipo.anthropic.com/us</link>
+<guid isPermaLink="true">https://ipo.anthropic.com/us</guid>
+<description>ipo.anthropic.com</description>
 <category>值得关注</category>
-<pubDate>Wed, 11 Nov 2026 12:41:57 +0000</pubDate>
-</item>
-<item>
-<title>软件工程中的人工智能、活动与成果</title>
-<link>https://cabird.com/talks/shipping-faster</link>
-<guid isPermaLink="true">https://cabird.com/talks/shipping-faster</guid>
-<description>cabird.com</description>
-<category>多源热议</category>
-<pubDate>Wed, 11 Nov 2026 22:36:01 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 12:55:42 +0000</pubDate>
 </item>
 </channel>
 </rss>
