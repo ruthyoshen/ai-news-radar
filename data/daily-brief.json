@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:44:50.957591Z",
+  "generated_at": "2026-11-12T17:38:30.392483Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9405,
+        "recency": 0.8891,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -172,15 +172,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7519,
+        "recency": 0.7108,
         "story_heat": 0.25
       },
       "category": "official",
@@ -208,67 +208,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
-      "story_id": "story_435472482058",
-      "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
-      "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-      "primary_url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-      "source": "GitHub Changelog",
+      "story_id": "story_2550ffde8017",
+      "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "primary_url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "271d467320e0561411f36d7cc2d28333a239c03a",
-          "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
-          "title_zh": "问题类型和字段适用于个人账户",
-          "title_en": "Issue types and fields are available for personal accounts",
-          "title_original": "Issue types and fields are available for personal accounts",
+          "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
+          "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
+          "title_zh": "3D 生成模型权威微调指南",
+          "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+          "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-          "source": "GitHub Changelog",
+          "url": "https://huggingface.co/blog/3d-lora-finetuning",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T17:16:46Z",
+          "published_at": "2026-11-12T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "271d467320e0561411f36d7cc2d28333a239c03a",
-          "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
-          "title_zh": "问题类型和字段适用于个人账户",
-          "title_en": "Issue types and fields are available for personal accounts",
-          "title_original": "Issue types and fields are available for personal accounts",
+          "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
+          "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
+          "title_zh": "3D 生成模型权威微调指南",
+          "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+          "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-          "source": "GitHub Changelog",
+          "url": "https://huggingface.co/blog/3d-lora-finetuning",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T17:16:46Z",
+          "published_at": "2026-11-12T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7441,
+        "ai_relevance": 0.95,
+        "recency": 0.7751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -277,112 +277,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T17:16:46Z",
-      "latest_at": "2026-11-11T17:16:46Z",
+      "earliest_at": "2026-11-12T00:00:00Z",
+      "latest_at": "2026-11-12T00:00:00Z",
       "primary_item": {
-        "id": "271d467320e0561411f36d7cc2d28333a239c03a",
-        "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
-        "title_zh": "问题类型和字段适用于个人账户",
-        "title_en": "Issue types and fields are available for personal accounts",
-        "title_original": "Issue types and fields are available for personal accounts",
+        "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
+        "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
+        "title_zh": "3D 生成模型权威微调指南",
+        "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+        "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-        "source": "GitHub Changelog",
+        "url": "https://huggingface.co/blog/3d-lora-finetuning",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
-      }
-    },
-    {
-      "story_id": "story_1a16cc65282e",
-      "title": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病 / AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-      "primary_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
-          "title": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病 / AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_zh": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病",
-          "title_en": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_original": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T15:00:15Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
-          "title": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病 / AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_zh": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病",
-          "title_en": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_original": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T15:00:15Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7201,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T15:00:15Z",
-      "latest_at": "2026-11-11T15:00:15Z",
-      "primary_item": {
-        "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
-        "title": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病 / AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-        "title_zh": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病",
-        "title_en": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-        "title_original": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -434,15 +347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8199,
+        "recency": 0.7751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,7 +382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -521,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,94 +468,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
-      }
-    },
-    {
-      "story_id": "story_c58cc76086ab",
-      "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-          "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_zh": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。",
-          "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_original": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T16:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-          "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_zh": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。",
-          "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_original": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T16:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7955,
-      "importance": 0.7955,
-      "importance_score": 0.7955,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7305,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T16:00:00Z",
-      "latest_at": "2026-11-11T16:00:00Z",
-      "primary_item": {
-        "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-        "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-        "title_zh": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。",
-        "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-        "title_original": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -694,15 +520,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8199,
+        "recency": 0.7751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -729,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -781,15 +607,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -815,7 +641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -867,15 +693,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -901,7 +727,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -953,15 +779,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -987,7 +813,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -1039,21 +865,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-12T08:23:40.433347Z",
       "latest_at": "2026-11-12T08:23:40.433347Z",
@@ -1073,7 +898,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -1125,21 +950,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-12T08:23:40.433347Z",
       "latest_at": "2026-11-12T08:23:40.433347Z",
@@ -1159,7 +983,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
+      }
+    },
+    {
+      "story_id": "story_38a54da14661",
+      "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+      "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "primary_url": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "summary": "Create and edit faster with AI across Adobe apps",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-10T18:55:39Z",
+          "updated_at": "2026-11-12T17:36:08Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
+          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
+          "title_zh": "Adobe 人工智能助手",
+          "title_en": "Adobe AI Assistant",
+          "title_original": "Adobe AI Assistant",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T13:28:23.745000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "summary": "Create and edit faster with AI across Adobe apps",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-10T18:55:39Z",
+          "updated_at": "2026-11-12T17:36:08Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
+          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
+          "title_zh": "Adobe 人工智能助手",
+          "title_en": "Adobe AI Assistant",
+          "title_original": "Adobe AI Assistant",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T13:28:23.745000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9994,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-12T13:28:23.745000Z",
+      "latest_at": "2026-11-12T17:36:08Z",
+      "primary_item": {
+        "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+        "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+        "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "summary": "Create and edit faster with AI across Adobe apps",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -1244,15 +1186,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5844,
+      "importance": 0.5844,
+      "importance_score": 0.5844,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9453,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1277,125 +1219,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
-      }
-    },
-    {
-      "story_id": "story_a5acb1ac992b",
-      "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
-      "url": "https://www.producthunt.com/products/grok",
-      "primary_url": "https://www.producthunt.com/products/grok",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
-          "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
-          "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
-          "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
-          "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
-          "summary": "Bots work together alongside your team",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/grok",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-11T19:38:45Z",
-          "updated_at": "2026-11-12T13:45:10Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "f1c2d171e022ce4f0249d2474f0180476c35a4ce",
-          "title": "Grok Bot 1.0",
-          "title_zh": null,
-          "title_en": "Grok Bot 1.0",
-          "title_original": "Grok Bot 1.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/grok",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T13:28:23.745000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
-          "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
-          "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
-          "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
-          "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
-          "summary": "Bots work together alongside your team",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/grok",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-11T19:38:45Z",
-          "updated_at": "2026-11-12T13:45:10Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "f1c2d171e022ce4f0249d2474f0180476c35a4ce",
-          "title": "Grok Bot 1.0",
-          "title_zh": null,
-          "title_en": "Grok Bot 1.0",
-          "title_original": "Grok Bot 1.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/grok",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T13:28:23.745000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-12T13:28:23.745000Z",
-      "latest_at": "2026-11-12T13:45:10Z",
-      "primary_item": {
-        "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
-        "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
-        "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
-        "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
-        "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
-        "summary": "Bots work together alongside your team",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/grok",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -1447,21 +1271,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-12T08:23:40.433347Z",
       "latest_at": "2026-11-12T08:23:40.433347Z",
@@ -1481,7 +1304,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -1505,7 +1328,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-11T13:19:50Z",
-          "updated_at": "2026-11-12T13:45:42Z",
+          "updated_at": "2026-11-12T17:30:35Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1544,7 +1367,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-11T13:19:50Z",
-          "updated_at": "2026-11-12T13:45:42Z",
+          "updated_at": "2026-11-12T17:30:35Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1566,15 +1389,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9981,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1582,7 +1405,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-12T13:28:23.745000Z",
-      "latest_at": "2026-11-12T13:45:42Z",
+      "latest_at": "2026-11-12T17:30:35Z",
       "primary_item": {
         "id": "efcf2e0dacc1186d3c4029cfe1c671cca45bd28e",
         "title": "Insight7 语音 AI 代理 — 为您呼叫客户的 AI 语音代理 / Insight7 Voice AI Agents — AI voice agents that call your customers for you",
@@ -1599,7 +1422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -1750,15 +1573,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5634,
-      "importance": 0.5634,
-      "importance_score": 0.5634,
+      "score": 0.5553,
+      "importance": 0.5553,
+      "importance_score": 0.5553,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8199,
+        "recency": 0.7751,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1783,7 +1606,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
+      }
+    },
+    {
+      "story_id": "story_4eff8fe8966c",
+      "title": "我正在让LLM在小型和旧设备上工作 / I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing",
+      "primary_url": "https://github.com/hyperionaidev/smolmaxxing",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2f45a610a9a3dc9289b54693611a3fbfd5b313ba",
+          "title": "我正在让LLM在小型和旧设备上工作 / I'm making LLMs work on small and old devices",
+          "title_zh": "我正在让LLM在小型和旧设备上工作",
+          "title_en": "I'm making LLMs work on small and old devices",
+          "title_original": "I'm making LLMs work on small and old devices",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/hyperionaidev/smolmaxxing",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-12T15:23:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d04989be15d9403e04be3b20867a2b3d5fda3262",
+          "title": "我正在让LLM在小型和旧设备上工作 / I'm making LLMs work on small and old devices",
+          "title_zh": "我正在让LLM在小型和旧设备上工作",
+          "title_en": "I'm making LLMs work on small and old devices",
+          "title_original": "I'm making LLMs work on small and old devices",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50468888",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T15:23:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2f45a610a9a3dc9289b54693611a3fbfd5b313ba",
+          "title": "我正在让LLM在小型和旧设备上工作 / I'm making LLMs work on small and old devices",
+          "title_zh": "我正在让LLM在小型和旧设备上工作",
+          "title_en": "I'm making LLMs work on small and old devices",
+          "title_original": "I'm making LLMs work on small and old devices",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/hyperionaidev/smolmaxxing",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-12T15:23:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d04989be15d9403e04be3b20867a2b3d5fda3262",
+          "title": "我正在让LLM在小型和旧设备上工作 / I'm making LLMs work on small and old devices",
+          "title_zh": "我正在让LLM在小型和旧设备上工作",
+          "title_en": "I'm making LLMs work on small and old devices",
+          "title_original": "I'm making LLMs work on small and old devices",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50468888",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T15:23:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.968,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-12T15:23:10Z",
+      "latest_at": "2026-11-12T15:23:10Z",
+      "primary_item": {
+        "id": "2f45a610a9a3dc9289b54693611a3fbfd5b313ba",
+        "title": "我正在让LLM在小型和旧设备上工作 / I'm making LLMs work on small and old devices",
+        "title_zh": "我正在让LLM在小型和旧设备上工作",
+        "title_en": "I'm making LLMs work on small and old devices",
+        "title_original": "I'm making LLMs work on small and old devices",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/hyperionaidev/smolmaxxing",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -1835,21 +1776,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-12T08:23:40.433347Z",
       "latest_at": "2026-11-12T08:23:40.433347Z",
@@ -1869,7 +1809,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     },
     {
@@ -1954,15 +1894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9882,
+        "recency": 0.9342,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1987,7 +1927,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T13:46:10.965827Z"
+        "scored_at": "2026-11-12T17:39:20.387262Z"
+      }
+    },
+    {
+      "story_id": "story_2f16b2d30e96",
+      "title": "Didit MCP — 用于身份验证和欺诈检查的 MCP 服务器 / Didit MCP — The MCP server for identity verification and fraud checks",
+      "url": "https://www.producthunt.com/products/didit-3",
+      "primary_url": "https://www.producthunt.com/products/didit-3",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "6e51a7790f298e216d14226a03fb7f6f65bb6377",
+          "title": "Didit MCP — 用于身份验证和欺诈检查的 MCP 服务器 / Didit MCP — The MCP server for identity verification and fraud checks",
+          "title_zh": "Didit MCP — 用于身份验证和欺诈检查的 MCP 服务器",
+          "title_en": "Didit MCP — The MCP server for identity verification and fraud checks",
+          "title_original": "Didit MCP — The MCP server for identity verification and fraud checks",
+          "summary": "The MCP server for identity verification and fraud checks",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/didit-3",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-12T07:50:55Z",
+          "updated_at": "2026-11-12T17:20:10Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "1f3d94dd8352bcc0a3637aaa5487146aa0eaf7c6",
+          "title": "Didit MCP",
+          "title_zh": null,
+          "title_en": "Didit MCP",
+          "title_original": "Didit MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/didit-3",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T13:28:23.745000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "6e51a7790f298e216d14226a03fb7f6f65bb6377",
+          "title": "Didit MCP — 用于身份验证和欺诈检查的 MCP 服务器 / Didit MCP — The MCP server for identity verification and fraud checks",
+          "title_zh": "Didit MCP — 用于身份验证和欺诈检查的 MCP 服务器",
+          "title_en": "Didit MCP — The MCP server for identity verification and fraud checks",
+          "title_original": "Didit MCP — The MCP server for identity verification and fraud checks",
+          "summary": "The MCP server for identity verification and fraud checks",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/didit-3",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-12T07:50:55Z",
+          "updated_at": "2026-11-12T17:20:10Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "1f3d94dd8352bcc0a3637aaa5487146aa0eaf7c6",
+          "title": "Didit MCP",
+          "title_zh": null,
+          "title_en": "Didit MCP",
+          "title_original": "Didit MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/didit-3",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T13:28:23.745000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5934,
+      "importance": 0.5934,
+      "importance_score": 0.5934,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-12T13:28:23.745000Z",
+      "latest_at": "2026-11-12T17:20:10Z",
+      "primary_item": {
+        "id": "6e51a7790f298e216d14226a03fb7f6f65bb6377",
+        "title": "Didit MCP — 用于身份验证和欺诈检查的 MCP 服务器 / Didit MCP — The MCP server for identity verification and fraud checks",
+        "title_zh": "Didit MCP — 用于身份验证和欺诈检查的 MCP 服务器",
+        "title_en": "Didit MCP — The MCP server for identity verification and fraud checks",
+        "title_original": "Didit MCP — The MCP server for identity verification and fraud checks",
+        "summary": "The MCP server for identity verification and fraud checks",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/didit-3",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-12T17:39:20.387262Z"
       }
     }
   ]
