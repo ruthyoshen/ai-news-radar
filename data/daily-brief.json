@@ -1,8 +1,182 @@
 {
-  "generated_at": "2026-11-13T16:29:23.120403Z",
+  "generated_at": "2026-11-13T20:54:32.992915Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_010ac45cd0c9",
+      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T18:00:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T18:00:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8586,
+      "importance": 0.8586,
+      "importance_score": 0.8586,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.959,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T18:00:39Z",
+      "latest_at": "2026-11-13T18:00:39Z",
+      "primary_item": {
+        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+        "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T20:55:31.005755Z"
+      }
+    },
+    {
+      "story_id": "story_e0ce3fdbb288",
+      "title": "Gemini 4 Hydrogen in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
+          "title": "Gemini 4 Hydrogen in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Hydrogen in GitHub Copilot",
+          "title_original": "Gemini 4 Hydrogen in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T18:23:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
+          "title": "Gemini 4 Hydrogen in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Hydrogen in GitHub Copilot",
+          "title_original": "Gemini 4 Hydrogen in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T18:23:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8536,
+      "importance": 0.8536,
+      "importance_score": 0.8536,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9644,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T18:23:48Z",
+      "latest_at": "2026-11-13T18:23:48Z",
+      "primary_item": {
+        "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
+        "title": "Gemini 4 Hydrogen in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Gemini 4 Hydrogen in GitHub Copilot",
+        "title_original": "Gemini 4 Hydrogen in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T20:55:31.005755Z"
+      }
+    },
     {
       "story_id": "story_a9f8b4a664f6",
       "title": "Introducing ChatGPT Wallet",
@@ -52,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8562,
-      "importance": 0.8562,
-      "importance_score": 0.8562,
+      "score": 0.8453,
+      "importance": 0.8453,
+      "importance_score": 0.8453,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9787,
+        "recency": 0.9182,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,94 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
-      }
-    },
-    {
-      "story_id": "story_9113026e72af",
-      "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8539,
-      "importance": 0.8539,
-      "importance_score": 0.8539,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9659,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T14:05:22Z",
-      "latest_at": "2026-11-13T14:05:22Z",
-      "primary_item": {
-        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-        "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
@@ -258,15 +345,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8529,
-      "importance": 0.8529,
-      "importance_score": 0.8529,
+      "score": 0.8441,
+      "importance": 0.8441,
+      "importance_score": 0.8441,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7881,
+        "recency": 0.7394,
         "story_heat": 0.25
       },
       "category": "official",
@@ -294,30 +381,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
-      "story_id": "story_83023b0bea9d",
-      "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "story_id": "story_65948bc08832",
+      "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "primary_url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+          "title_zh": "XYBench：帮助解决问题背后的问题",
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T17:02:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+          "title_zh": "XYBench：帮助解决问题背后的问题",
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T17:02:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9457,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T17:02:35Z",
+      "latest_at": "2026-11-13T17:02:35Z",
+      "primary_item": {
+        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+        "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+        "title_zh": "XYBench：帮助解决问题背后的问题",
+        "title_en": "XYBench: Helping with the problem behind the question",
+        "title_original": "XYBench: Helping with the problem behind the question",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/xybench",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T20:55:31.005755Z"
+      }
+    },
+    {
+      "story_id": "story_ce1046eebd38",
+      "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "80ac462642d08ac454ccc85158579adc912e472c",
-          "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-          "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
-          "title_en": "Manage AI Scan for repositories using the REST API",
-          "title_original": "Manage AI Scan for repositories using the REST API",
+          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+          "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持",
+          "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T12:22:41Z",
+          "published_at": "2026-11-13T18:27:13Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -328,33 +502,33 @@
       ],
       "items": [
         {
-          "id": "80ac462642d08ac454ccc85158579adc912e472c",
-          "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-          "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
-          "title_en": "Manage AI Scan for repositories using the REST API",
-          "title_original": "Manage AI Scan for repositories using the REST API",
+          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+          "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持",
+          "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T12:22:41Z",
+          "published_at": "2026-11-13T18:27:13Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9424,
+        "ai_relevance": 0.91,
+        "recency": 0.9652,
         "story_heat": 0.0
       },
       "category": "official",
@@ -363,17 +537,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T12:22:41Z",
-      "latest_at": "2026-11-13T12:22:41Z",
+      "earliest_at": "2026-11-13T18:27:13Z",
+      "latest_at": "2026-11-13T18:27:13Z",
       "primary_item": {
-        "id": "80ac462642d08ac454ccc85158579adc912e472c",
-        "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
-        "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
-        "title_en": "Manage AI Scan for repositories using the REST API",
-        "title_original": "Manage AI Scan for repositories using the REST API",
+        "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+        "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+        "title_zh": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持",
+        "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
+        "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+        "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -381,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
@@ -433,15 +607,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7758,
+        "recency": 0.7279,
         "story_heat": 0.0
       },
       "category": "official",
@@ -468,204 +642,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
-      "story_id": "story_6df6ce89b479",
-      "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7227,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T18:00:00Z",
-      "latest_at": "2026-11-12T18:00:00Z",
-      "primary_item": {
-        "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-        "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-        "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
-      }
-    },
-    {
-      "story_id": "story_b821bfa39311",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Hydrogen",
-          "title_original": "Introducing Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Hydrogen",
-          "title_original": "Introducing Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7228,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T18:00:50Z",
-      "latest_at": "2026-11-12T18:00:50Z",
-      "primary_item": {
-        "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-        "title": "Introducing Gemini 4 Hydrogen",
-        "title_zh": null,
-        "title_en": "Introducing Gemini 4 Hydrogen",
-        "title_original": "Introducing Gemini 4 Hydrogen",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
-      }
-    },
-    {
-      "story_id": "story_b9fa2a337927",
-      "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "story_id": "story_9113026e72af",
+      "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_zh": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中",
-          "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T19:07:35Z",
+          "published_at": "2026-11-13T14:05:22Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -676,33 +676,33 @@
       ],
       "items": [
         {
-          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_zh": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中",
-          "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T19:07:35Z",
+          "published_at": "2026-11-13T14:05:22Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7345,
+        "ai_relevance": 0.95,
+        "recency": 0.9062,
         "story_heat": 0.0
       },
       "category": "official",
@@ -711,17 +711,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T19:07:35Z",
-      "latest_at": "2026-11-12T19:07:35Z",
+      "earliest_at": "2026-11-13T14:05:22Z",
+      "latest_at": "2026-11-13T14:05:22Z",
       "primary_item": {
-        "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-        "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-        "title_zh": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中",
-        "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-        "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+        "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -729,117 +729,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
-      "story_id": "story_58db6e6cc441",
-      "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "primary_url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
-          "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
-          "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7439,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T20:00:00Z",
-      "latest_at": "2026-11-12T20:00:00Z",
-      "primary_item": {
-        "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-        "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
-        "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/amplitude",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
-      }
-    },
-    {
-      "story_id": "story_60a6f4a929d8",
-      "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
-      "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
-      "primary_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+      "story_id": "story_83023b0bea9d",
+      "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
+      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
-          "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
-          "title_zh": "ARM32 Linux 和 Windows 退役的行动",
-          "title_en": "Actions for ARM32 Linux & Windows retirement",
-          "title_original": "Actions for ARM32 Linux & Windows retirement",
+          "id": "80ac462642d08ac454ccc85158579adc912e472c",
+          "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
+          "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
+          "title_en": "Manage AI Scan for repositories using the REST API",
+          "title_original": "Manage AI Scan for repositories using the REST API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T20:59:36Z",
+          "published_at": "2026-11-13T12:22:41Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -850,33 +763,33 @@
       ],
       "items": [
         {
-          "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
-          "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
-          "title_zh": "ARM32 Linux 和 Windows 退役的行动",
-          "title_en": "Actions for ARM32 Linux & Windows retirement",
-          "title_original": "Actions for ARM32 Linux & Windows retirement",
+          "id": "80ac462642d08ac454ccc85158579adc912e472c",
+          "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
+          "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
+          "title_en": "Manage AI Scan for repositories using the REST API",
+          "title_original": "Manage AI Scan for repositories using the REST API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T20:59:36Z",
+          "published_at": "2026-11-13T12:22:41Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7546,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -885,17 +798,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T20:59:36Z",
-      "latest_at": "2026-11-12T20:59:36Z",
+      "earliest_at": "2026-11-13T12:22:41Z",
+      "latest_at": "2026-11-13T12:22:41Z",
       "primary_item": {
-        "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
-        "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
-        "title_zh": "ARM32 Linux 和 Windows 退役的行动",
-        "title_en": "Actions for ARM32 Linux & Windows retirement",
-        "title_original": "Actions for ARM32 Linux & Windows retirement",
+        "id": "80ac462642d08ac454ccc85158579adc912e472c",
+        "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
+        "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
+        "title_en": "Manage AI Scan for repositories using the REST API",
+        "title_original": "Manage AI Scan for repositories using the REST API",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+        "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -903,7 +816,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
@@ -955,21 +868,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.952,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-13T13:05:10.504019Z",
       "latest_at": "2026-11-13T13:05:10.504019Z",
@@ -989,7 +901,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
@@ -1041,21 +953,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.952,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-13T13:05:10.504019Z",
       "latest_at": "2026-11-13T13:05:10.504019Z",
@@ -1075,7 +986,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
+      }
+    },
+    {
+      "story_id": "story_60a6f4a929d8",
+      "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
+      "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+      "primary_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
+          "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
+          "title_zh": "ARM32 Linux 和 Windows 退役的行动",
+          "title_en": "Actions for ARM32 Linux & Windows retirement",
+          "title_original": "Actions for ARM32 Linux & Windows retirement",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T20:59:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
+          "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
+          "title_zh": "ARM32 Linux 和 Windows 退役的行动",
+          "title_en": "Actions for ARM32 Linux & Windows retirement",
+          "title_original": "Actions for ARM32 Linux & Windows retirement",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T20:59:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.708,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T20:59:36Z",
+      "latest_at": "2026-11-12T20:59:36Z",
+      "primary_item": {
+        "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
+        "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
+        "title_zh": "ARM32 Linux 和 Windows 退役的行动",
+        "title_en": "Actions for ARM32 Linux & Windows retirement",
+        "title_original": "Actions for ARM32 Linux & Windows retirement",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
@@ -1127,21 +1125,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.952,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-13T13:05:10.504019Z",
       "latest_at": "2026-11-13T13:05:10.504019Z",
@@ -1161,7 +1158,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
@@ -1213,21 +1210,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.952,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-13T13:05:10.504019Z",
       "latest_at": "2026-11-13T13:05:10.504019Z",
@@ -1247,7 +1243,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
+      }
+    },
+    {
+      "story_id": "story_9e856449cb05",
+      "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "primary_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "f2e127d1d8ca8de59c651f9b0d7ee788cbb53911",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+          "title_zh": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！",
+          "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+          "title_original": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-13T18:40:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "432c078816438f63601a8a6739b57cbd88848b25",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "title_zh": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！",
+          "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "title_original": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-13T18:40:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "f2e127d1d8ca8de59c651f9b0d7ee788cbb53911",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+          "title_zh": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！",
+          "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+          "title_original": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-13T18:40:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "432c078816438f63601a8a6739b57cbd88848b25",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "title_zh": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！",
+          "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "title_original": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-13T18:40:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6514,
+      "importance": 0.6514,
+      "importance_score": 0.6514,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9683,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T18:40:30Z",
+      "latest_at": "2026-11-13T18:40:30Z",
+      "primary_item": {
+        "id": "f2e127d1d8ca8de59c651f9b0d7ee788cbb53911",
+        "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+        "title_zh": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！",
+        "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+        "title_original": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
@@ -1299,21 +1413,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.952,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-13T13:05:10.504019Z",
       "latest_at": "2026-11-13T13:05:10.504019Z",
@@ -1333,125 +1446,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
-      "story_id": "story_46bf915e34cd",
-      "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-      "primary_url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_3a9d31bcd45f",
+      "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+      "url": "https://www.producthunt.com/products/claude",
+      "primary_url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
-          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-          "title_zh": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战",
-          "title_en": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-          "title_original": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-          "summary": null,
+          "id": "072fed0d14b2f3764839a0d7918f791443619e85",
+          "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
+          "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "summary": "Add Claude to your call and get work started as you talk",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-12T17:36:40Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/claude",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-13T02:24:55Z",
+          "updated_at": "2026-11-13T20:53:28Z",
+          "recency_basis": "updated_at"
         },
         {
-          "id": "ff22e07299db7890757cfae5e6da21a9883ccb61",
-          "title": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI",
-          "title_zh": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗",
-          "title_en": "Hugging Face CEO vows to keep fighting for open-source AI",
-          "title_original": "Hugging Face CEO vows to keep fighting for open-source AI",
+          "id": "ac7589f692f8ff7db45bfc63491ffe72b00ef84b",
+          "title": "Claude Meetings",
+          "title_zh": null,
+          "title_en": "Claude Meetings",
+          "title_original": "Claude Meetings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-12T18:17:29Z",
+          "url": "https://www.producthunt.com/products/claude",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T13:05:49.034000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI"
+        "Product Hunt",
+        "producthunt"
       ],
       "items": [
         {
-          "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
-          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-          "title_zh": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战",
-          "title_en": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-          "title_original": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-          "summary": null,
+          "id": "072fed0d14b2f3764839a0d7918f791443619e85",
+          "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
+          "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "summary": "Add Claude to your call and get work started as you talk",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-12T17:36:40Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/claude",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-13T02:24:55Z",
+          "updated_at": "2026-11-13T20:53:28Z",
+          "recency_basis": "updated_at"
         },
         {
-          "id": "ff22e07299db7890757cfae5e6da21a9883ccb61",
-          "title": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI",
-          "title_zh": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗",
-          "title_en": "Hugging Face CEO vows to keep fighting for open-source AI",
-          "title_original": "Hugging Face CEO vows to keep fighting for open-source AI",
+          "id": "ac7589f692f8ff7db45bfc63491ffe72b00ef84b",
+          "title": "Claude Meetings",
+          "title_zh": null,
+          "title_en": "Claude Meetings",
+          "title_original": "Claude Meetings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-12T18:17:29Z",
+          "url": "https://www.producthunt.com/products/claude",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T13:05:49.034000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6106,
-      "importance": 0.6106,
-      "importance_score": 0.6106,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7187,
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9997,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-12T17:36:40Z",
-      "latest_at": "2026-11-12T18:17:29Z",
+      "earliest_at": "2026-11-13T13:05:49.034000Z",
+      "latest_at": "2026-11-13T20:53:28Z",
       "primary_item": {
-        "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
-        "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-        "title_zh": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战",
-        "title_en": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-        "title_original": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-        "summary": null,
+        "id": "072fed0d14b2f3764839a0d7918f791443619e85",
+        "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+        "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
+        "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
+        "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
+        "summary": "Add Claude to your call and get work started as you talk",
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "url": "https://www.producthunt.com/products/claude",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
@@ -1503,15 +1616,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8855,
+        "recency": 0.8307,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1536,125 +1649,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
-      }
-    },
-    {
-      "story_id": "story_3a9d31bcd45f",
-      "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
-      "url": "https://www.producthunt.com/products/claude",
-      "primary_url": "https://www.producthunt.com/products/claude",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "072fed0d14b2f3764839a0d7918f791443619e85",
-          "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
-          "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
-          "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
-          "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
-          "summary": "Add Claude to your call and get work started as you talk",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-13T02:24:55Z",
-          "updated_at": "2026-11-13T16:27:50Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "ac7589f692f8ff7db45bfc63491ffe72b00ef84b",
-          "title": "Claude Meetings",
-          "title_zh": null,
-          "title_en": "Claude Meetings",
-          "title_original": "Claude Meetings",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-13T13:05:49.034000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "072fed0d14b2f3764839a0d7918f791443619e85",
-          "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
-          "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
-          "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
-          "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
-          "summary": "Add Claude to your call and get work started as you talk",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-13T02:24:55Z",
-          "updated_at": "2026-11-13T16:27:50Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "ac7589f692f8ff7db45bfc63491ffe72b00ef84b",
-          "title": "Claude Meetings",
-          "title_zh": null,
-          "title_en": "Claude Meetings",
-          "title_original": "Claude Meetings",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-13T13:05:49.034000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9996,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-13T13:05:49.034000Z",
-      "latest_at": "2026-11-13T16:27:50Z",
-      "primary_item": {
-        "id": "072fed0d14b2f3764839a0d7918f791443619e85",
-        "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
-        "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
-        "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
-        "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
-        "summary": "Add Claude to your call and get work started as you talk",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/claude",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
@@ -1739,15 +1734,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5856,
-      "importance": 0.5856,
-      "importance_score": 0.5856,
+      "score": 0.575,
+      "importance": 0.575,
+      "importance_score": 0.575,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.952,
+        "recency": 0.8932,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1772,62 +1767,62 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     },
     {
-      "story_id": "story_c9e80759fd74",
-      "title": "人工智能正在破坏作家与读者之间的信任",
-      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
-      "primary_url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
-      "source": "www.theatlantic.com",
+      "story_id": "story_85f88152af4b",
+      "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "primary_url": "https://text.npr.org/nx-s1-6029408",
+      "source": "text.npr.org",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8d90df74c668b3fca52fa467f922da12474bc62c",
-          "title": "人工智能正在破坏作家与读者之间的信任",
-          "title_zh": "人工智能正在破坏作家与读者之间的信任",
+          "id": "d19db2f8c7d9e9d04c792c80e2eaea07da207f87",
+          "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "title_zh": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
           "title_en": null,
-          "title_original": "人工智能正在破坏作家与读者之间的信任",
+          "title_original": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
-          "source": "www.theatlantic.com",
+          "url": "https://text.npr.org/nx-s1-6029408",
+          "source": "text.npr.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-13T15:31:39.279000Z",
+          "published_at": "2026-11-13T19:29:43.175000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "a9ab58cdaec40dbd16a55cc7fed9cfe6ad1c9afe",
-          "title": "人工智能正在破坏作家与读者之间的信任 / AI Is Destroying the Trust Between Writers and Readers",
-          "title_zh": "人工智能正在破坏作家与读者之间的信任",
-          "title_en": "AI Is Destroying the Trust Between Writers and Readers",
-          "title_original": "AI Is Destroying the Trust Between Writers and Readers",
+          "id": "b6dc5558949e7cf88f902396532e849363b5d030",
+          "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测 / Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_zh": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "title_en": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_original": "Why is Google cutting off Search from AI-free schools? Here are some theories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
+          "url": "https://text.npr.org/nx-s1-6029408",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-13T11:13:46Z",
+          "published_at": "2026-11-13T15:29:10Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "d684d7c7cb91909232575d1d757b7e512e77cc68",
-          "title": "人工智能正在摧毁作家和读者之间的信任 / AI Is Destroying the Trust Between Writers and Readers",
-          "title_zh": "人工智能正在摧毁作家和读者之间的信任",
-          "title_en": "AI Is Destroying the Trust Between Writers and Readers",
-          "title_original": "AI Is Destroying the Trust Between Writers and Readers",
+          "id": "dc4403049397bd84f2487e56277996a5f7d8c15c",
+          "title": "为什么谷歌要切断没有人工智能的学校的搜索服务？这是一些理论 / Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_zh": "为什么谷歌要切断没有人工智能的学校的搜索服务？这是一些理论",
+          "title_en": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_original": "Why is Google cutting off Search from AI-free schools? Here are some theories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50481870",
+          "url": "https://news.ycombinator.com/item?id=50484960",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-13T11:13:46Z",
+          "published_at": "2026-11-13T15:29:10Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1836,94 +1831,94 @@
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "www.theatlantic.com"
+        "text.npr.org"
       ],
       "items": [
         {
-          "id": "8d90df74c668b3fca52fa467f922da12474bc62c",
-          "title": "人工智能正在破坏作家与读者之间的信任",
-          "title_zh": "人工智能正在破坏作家与读者之间的信任",
+          "id": "d19db2f8c7d9e9d04c792c80e2eaea07da207f87",
+          "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "title_zh": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
           "title_en": null,
-          "title_original": "人工智能正在破坏作家与读者之间的信任",
+          "title_original": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
-          "source": "www.theatlantic.com",
+          "url": "https://text.npr.org/nx-s1-6029408",
+          "source": "text.npr.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-13T15:31:39.279000Z",
+          "published_at": "2026-11-13T19:29:43.175000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "a9ab58cdaec40dbd16a55cc7fed9cfe6ad1c9afe",
-          "title": "人工智能正在破坏作家与读者之间的信任 / AI Is Destroying the Trust Between Writers and Readers",
-          "title_zh": "人工智能正在破坏作家与读者之间的信任",
-          "title_en": "AI Is Destroying the Trust Between Writers and Readers",
-          "title_original": "AI Is Destroying the Trust Between Writers and Readers",
+          "id": "b6dc5558949e7cf88f902396532e849363b5d030",
+          "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测 / Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_zh": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "title_en": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_original": "Why is Google cutting off Search from AI-free schools? Here are some theories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
+          "url": "https://text.npr.org/nx-s1-6029408",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-13T11:13:46Z",
+          "published_at": "2026-11-13T15:29:10Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "d684d7c7cb91909232575d1d757b7e512e77cc68",
-          "title": "人工智能正在摧毁作家和读者之间的信任 / AI Is Destroying the Trust Between Writers and Readers",
-          "title_zh": "人工智能正在摧毁作家和读者之间的信任",
-          "title_en": "AI Is Destroying the Trust Between Writers and Readers",
-          "title_original": "AI Is Destroying the Trust Between Writers and Readers",
+          "id": "dc4403049397bd84f2487e56277996a5f7d8c15c",
+          "title": "为什么谷歌要切断没有人工智能的学校的搜索服务？这是一些理论 / Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_zh": "为什么谷歌要切断没有人工智能的学校的搜索服务？这是一些理论",
+          "title_en": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_original": "Why is Google cutting off Search from AI-free schools? Here are some theories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50481870",
+          "url": "https://news.ycombinator.com/item?id=50484960",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-13T11:13:46Z",
+          "published_at": "2026-11-13T15:29:10Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5683,
-      "importance": 0.5683,
-      "importance_score": 0.5683,
+      "score": 0.5672,
+      "importance": 0.5672,
+      "importance_score": 0.5672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9862,
+        "recency": 0.9798,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-13T11:13:46Z",
-      "latest_at": "2026-11-13T15:31:39.279000Z",
+      "earliest_at": "2026-11-13T15:29:10Z",
+      "latest_at": "2026-11-13T19:29:43.175000Z",
       "primary_item": {
-        "id": "8d90df74c668b3fca52fa467f922da12474bc62c",
-        "title": "人工智能正在破坏作家与读者之间的信任",
-        "title_zh": "人工智能正在破坏作家与读者之间的信任",
+        "id": "d19db2f8c7d9e9d04c792c80e2eaea07da207f87",
+        "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+        "title_zh": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
         "title_en": null,
-        "title_original": "人工智能正在破坏作家与读者之间的信任",
+        "title_original": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
-        "source": "www.theatlantic.com",
+        "url": "https://text.npr.org/nx-s1-6029408",
+        "source": "text.npr.org",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T16:30:26.650473Z"
+        "scored_at": "2026-11-13T20:55:31.005755Z"
       }
     }
   ]
