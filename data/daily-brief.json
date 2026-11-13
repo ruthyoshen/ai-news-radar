@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T08:04:06.315705Z",
+  "generated_at": "2026-11-13T13:05:10.504019Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -26,9 +26,25 @@
           "published_at": "2026-11-13T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
+        },
+        {
+          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
+          "title": "Codex CLI 0.169.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.169.0",
+          "title_original": "Codex CLI 0.169.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
         "OpenAI Codex Changelog"
       ],
@@ -48,24 +64,41 @@
           "published_at": "2026-11-13T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
+        },
+        {
+          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
+          "title": "Codex CLI 0.169.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.169.0",
+          "title_original": "Codex CLI 0.169.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.89,
-        "story_heat": 0.0
+        "recency": 0.8278,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -87,7 +120,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
+      }
+    },
+    {
+      "story_id": "story_83023b0bea9d",
+      "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
+      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "80ac462642d08ac454ccc85158579adc912e472c",
+          "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
+          "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
+          "title_en": "Manage AI Scan for repositories using the REST API",
+          "title_original": "Manage AI Scan for repositories using the REST API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T12:22:41Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "80ac462642d08ac454ccc85158579adc912e472c",
+          "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
+          "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
+          "title_en": "Manage AI Scan for repositories using the REST API",
+          "title_original": "Manage AI Scan for repositories using the REST API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T12:22:41Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9898,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T12:22:41Z",
+      "latest_at": "2026-11-13T12:22:41Z",
+      "primary_item": {
+        "id": "80ac462642d08ac454ccc85158579adc912e472c",
+        "title": "使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API",
+        "title_zh": "使用 REST API 管理代码仓库的 AI Scan",
+        "title_en": "Manage AI Scan for repositories using the REST API",
+        "title_original": "Manage AI Scan for repositories using the REST API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
@@ -139,15 +259,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.8373,
-      "importance_score": 0.8373,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8295,
+        "recency": 0.7716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +294,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
@@ -226,15 +346,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8762,
+        "recency": 0.8149,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +381,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
@@ -313,15 +433,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8401,
+        "recency": 0.7813,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,94 +468,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
-      }
-    },
-    {
-      "story_id": "story_6df6ce89b479",
-      "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8162,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T18:00:00Z",
-      "latest_at": "2026-11-12T18:00:00Z",
-      "primary_item": {
-        "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-        "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-        "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
@@ -487,15 +520,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8163,
+        "recency": 0.7593,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +555,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
+      }
+    },
+    {
+      "story_id": "story_6df6ce89b479",
+      "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
+          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
+          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7591,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T18:00:00Z",
+      "latest_at": "2026-11-12T18:00:00Z",
+      "primary_item": {
+        "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+        "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
+        "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
@@ -574,15 +694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8522,
+        "recency": 0.7926,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,94 +729,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
-      "story_id": "story_6759601e393f",
-      "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "primary_url": "https://openai.com/business/customer-stories/gondola",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_0946096a5431",
+      "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+      "url": "https://www.aibase.com/news/32317",
+      "primary_url": "https://www.aibase.com/news/32317",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
-          "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
-          "title_zh": "Gondola 团队利用 Codex 打造更多产品，收入翻倍",
-          "title_en": "Gondola doubles revenue as its team builds more with Codex",
-          "title_original": "Gondola doubles revenue as its team builds more with Codex",
+          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_en": null,
+          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/gondola",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T12:00:00Z",
+          "url": "https://www.aibase.com/news/32317",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T13:05:10.504019Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
-          "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
-          "title_zh": "Gondola 团队利用 Codex 打造更多产品，收入翻倍",
-          "title_en": "Gondola doubles revenue as its team builds more with Codex",
-          "title_original": "Gondola doubles revenue as its team builds more with Codex",
+          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_en": null,
+          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/gondola",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T12:00:00Z",
+          "url": "https://www.aibase.com/news/32317",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T13:05:10.504019Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7484,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T12:00:00Z",
-      "latest_at": "2026-11-12T12:00:00Z",
+      "earliest_at": "2026-11-13T13:05:10.504019Z",
+      "latest_at": "2026-11-13T13:05:10.504019Z",
       "primary_item": {
-        "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
-        "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
-        "title_zh": "Gondola 团队利用 Codex 打造更多产品，收入翻倍",
-        "title_en": "Gondola doubles revenue as its team builds more with Codex",
-        "title_original": "Gondola doubles revenue as its team builds more with Codex",
+        "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+        "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "title_en": null,
+        "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/gondola",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32317",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
@@ -748,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7775,
+        "recency": 0.7232,
         "story_heat": 0.0
       },
       "category": "official",
@@ -783,30 +902,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
-      "story_id": "story_1251a421a37f",
-      "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-      "url": "https://www.aibase.com/news/32309",
-      "primary_url": "https://www.aibase.com/news/32309",
+      "story_id": "story_cf4a6103a8ec",
+      "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+      "url": "https://www.aibase.com/news/32318",
+      "primary_url": "https://www.aibase.com/news/32318",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
-          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
+          "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+          "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
           "title_en": null,
-          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32309",
+          "url": "https://www.aibase.com/news/32318",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T08:04:06.315705Z",
+          "published_at": "2026-11-13T13:05:10.504019Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -817,18 +936,18 @@
       ],
       "items": [
         {
-          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
-          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
+          "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+          "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
           "title_en": null,
-          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32309",
+          "url": "https://www.aibase.com/news/32318",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T08:04:06.315705Z",
+          "published_at": "2026-11-13T13:05:10.504019Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -851,17 +970,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T08:04:06.315705Z",
-      "latest_at": "2026-11-13T08:04:06.315705Z",
+      "earliest_at": "2026-11-13T13:05:10.504019Z",
+      "latest_at": "2026-11-13T13:05:10.504019Z",
       "primary_item": {
-        "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
-        "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-        "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
+        "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+        "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
         "title_en": null,
-        "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32309",
+        "url": "https://www.aibase.com/news/32318",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -869,94 +988,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
-      "story_id": "story_8d6545f9d797",
-      "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "primary_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e3631194f721",
+      "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+      "url": "https://www.aibase.com/news/32320",
+      "primary_url": "https://www.aibase.com/news/32320",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "56ac938b70352617ddc35b273b898745281efb48",
-          "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-          "title_zh": "Holiday Extras 正在重新思考可以使用 Codex 构建什么",
-          "title_en": "Holiday Extras is rethinking what it can build with Codex",
-          "title_original": "Holiday Extras is rethinking what it can build with Codex",
+          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "title_en": null,
+          "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T09:30:00Z",
+          "url": "https://www.aibase.com/news/32320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T13:05:10.504019Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "56ac938b70352617ddc35b273b898745281efb48",
-          "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-          "title_zh": "Holiday Extras 正在重新思考可以使用 Codex 构建什么",
-          "title_en": "Holiday Extras is rethinking what it can build with Codex",
-          "title_original": "Holiday Extras is rethinking what it can build with Codex",
+          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "title_en": null,
+          "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T09:30:00Z",
+          "url": "https://www.aibase.com/news/32320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T13:05:10.504019Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7219,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T09:30:00Z",
-      "latest_at": "2026-11-12T09:30:00Z",
+      "earliest_at": "2026-11-13T13:05:10.504019Z",
+      "latest_at": "2026-11-13T13:05:10.504019Z",
       "primary_item": {
-        "id": "56ac938b70352617ddc35b273b898745281efb48",
-        "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-        "title_zh": "Holiday Extras 正在重新思考可以使用 Codex 构建什么",
-        "title_en": "Holiday Extras is rethinking what it can build with Codex",
-        "title_original": "Holiday Extras is rethinking what it can build with Codex",
+        "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+        "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+        "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+        "title_en": null,
+        "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32320",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
@@ -1008,15 +1126,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7774,
+        "recency": 0.723,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1043,30 +1161,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
-      "story_id": "story_2a6b152b8296",
-      "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
-      "url": "https://www.aibase.com/news/32315",
-      "primary_url": "https://www.aibase.com/news/32315",
+      "story_id": "story_bf0c061cd80d",
+      "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+      "url": "https://www.aibase.com/news/32321",
+      "primary_url": "https://www.aibase.com/news/32321",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
-          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
-          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "id": "299acdd956cdad513ff6a759adb2eec679532916",
+          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
           "title_en": null,
-          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32315",
+          "url": "https://www.aibase.com/news/32321",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T08:04:06.315705Z",
+          "published_at": "2026-11-13T13:05:10.504019Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1077,18 +1195,18 @@
       ],
       "items": [
         {
-          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
-          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
-          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "id": "299acdd956cdad513ff6a759adb2eec679532916",
+          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
           "title_en": null,
-          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32315",
+          "url": "https://www.aibase.com/news/32321",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T08:04:06.315705Z",
+          "published_at": "2026-11-13T13:05:10.504019Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1111,17 +1229,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T08:04:06.315705Z",
-      "latest_at": "2026-11-13T08:04:06.315705Z",
+      "earliest_at": "2026-11-13T13:05:10.504019Z",
+      "latest_at": "2026-11-13T13:05:10.504019Z",
       "primary_item": {
-        "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
-        "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
-        "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+        "id": "299acdd956cdad513ff6a759adb2eec679532916",
+        "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+        "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
         "title_en": null,
-        "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+        "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32315",
+        "url": "https://www.aibase.com/news/32321",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1129,30 +1247,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
-      "story_id": "story_a650fbc5cf5d",
-      "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-      "url": "https://www.aibase.com/news/32307",
-      "primary_url": "https://www.aibase.com/news/32307",
+      "story_id": "story_abb7247ae009",
+      "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+      "url": "https://www.aibase.com/news/32322",
+      "primary_url": "https://www.aibase.com/news/32322",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
-          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
+          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
           "title_en": null,
-          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32307",
+          "url": "https://www.aibase.com/news/32322",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T08:04:06.315705Z",
+          "published_at": "2026-11-13T13:05:10.504019Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1163,18 +1281,18 @@
       ],
       "items": [
         {
-          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
-          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
+          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
           "title_en": null,
-          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32307",
+          "url": "https://www.aibase.com/news/32322",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T08:04:06.315705Z",
+          "published_at": "2026-11-13T13:05:10.504019Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1197,17 +1315,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T08:04:06.315705Z",
-      "latest_at": "2026-11-13T08:04:06.315705Z",
+      "earliest_at": "2026-11-13T13:05:10.504019Z",
+      "latest_at": "2026-11-13T13:05:10.504019Z",
       "primary_item": {
-        "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
-        "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
-        "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+        "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
+        "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+        "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
         "title_en": null,
-        "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+        "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32307",
+        "url": "https://www.aibase.com/news/32322",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1215,179 +1333,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
-      }
-    },
-    {
-      "story_id": "story_209b97ca8096",
-      "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
-      "url": "https://www.aibase.com/news/32310",
-      "primary_url": "https://www.aibase.com/news/32310",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
-          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
-          "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
-          "title_en": null,
-          "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32310",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:04:06.315705Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
-          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
-          "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
-          "title_en": null,
-          "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32310",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:04:06.315705Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T08:04:06.315705Z",
-      "latest_at": "2026-11-13T08:04:06.315705Z",
-      "primary_item": {
-        "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
-        "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
-        "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
-        "title_en": null,
-        "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32310",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
-      }
-    },
-    {
-      "story_id": "story_c3e1d78a7323",
-      "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
-      "url": "https://www.aibase.com/news/32311",
-      "primary_url": "https://www.aibase.com/news/32311",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
-          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
-          "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
-          "title_en": null,
-          "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32311",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:04:06.315705Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
-          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
-          "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
-          "title_en": null,
-          "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32311",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:04:06.315705Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T08:04:06.315705Z",
-      "latest_at": "2026-11-13T08:04:06.315705Z",
-      "primary_item": {
-        "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
-        "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
-        "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
-        "title_en": null,
-        "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32311",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
@@ -1472,15 +1418,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6273,
-      "importance": 0.6273,
-      "importance_score": 0.6273,
+      "score": 0.6171,
+      "importance": 0.6171,
+      "importance_score": 0.6171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8116,
+        "recency": 0.7549,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1505,26 +1451,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
-      "story_id": "story_9a66b69f3e17",
-      "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
-      "url": "https://www.aibase.com/news/32313",
-      "primary_url": "https://www.aibase.com/news/32313",
+      "story_id": "story_1251a421a37f",
+      "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+      "url": "https://www.aibase.com/news/32309",
+      "primary_url": "https://www.aibase.com/news/32309",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
-          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
-          "title_zh": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "title_en": null,
-          "title_original": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32313",
+          "url": "https://www.aibase.com/news/32309",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1539,14 +1485,14 @@
       ],
       "items": [
         {
-          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
-          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
-          "title_zh": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "title_en": null,
-          "title_original": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32313",
+          "url": "https://www.aibase.com/news/32309",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1557,15 +1503,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1576,14 +1522,14 @@
       "earliest_at": "2026-11-13T08:04:06.315705Z",
       "latest_at": "2026-11-13T08:04:06.315705Z",
       "primary_item": {
-        "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
-        "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
-        "title_zh": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+        "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+        "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
         "title_en": null,
-        "title_original": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+        "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32313",
+        "url": "https://www.aibase.com/news/32309",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1591,46 +1537,164 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
-      "story_id": "story_a5acb1ac992b",
-      "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
-      "url": "https://www.producthunt.com/products/grok",
-      "primary_url": "https://www.producthunt.com/products/grok",
+      "story_id": "story_3d96b04a0c3a",
+      "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
+          "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+          "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
+          "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+          "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+          "summary": "Chrome DevTools for coding agents",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
+          "title": "ChromeDevTools /      chrome-devtools-mcp",
+          "title_zh": null,
+          "title_en": "ChromeDevTools /      chrome-devtools-mcp",
+          "title_original": "ChromeDevTools /      chrome-devtools-mcp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T12:45:36.071000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
+          "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+          "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
+          "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+          "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+          "summary": "Chrome DevTools for coding agents",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
+          "title": "ChromeDevTools /      chrome-devtools-mcp",
+          "title_zh": null,
+          "title_en": "ChromeDevTools /      chrome-devtools-mcp",
+          "title_original": "ChromeDevTools /      chrome-devtools-mcp",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T12:45:36.071000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T12:45:36.071000Z",
+      "latest_at": "2026-11-13T13:05:10.504019Z",
+      "primary_item": {
+        "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
+        "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+        "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
+        "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+        "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
+        "summary": "Chrome DevTools for coding agents",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T13:06:10.158692Z"
+      }
+    },
+    {
+      "story_id": "story_13751143afa0",
+      "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+      "url": "https://www.producthunt.com/products/templify",
+      "primary_url": "https://www.producthunt.com/products/templify",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
-          "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
-          "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
-          "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
-          "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
-          "summary": "Bots work together alongside your team",
+          "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
+          "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+          "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
+          "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
+          "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
+          "summary": "Powerful content editor for people who aren’t editors",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/grok",
+          "url": "https://www.producthunt.com/products/templify",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-11T19:38:45Z",
-          "updated_at": "2026-11-13T07:56:29Z",
+          "published_at": "2026-10-26T11:56:03Z",
+          "updated_at": "2026-11-13T13:04:45Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "f1c2d171e022ce4f0249d2474f0180476c35a4ce",
-          "title": "Grok Bot 1.0",
+          "id": "53768632186713c8fc462e5326f1895f6f813bd8",
+          "title": "Templify AI",
           "title_zh": null,
-          "title_en": "Grok Bot 1.0",
-          "title_original": "Grok Bot 1.0",
+          "title_en": "Templify AI",
+          "title_original": "Templify AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/grok",
+          "url": "https://www.producthunt.com/products/templify",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-12T13:28:23.745000Z",
+          "published_at": "2026-11-13T13:05:49.034000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1642,66 +1706,66 @@
       ],
       "items": [
         {
-          "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
-          "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
-          "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
-          "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
-          "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
-          "summary": "Bots work together alongside your team",
+          "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
+          "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+          "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
+          "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
+          "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
+          "summary": "Powerful content editor for people who aren’t editors",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/grok",
+          "url": "https://www.producthunt.com/products/templify",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-11T19:38:45Z",
-          "updated_at": "2026-11-13T07:56:29Z",
+          "published_at": "2026-10-26T11:56:03Z",
+          "updated_at": "2026-11-13T13:04:45Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "f1c2d171e022ce4f0249d2474f0180476c35a4ce",
-          "title": "Grok Bot 1.0",
+          "id": "53768632186713c8fc462e5326f1895f6f813bd8",
+          "title": "Templify AI",
           "title_zh": null,
-          "title_en": "Grok Bot 1.0",
-          "title_original": "Grok Bot 1.0",
+          "title_en": "Templify AI",
+          "title_original": "Templify AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/grok",
+          "url": "https://www.producthunt.com/products/templify",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-12T13:28:23.745000Z",
+          "published_at": "2026-11-13T13:05:49.034000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9982,
+        "recency": 0.9999,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-12T13:28:23.745000Z",
-      "latest_at": "2026-11-13T07:56:29Z",
+      "earliest_at": "2026-11-13T13:04:45Z",
+      "latest_at": "2026-11-13T13:05:49.034000Z",
       "primary_item": {
-        "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
-        "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
-        "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
-        "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
-        "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
-        "summary": "Bots work together alongside your team",
+        "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
+        "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+        "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
+        "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
+        "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
+        "summary": "Powerful content editor for people who aren’t editors",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/grok",
+        "url": "https://www.producthunt.com/products/templify",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1709,26 +1773,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     },
     {
-      "story_id": "story_3c29af12ae0f",
-      "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-      "url": "https://www.aibase.com/news/32305",
-      "primary_url": "https://www.aibase.com/news/32305",
+      "story_id": "story_2a6b152b8296",
+      "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+      "url": "https://www.aibase.com/news/32315",
+      "primary_url": "https://www.aibase.com/news/32315",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
-          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-          "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "title_en": null,
-          "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32305",
+          "url": "https://www.aibase.com/news/32315",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1743,14 +1807,14 @@
       ],
       "items": [
         {
-          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
-          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-          "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "title_en": null,
-          "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32305",
+          "url": "https://www.aibase.com/news/32315",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1761,15 +1825,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1780,14 +1844,14 @@
       "earliest_at": "2026-11-13T08:04:06.315705Z",
       "latest_at": "2026-11-13T08:04:06.315705Z",
       "primary_item": {
-        "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
-        "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-        "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+        "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+        "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+        "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
         "title_en": null,
-        "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+        "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32305",
+        "url": "https://www.aibase.com/news/32315",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1795,7 +1859,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T08:05:06.548299Z"
+        "scored_at": "2026-11-13T13:06:10.158692Z"
       }
     }
   ]

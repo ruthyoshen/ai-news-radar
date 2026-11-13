@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 08:04:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 13:05:10 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Codex CLI 0.168.0</title>
@@ -14,6 +14,14 @@
 <description>Codex CLI 0.168.0 (OpenAI Codex Changelog)</description>
 <category>Official update</category>
 <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Manage AI Scan for repositories using the REST API</title>
+<link>https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</guid>
+<description>Manage AI Scan for repositories using the REST API (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
 </item>
 <item>
 <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
@@ -40,20 +48,20 @@
 <pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
-<link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</guid>
-<description>Google Search gets a major upgrade with Gemini 4 Hydrogen (Google AI Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Introducing Gemini 4 Hydrogen</title>
 <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen</guid>
 <description>Introducing Gemini 4 Hydrogen (Google DeepMind)</description>
 <category>Official update</category>
 <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
+</item>
+<item>
+<title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
+<link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</guid>
+<description>Google Search gets a major upgrade with Gemini 4 Hydrogen (Google AI Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Actions for ARM32 Linux &amp; Windows retirement</title>
@@ -64,12 +72,12 @@
 <pubDate>Thu, 12 Nov 2026 20:59:36 +0000</pubDate>
 </item>
 <item>
-<title>Gondola doubles revenue as its team builds more with Codex</title>
-<link>https://openai.com/business/customer-stories/gondola</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/gondola</guid>
-<description>Gondola doubles revenue as its team builds more with Codex (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+<title>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明</title>
+<link>https://www.aibase.com/news/32317</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32317</guid>
+<description>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 13 Nov 2026 13:05:10 +0000</pubDate>
 </item>
 <item>
 <title>Secret scanning detects Cloudflare service tokens</title>
@@ -80,20 +88,20 @@
 <pubDate>Thu, 12 Nov 2026 14:38:25 +0000</pubDate>
 </item>
 <item>
-<title>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
-<link>https://www.aibase.com/news/32309</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32309</guid>
-<description>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道 (AIbase)</description>
+<title>比高端型号还猛却更便宜，Google 用"Gemini 4 Hydrogen"上演反向内卷</title>
+<link>https://www.aibase.com/news/32318</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32318</guid>
+<description>比高端型号还猛却更便宜，Google 用"Gemini 4 Hydrogen"上演反向内卷 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 08:04:06 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 13:05:10 +0000</pubDate>
 </item>
 <item>
-<title>Holiday Extras is rethinking what it can build with Codex</title>
-<link>https://openai.com/business/customer-stories/holidays-extras-codex</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/holidays-extras-codex</guid>
-<description>Holiday Extras is rethinking what it can build with Codex (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Thu, 12 Nov 2026 09:30:00 +0000</pubDate>
+<title>腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜</title>
+<link>https://www.aibase.com/news/32320</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32320</guid>
+<description>腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 13 Nov 2026 13:05:10 +0000</pubDate>
 </item>
 <item>
 <title>Public monitoring alerts now have direct links</title>
@@ -104,36 +112,20 @@
 <pubDate>Thu, 12 Nov 2026 14:37:38 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍</title>
-<link>https://www.aibase.com/news/32315</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32315</guid>
-<description>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍 (AIbase)</description>
+<title>英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任</title>
+<link>https://www.aibase.com/news/32321</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32321</guid>
+<description>英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 08:04:06 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 13:05:10 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座</title>
-<link>https://www.aibase.com/news/32307</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32307</guid>
-<description>Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座 (AIbase)</description>
+<title>语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务</title>
+<link>https://www.aibase.com/news/32322</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32322</guid>
+<description>语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 08:04:06 +0000</pubDate>
-</item>
-<item>
-<title>Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码</title>
-<link>https://www.aibase.com/news/32310</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32310</guid>
-<description>Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 08:04:06 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元</title>
-<link>https://www.aibase.com/news/32311</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32311</guid>
-<description>OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 08:04:06 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 13:05:10 +0000</pubDate>
 </item>
 <item>
 <title>Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
@@ -144,26 +136,34 @@
 <pubDate>Thu, 12 Nov 2026 18:17:29 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI机器人业务转向"模型内整合"，具身智能纳入通用基础模型框架</title>
-<link>https://www.aibase.com/news/32313</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32313</guid>
-<description>OpenAI机器人业务转向"模型内整合"，具身智能纳入通用基础模型框架 (AIbase)</description>
+<title>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
+<link>https://www.aibase.com/news/32309</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32309</guid>
+<description>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 13 Nov 2026 08:04:06 +0000</pubDate>
 </item>
 <item>
-<title>Grok Bot 1.0 — Bots work together alongside your team</title>
-<link>https://www.producthunt.com/products/grok</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/grok</guid>
-<description>Bots work together alongside your team (Product Hunt)</description>
+<title>ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents</title>
+<link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+<guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+<description>Chrome DevTools for coding agents (GitHub Trending)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 13 Nov 2026 07:56:29 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 13:05:10 +0000</pubDate>
 </item>
 <item>
-<title>关停五年，"虾米"借 AI 还魂：阿里 30 元推出快乐虾米</title>
-<link>https://www.aibase.com/news/32305</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32305</guid>
-<description>关停五年，"虾米"借 AI 还魂：阿里 30 元推出快乐虾米 (AIbase)</description>
+<title>Templify AI — Powerful content editor for people who aren’t editors</title>
+<link>https://www.producthunt.com/products/templify</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/templify</guid>
+<description>Powerful content editor for people who aren’t editors (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 13 Nov 2026 13:05:49 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍</title>
+<link>https://www.aibase.com/news/32315</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32315</guid>
+<description>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 13 Nov 2026 08:04:06 +0000</pubDate>
 </item>
