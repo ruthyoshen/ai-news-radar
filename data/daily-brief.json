@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-11-13T03:24:32.491288Z",
+  "generated_at": "2026-11-13T08:04:06.315705Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c0e4bca0c953",
+      "title": "Codex CLI 0.168.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aff218038415ee87812e41136d03188eae6f9248",
+          "title": "Codex CLI 0.168.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.168.0",
+          "title_original": "Codex CLI 0.168.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "aff218038415ee87812e41136d03188eae6f9248",
+          "title": "Codex CLI 0.168.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.168.0",
+          "title_original": "Codex CLI 0.168.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.89,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T00:00:00Z",
+      "latest_at": "2026-11-13T00:00:00Z",
+      "primary_item": {
+        "id": "aff218038415ee87812e41136d03188eae6f9248",
+        "title": "Codex CLI 0.168.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.168.0",
+        "title_original": "Codex CLI 0.168.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T08:05:06.548299Z"
+      }
+    },
     {
       "story_id": "story_b9fa2a337927",
       "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8873,
+        "recency": 0.8295,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
@@ -139,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9372,
+        "recency": 0.8762,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,26 +261,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
-      "story_id": "story_b9265a202fd3",
+      "story_id": "story_58db6e6cc441",
       "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/index/amplitude",
-      "primary_url": "https://openai.com/index/amplitude",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "primary_url": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "10312be73da288c4b4d991052499134c435d77bb",
+          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
           "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
           "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
           "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/amplitude",
+          "url": "https://openai.com/business/customer-stories/amplitude",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -208,14 +295,14 @@
       ],
       "items": [
         {
-          "id": "10312be73da288c4b4d991052499134c435d77bb",
+          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
           "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
           "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
           "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/amplitude",
+          "url": "https://openai.com/business/customer-stories/amplitude",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -226,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8985,
+        "recency": 0.8401,
         "story_heat": 0.0
       },
       "category": "official",
@@ -246,14 +333,14 @@
       "earliest_at": "2026-11-12T20:00:00Z",
       "latest_at": "2026-11-12T20:00:00Z",
       "primary_item": {
-        "id": "10312be73da288c4b4d991052499134c435d77bb",
+        "id": "d2e600269211fcf0b2ff48eb378c860934402231",
         "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
         "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
         "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
         "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/amplitude",
+        "url": "https://openai.com/business/customer-stories/amplitude",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -261,94 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
-      }
-    },
-    {
-      "story_id": "story_b821bfa39311",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Hydrogen",
-          "title_original": "Introducing Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Hydrogen",
-          "title_original": "Introducing Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8731,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T18:00:50Z",
-      "latest_at": "2026-11-12T18:00:50Z",
-      "primary_item": {
-        "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-        "title": "Introducing Gemini 4 Hydrogen",
-        "title_zh": null,
-        "title_en": "Introducing Gemini 4 Hydrogen",
-        "title_original": "Introducing Gemini 4 Hydrogen",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.873,
+        "recency": 0.8162,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
+      }
+    },
+    {
+      "story_id": "story_b821bfa39311",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 4 Hydrogen",
+          "title_original": "Introducing Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 4 Hydrogen",
+          "title_original": "Introducing Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8163,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T18:00:50Z",
+      "latest_at": "2026-11-12T18:00:50Z",
+      "primary_item": {
+        "id": "b34c08f782fded4636a008af35f2c436dadb3378",
+        "title": "Introducing Gemini 4 Hydrogen",
+        "title_zh": null,
+        "title_en": "Introducing Gemini 4 Hydrogen",
+        "title_original": "Introducing Gemini 4 Hydrogen",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
@@ -487,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9115,
+        "recency": 0.8522,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
@@ -574,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8005,
+        "recency": 0.7484,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,7 +696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
@@ -661,15 +748,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8316,
+        "recency": 0.7775,
         "story_heat": 0.0
       },
       "category": "official",
@@ -696,30 +783,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
-      "story_id": "story_5aaaa632c534",
-      "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
-      "url": "https://www.aibase.com/news/32296",
-      "primary_url": "https://www.aibase.com/news/32296",
+      "story_id": "story_1251a421a37f",
+      "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+      "url": "https://www.aibase.com/news/32309",
+      "primary_url": "https://www.aibase.com/news/32309",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
-          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
-          "title_zh": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "title_en": null,
-          "title_original": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32296",
+          "url": "https://www.aibase.com/news/32309",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -730,18 +817,18 @@
       ],
       "items": [
         {
-          "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
-          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
-          "title_zh": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "title_en": null,
-          "title_original": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32296",
+          "url": "https://www.aibase.com/news/32309",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -764,17 +851,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:24:32.491288Z",
-      "latest_at": "2026-11-13T03:24:32.491288Z",
+      "earliest_at": "2026-11-13T08:04:06.315705Z",
+      "latest_at": "2026-11-13T08:04:06.315705Z",
       "primary_item": {
-        "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
-        "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
-        "title_zh": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+        "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+        "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
         "title_en": null,
-        "title_original": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+        "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32296",
+        "url": "https://www.aibase.com/news/32309",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -782,7 +869,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
@@ -834,15 +921,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7721,
+        "recency": 0.7219,
         "story_heat": 0.0
       },
       "category": "official",
@@ -869,7 +956,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
@@ -921,15 +1008,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8315,
+        "recency": 0.7774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -956,30 +1043,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
-      "story_id": "story_ae0079d750ae",
-      "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
-      "url": "https://www.aibase.com/news/32295",
-      "primary_url": "https://www.aibase.com/news/32295",
+      "story_id": "story_2a6b152b8296",
+      "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+      "url": "https://www.aibase.com/news/32315",
+      "primary_url": "https://www.aibase.com/news/32315",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
-          "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
-          "title_zh": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "title_en": null,
-          "title_original": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32295",
+          "url": "https://www.aibase.com/news/32315",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -990,18 +1077,18 @@
       ],
       "items": [
         {
-          "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
-          "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
-          "title_zh": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "title_en": null,
-          "title_original": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32295",
+          "url": "https://www.aibase.com/news/32315",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1024,17 +1111,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:24:32.491288Z",
-      "latest_at": "2026-11-13T03:24:32.491288Z",
+      "earliest_at": "2026-11-13T08:04:06.315705Z",
+      "latest_at": "2026-11-13T08:04:06.315705Z",
       "primary_item": {
-        "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
-        "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
-        "title_zh": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+        "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+        "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+        "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
         "title_en": null,
-        "title_original": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+        "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32295",
+        "url": "https://www.aibase.com/news/32315",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1042,30 +1129,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
-      "story_id": "story_b8da7db34743",
-      "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-      "url": "https://www.aibase.com/news/32297",
-      "primary_url": "https://www.aibase.com/news/32297",
+      "story_id": "story_a650fbc5cf5d",
+      "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+      "url": "https://www.aibase.com/news/32307",
+      "primary_url": "https://www.aibase.com/news/32307",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
-          "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-          "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
+          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "title_en": null,
-          "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32297",
+          "url": "https://www.aibase.com/news/32307",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1076,18 +1163,18 @@
       ],
       "items": [
         {
-          "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
-          "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-          "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
+          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "title_en": null,
-          "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32297",
+          "url": "https://www.aibase.com/news/32307",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1110,17 +1197,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:24:32.491288Z",
-      "latest_at": "2026-11-13T03:24:32.491288Z",
+      "earliest_at": "2026-11-13T08:04:06.315705Z",
+      "latest_at": "2026-11-13T08:04:06.315705Z",
       "primary_item": {
-        "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
-        "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-        "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+        "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
+        "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+        "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
         "title_en": null,
-        "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+        "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32297",
+        "url": "https://www.aibase.com/news/32307",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1128,30 +1215,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
-      "story_id": "story_089defa8f927",
-      "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-      "url": "https://www.aibase.com/news/32303",
-      "primary_url": "https://www.aibase.com/news/32303",
+      "story_id": "story_209b97ca8096",
+      "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+      "url": "https://www.aibase.com/news/32310",
+      "primary_url": "https://www.aibase.com/news/32310",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
-          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-          "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
           "title_en": null,
-          "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32303",
+          "url": "https://www.aibase.com/news/32310",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1162,18 +1249,18 @@
       ],
       "items": [
         {
-          "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
-          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-          "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
           "title_en": null,
-          "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32303",
+          "url": "https://www.aibase.com/news/32310",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1196,17 +1283,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:24:32.491288Z",
-      "latest_at": "2026-11-13T03:24:32.491288Z",
+      "earliest_at": "2026-11-13T08:04:06.315705Z",
+      "latest_at": "2026-11-13T08:04:06.315705Z",
       "primary_item": {
-        "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
-        "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-        "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+        "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+        "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+        "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
         "title_en": null,
-        "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+        "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32303",
+        "url": "https://www.aibase.com/news/32310",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1214,30 +1301,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
-      "story_id": "story_a1312677fefb",
-      "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
-      "url": "https://www.aibase.com/news/32288",
-      "primary_url": "https://www.aibase.com/news/32288",
+      "story_id": "story_c3e1d78a7323",
+      "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+      "url": "https://www.aibase.com/news/32311",
+      "primary_url": "https://www.aibase.com/news/32311",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
-          "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
-          "title_zh": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
           "title_en": null,
-          "title_original": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+          "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32288",
+          "url": "https://www.aibase.com/news/32311",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1248,18 +1335,18 @@
       ],
       "items": [
         {
-          "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
-          "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
-          "title_zh": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
           "title_en": null,
-          "title_original": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+          "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32288",
+          "url": "https://www.aibase.com/news/32311",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1282,17 +1369,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:24:32.491288Z",
-      "latest_at": "2026-11-13T03:24:32.491288Z",
+      "earliest_at": "2026-11-13T08:04:06.315705Z",
+      "latest_at": "2026-11-13T08:04:06.315705Z",
       "primary_item": {
-        "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
-        "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
-        "title_zh": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+        "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+        "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+        "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
         "title_en": null,
-        "title_original": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+        "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32288",
+        "url": "https://www.aibase.com/news/32311",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1300,7 +1387,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
@@ -1385,15 +1472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6375,
-      "importance": 0.6375,
-      "importance_score": 0.6375,
+      "score": 0.6273,
+      "importance": 0.6273,
+      "importance_score": 0.6273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8681,
+        "recency": 0.8116,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1418,30 +1505,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
-      "story_id": "story_2b5fd228abd3",
-      "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
-      "url": "https://www.aibase.com/news/32289",
-      "primary_url": "https://www.aibase.com/news/32289",
+      "story_id": "story_9a66b69f3e17",
+      "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+      "url": "https://www.aibase.com/news/32313",
+      "primary_url": "https://www.aibase.com/news/32313",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
-          "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
-          "title_zh": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "title_zh": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
           "title_en": null,
-          "title_original": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+          "title_original": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32289",
+          "url": "https://www.aibase.com/news/32313",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1452,18 +1539,18 @@
       ],
       "items": [
         {
-          "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
-          "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
-          "title_zh": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "title_zh": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
           "title_en": null,
-          "title_original": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+          "title_original": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32289",
+          "url": "https://www.aibase.com/news/32313",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1486,17 +1573,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:24:32.491288Z",
-      "latest_at": "2026-11-13T03:24:32.491288Z",
+      "earliest_at": "2026-11-13T08:04:06.315705Z",
+      "latest_at": "2026-11-13T08:04:06.315705Z",
       "primary_item": {
-        "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
-        "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
-        "title_zh": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+        "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+        "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+        "title_zh": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
         "title_en": null,
-        "title_original": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+        "title_original": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32289",
+        "url": "https://www.aibase.com/news/32313",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1504,42 +1591,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
-      "story_id": "story_38a54da14661",
-      "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-      "url": "https://www.producthunt.com/products/adobe-ai-assistant",
-      "primary_url": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "story_id": "story_a5acb1ac992b",
+      "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+      "url": "https://www.producthunt.com/products/grok",
+      "primary_url": "https://www.producthunt.com/products/grok",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
-          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
-          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "summary": "Create and edit faster with AI across Adobe apps",
+          "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
+          "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+          "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
+          "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
+          "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
+          "summary": "Bots work together alongside your team",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "url": "https://www.producthunt.com/products/grok",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-10T18:55:39Z",
-          "updated_at": "2026-11-13T03:01:18Z",
+          "published_at": "2026-11-11T19:38:45Z",
+          "updated_at": "2026-11-13T07:56:29Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
-          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
-          "title_zh": "Adobe 人工智能助手",
-          "title_en": "Adobe AI Assistant",
-          "title_original": "Adobe AI Assistant",
+          "id": "f1c2d171e022ce4f0249d2474f0180476c35a4ce",
+          "title": "Grok Bot 1.0",
+          "title_zh": null,
+          "title_en": "Grok Bot 1.0",
+          "title_original": "Grok Bot 1.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "url": "https://www.producthunt.com/products/grok",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1555,30 +1642,30 @@
       ],
       "items": [
         {
-          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
-          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
-          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "summary": "Create and edit faster with AI across Adobe apps",
+          "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
+          "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+          "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
+          "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
+          "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
+          "summary": "Bots work together alongside your team",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "url": "https://www.producthunt.com/products/grok",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-10T18:55:39Z",
-          "updated_at": "2026-11-13T03:01:18Z",
+          "published_at": "2026-11-11T19:38:45Z",
+          "updated_at": "2026-11-13T07:56:29Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
-          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
-          "title_zh": "Adobe 人工智能助手",
-          "title_en": "Adobe AI Assistant",
-          "title_original": "Adobe AI Assistant",
+          "id": "f1c2d171e022ce4f0249d2474f0180476c35a4ce",
+          "title": "Grok Bot 1.0",
+          "title_zh": null,
+          "title_en": "Grok Bot 1.0",
+          "title_original": "Grok Bot 1.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "url": "https://www.producthunt.com/products/grok",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1589,15 +1676,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5932,
-      "importance": 0.5932,
-      "importance_score": 0.5932,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9944,
+        "recency": 0.9982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1605,16 +1692,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-12T13:28:23.745000Z",
-      "latest_at": "2026-11-13T03:01:18Z",
+      "latest_at": "2026-11-13T07:56:29Z",
       "primary_item": {
-        "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
-        "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-        "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
-        "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-        "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-        "summary": "Create and edit faster with AI across Adobe apps",
+        "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
+        "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+        "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
+        "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
+        "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
+        "summary": "Bots work together alongside your team",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+        "url": "https://www.producthunt.com/products/grok",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1622,30 +1709,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     },
     {
-      "story_id": "story_b9d6342534d1",
-      "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
-      "url": "https://www.aibase.com/news/32294",
-      "primary_url": "https://www.aibase.com/news/32294",
+      "story_id": "story_3c29af12ae0f",
+      "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+      "url": "https://www.aibase.com/news/32305",
+      "primary_url": "https://www.aibase.com/news/32305",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
-          "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
-          "title_zh": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
           "title_en": null,
-          "title_original": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+          "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32294",
+          "url": "https://www.aibase.com/news/32305",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1656,18 +1743,18 @@
       ],
       "items": [
         {
-          "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
-          "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
-          "title_zh": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
           "title_en": null,
-          "title_original": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+          "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32294",
+          "url": "https://www.aibase.com/news/32305",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:24:32.491288Z",
+          "published_at": "2026-11-13T08:04:06.315705Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1690,17 +1777,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:24:32.491288Z",
-      "latest_at": "2026-11-13T03:24:32.491288Z",
+      "earliest_at": "2026-11-13T08:04:06.315705Z",
+      "latest_at": "2026-11-13T08:04:06.315705Z",
       "primary_item": {
-        "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
-        "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
-        "title_zh": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+        "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+        "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+        "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
         "title_en": null,
-        "title_original": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+        "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32294",
+        "url": "https://www.aibase.com/news/32305",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1708,158 +1795,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
-      }
-    },
-    {
-      "story_id": "story_7dea04634a3f",
-      "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "primary_url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "source": "synthanatomy.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9f00fc2d629096721dffe633692930917d31a4d8",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "title_en": null,
-          "title_original": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-          "source": "synthanatomy.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T02:14:41.035000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "1a2565d997e1904cdc3b056ec5deb97cd5b4f6fa",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-12T21:09:49Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "42aab307f2251f89fb6092215dd49118288ce466",
-          "title": "人工智能正在将苹果的应用程序审核流程变成合成开发人员的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_zh": "人工智能正在将苹果的应用程序审核流程变成合成开发人员的噩梦",
-          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50474311",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T21:09:49Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "synthanatomy.com"
-      ],
-      "items": [
-        {
-          "id": "9f00fc2d629096721dffe633692930917d31a4d8",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "title_en": null,
-          "title_original": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-          "source": "synthanatomy.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T02:14:41.035000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "1a2565d997e1904cdc3b056ec5deb97cd5b4f6fa",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-12T21:09:49Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "42aab307f2251f89fb6092215dd49118288ce466",
-          "title": "人工智能正在将苹果的应用程序审核流程变成合成开发人员的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_zh": "人工智能正在将苹果的应用程序审核流程变成合成开发人员的噩梦",
-          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50474311",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T21:09:49Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5678,
-      "importance": 0.5678,
-      "importance_score": 0.5678,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9833,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-12T21:09:49Z",
-      "latest_at": "2026-11-13T02:14:41.035000Z",
-      "primary_item": {
-        "id": "9f00fc2d629096721dffe633692930917d31a4d8",
-        "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-        "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-        "title_en": null,
-        "title_original": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-        "source": "synthanatomy.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T03:25:21.661242Z"
+        "scored_at": "2026-11-13T08:05:06.548299Z"
       }
     }
   ]
