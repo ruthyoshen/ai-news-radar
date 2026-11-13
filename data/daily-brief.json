@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T22:45:05.439155Z",
+  "generated_at": "2026-11-13T03:24:32.491288Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8588,
-      "importance": 0.8588,
-      "importance_score": 0.8588,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.949,
+        "recency": 0.8873,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
+      }
+    },
+    {
+      "story_id": "story_ad1ef7aac19f",
+      "title": "构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills",
+      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "13e0408b97181b085aa7be248237f7c4b37492e3",
+          "title": "构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills",
+          "title_zh": "构建一次，在任何代理上运行：代理技能实用指南",
+          "title_en": "Build once, run on any agent: A practical guide to agent skills",
+          "title_original": "Build once, run on any agent: A practical guide to agent skills",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T22:54:52Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "13e0408b97181b085aa7be248237f7c4b37492e3",
+          "title": "构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills",
+          "title_zh": "构建一次，在任何代理上运行：代理技能实用指南",
+          "title_en": "Build once, run on any agent: A practical guide to agent skills",
+          "title_original": "Build once, run on any agent: A practical guide to agent skills",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T22:54:52Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9372,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T22:54:52Z",
+      "latest_at": "2026-11-12T22:54:52Z",
+      "primary_item": {
+        "id": "13e0408b97181b085aa7be248237f7c4b37492e3",
+        "title": "构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills",
+        "title_zh": "构建一次，在任何代理上运行：代理技能实用指南",
+        "title_en": "Build once, run on any agent: A practical guide to agent skills",
+        "title_original": "Build once, run on any agent: A practical guide to agent skills",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
@@ -139,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.845,
-      "importance": 0.845,
-      "importance_score": 0.845,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.961,
+        "recency": 0.8985,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,94 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
-      }
-    },
-    {
-      "story_id": "story_6df6ce89b479",
-      "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9337,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T18:00:00Z",
-      "latest_at": "2026-11-12T18:00:00Z",
-      "primary_item": {
-        "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-        "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
-        "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9339,
+        "recency": 0.8731,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
+      }
+    },
+    {
+      "story_id": "story_6df6ce89b479",
+      "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
+          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
+          "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.873,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T18:00:00Z",
+      "latest_at": "2026-11-12T18:00:00Z",
+      "primary_item": {
+        "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
+        "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "title_zh": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
+        "title_en": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
@@ -400,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9749,
+        "recency": 0.9115,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +522,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
+      }
+    },
+    {
+      "story_id": "story_6759601e393f",
+      "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "primary_url": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
+          "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
+          "title_zh": "Gondola 团队利用 Codex 打造更多产品，收入翻倍",
+          "title_en": "Gondola doubles revenue as its team builds more with Codex",
+          "title_original": "Gondola doubles revenue as its team builds more with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
+          "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
+          "title_zh": "Gondola 团队利用 Codex 打造更多产品，收入翻倍",
+          "title_en": "Gondola doubles revenue as its team builds more with Codex",
+          "title_original": "Gondola doubles revenue as its team builds more with Codex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8005,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T12:00:00Z",
+      "latest_at": "2026-11-12T12:00:00Z",
+      "primary_item": {
+        "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
+        "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
+        "title_zh": "Gondola 团队利用 Codex 打造更多产品，收入翻倍",
+        "title_en": "Gondola doubles revenue as its team builds more with Codex",
+        "title_original": "Gondola doubles revenue as its team builds more with Codex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/customer-stories/gondola",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
@@ -487,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8895,
+        "recency": 0.8316,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +696,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
+      }
+    },
+    {
+      "story_id": "story_5aaaa632c534",
+      "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+      "url": "https://www.aibase.com/news/32296",
+      "primary_url": "https://www.aibase.com/news/32296",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
+          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "title_zh": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "title_en": null,
+          "title_original": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32296",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T03:24:32.491288Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
+          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "title_zh": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "title_en": null,
+          "title_original": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32296",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T03:24:32.491288Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T03:24:32.491288Z",
+      "latest_at": "2026-11-13T03:24:32.491288Z",
+      "primary_item": {
+        "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
+        "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+        "title_zh": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+        "title_en": null,
+        "title_original": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32296",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
@@ -574,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8258,
+        "recency": 0.7721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,94 +869,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
-      }
-    },
-    {
-      "story_id": "story_2550ffde8017",
-      "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "primary_url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
-          "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_zh": "3D 生成模型权威微调指南",
-          "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/3d-lora-finetuning",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
-          "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_zh": "3D 生成模型权威微调指南",
-          "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/3d-lora-finetuning",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.72,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T00:00:00Z",
-      "latest_at": "2026-11-12T00:00:00Z",
-      "primary_item": {
-        "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
-        "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
-        "title_zh": "3D 生成模型权威微调指南",
-        "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-        "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/3d-lora-finetuning",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
@@ -748,15 +921,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8893,
+        "recency": 0.8315,
         "story_heat": 0.0
       },
       "category": "official",
@@ -783,30 +956,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
-      "story_id": "story_1032da48e00f",
-      "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-      "url": "https://www.aibase.com/news/32283",
-      "primary_url": "https://www.aibase.com/news/32283",
+      "story_id": "story_ae0079d750ae",
+      "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+      "url": "https://www.aibase.com/news/32295",
+      "primary_url": "https://www.aibase.com/news/32295",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6e6a24cf1ec3e68d9c737ceb2248ec12e0005a20",
-          "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-          "title_zh": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
+          "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+          "title_zh": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
           "title_en": null,
-          "title_original": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "title_original": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32283",
+          "url": "https://www.aibase.com/news/32295",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T13:44:50.957591Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -817,168 +990,82 @@
       ],
       "items": [
         {
-          "id": "6e6a24cf1ec3e68d9c737ceb2248ec12e0005a20",
-          "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-          "title_zh": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
+          "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+          "title_zh": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
           "title_en": null,
-          "title_original": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "title_original": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32283",
+          "url": "https://www.aibase.com/news/32295",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T13:44:50.957591Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-12T13:44:50.957591Z",
-      "latest_at": "2026-11-12T13:44:50.957591Z",
-      "primary_item": {
-        "id": "6e6a24cf1ec3e68d9c737ceb2248ec12e0005a20",
-        "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-        "title_zh": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-        "title_en": null,
-        "title_original": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32283",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
-      }
-    },
-    {
-      "story_id": "story_8f1b2af00c00",
-      "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-          "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
-          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-          "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
-          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.72,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T00:00:00Z",
-      "latest_at": "2026-11-12T00:00:00Z",
+      "earliest_at": "2026-11-13T03:24:32.491288Z",
+      "latest_at": "2026-11-13T03:24:32.491288Z",
       "primary_item": {
-        "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-        "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-        "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
-        "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-        "title_original": "Gilbert + Tobin rethinks the business of law with AI",
+        "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
+        "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+        "title_zh": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+        "title_en": null,
+        "title_original": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32295",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
-      "story_id": "story_697645a9803b",
-      "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-      "url": "https://www.aibase.com/news/32285",
-      "primary_url": "https://www.aibase.com/news/32285",
+      "story_id": "story_b8da7db34743",
+      "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+      "url": "https://www.aibase.com/news/32297",
+      "primary_url": "https://www.aibase.com/news/32297",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
-          "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-          "title_zh": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+          "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
+          "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
           "title_en": null,
-          "title_original": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+          "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32285",
+          "url": "https://www.aibase.com/news/32297",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T13:44:50.957591Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -989,168 +1076,82 @@
       ],
       "items": [
         {
-          "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
-          "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-          "title_zh": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+          "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
+          "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
           "title_en": null,
-          "title_original": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+          "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32285",
+          "url": "https://www.aibase.com/news/32297",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T13:44:50.957591Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-12T13:44:50.957591Z",
-      "latest_at": "2026-11-12T13:44:50.957591Z",
-      "primary_item": {
-        "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
-        "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-        "title_zh": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-        "title_en": null,
-        "title_original": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32285",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
-      }
-    },
-    {
-      "story_id": "story_26772b93fcab",
-      "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "primary_url": "https://openai.com/index/children-first-declaration",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "79e39388e6dec86031f16a6bf4930f52c25de92a",
-          "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
-          "title_zh": "支持人工智能和儿童安全研究",
-          "title_en": "Supporting research on AI and children’s safety",
-          "title_original": "Supporting research on AI and children’s safety",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/children-first-declaration",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "79e39388e6dec86031f16a6bf4930f52c25de92a",
-          "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
-          "title_zh": "支持人工智能和儿童安全研究",
-          "title_en": "Supporting research on AI and children’s safety",
-          "title_original": "Supporting research on AI and children’s safety",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/children-first-declaration",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.72,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T00:00:00Z",
-      "latest_at": "2026-11-12T00:00:00Z",
+      "earliest_at": "2026-11-13T03:24:32.491288Z",
+      "latest_at": "2026-11-13T03:24:32.491288Z",
       "primary_item": {
-        "id": "79e39388e6dec86031f16a6bf4930f52c25de92a",
-        "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
-        "title_zh": "支持人工智能和儿童安全研究",
-        "title_en": "Supporting research on AI and children’s safety",
-        "title_original": "Supporting research on AI and children’s safety",
+        "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
+        "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+        "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+        "title_en": null,
+        "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/children-first-declaration",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32297",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
-      "story_id": "story_901aed329352",
-      "title": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
-      "url": "https://www.aibase.com/news/32284",
-      "primary_url": "https://www.aibase.com/news/32284",
+      "story_id": "story_089defa8f927",
+      "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+      "url": "https://www.aibase.com/news/32303",
+      "primary_url": "https://www.aibase.com/news/32303",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72e41b7d82537a14578e158fdf0a9f9ff301b4b0",
-          "title": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
-          "title_zh": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+          "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
+          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
           "title_en": null,
-          "title_original": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+          "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32284",
+          "url": "https://www.aibase.com/news/32303",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T13:44:50.957591Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1161,50 +1162,51 @@
       ],
       "items": [
         {
-          "id": "72e41b7d82537a14578e158fdf0a9f9ff301b4b0",
-          "title": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
-          "title_zh": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+          "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
+          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
           "title_en": null,
-          "title_original": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+          "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32284",
+          "url": "https://www.aibase.com/news/32303",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T13:44:50.957591Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-12T13:44:50.957591Z",
-      "latest_at": "2026-11-12T13:44:50.957591Z",
+      "earliest_at": "2026-11-13T03:24:32.491288Z",
+      "latest_at": "2026-11-13T03:24:32.491288Z",
       "primary_item": {
-        "id": "72e41b7d82537a14578e158fdf0a9f9ff301b4b0",
-        "title": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
-        "title_zh": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+        "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
+        "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+        "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
         "title_en": null,
-        "title_original": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+        "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32284",
+        "url": "https://www.aibase.com/news/32303",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1212,30 +1214,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
-      "story_id": "story_45439a85c1e4",
-      "title": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-      "url": "https://www.aibase.com/news/32286",
-      "primary_url": "https://www.aibase.com/news/32286",
+      "story_id": "story_a1312677fefb",
+      "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+      "url": "https://www.aibase.com/news/32288",
+      "primary_url": "https://www.aibase.com/news/32288",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "99bfb68022304e596f0f960141b718ac01c1b033",
-          "title": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-          "title_zh": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
+          "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
+          "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+          "title_zh": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
           "title_en": null,
-          "title_original": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
+          "title_original": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32286",
+          "url": "https://www.aibase.com/news/32288",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T13:44:50.957591Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1246,50 +1248,51 @@
       ],
       "items": [
         {
-          "id": "99bfb68022304e596f0f960141b718ac01c1b033",
-          "title": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-          "title_zh": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
+          "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
+          "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+          "title_zh": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
           "title_en": null,
-          "title_original": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
+          "title_original": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32286",
+          "url": "https://www.aibase.com/news/32288",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T13:44:50.957591Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-12T13:44:50.957591Z",
-      "latest_at": "2026-11-12T13:44:50.957591Z",
+      "earliest_at": "2026-11-13T03:24:32.491288Z",
+      "latest_at": "2026-11-13T03:24:32.491288Z",
       "primary_item": {
-        "id": "99bfb68022304e596f0f960141b718ac01c1b033",
-        "title": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-        "title_zh": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
+        "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
+        "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+        "title_zh": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
         "title_en": null,
-        "title_original": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
+        "title_original": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32286",
+        "url": "https://www.aibase.com/news/32288",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1297,30 +1300,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
-      "story_id": "story_f4882c3c572e",
-      "title": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
-      "url": "https://www.aibase.com/news/32273",
-      "primary_url": "https://www.aibase.com/news/32273",
+      "story_id": "story_46bf915e34cd",
+      "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+      "primary_url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
+          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+          "title_zh": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战",
+          "title_en": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+          "title_original": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-12T17:36:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ff22e07299db7890757cfae5e6da21a9883ccb61",
+          "title": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI",
+          "title_zh": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗",
+          "title_en": "Hugging Face CEO vows to keep fighting for open-source AI",
+          "title_original": "Hugging Face CEO vows to keep fighting for open-source AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-12T18:17:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
+          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+          "title_zh": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战",
+          "title_en": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+          "title_original": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-12T17:36:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ff22e07299db7890757cfae5e6da21a9883ccb61",
+          "title": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI",
+          "title_zh": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗",
+          "title_en": "Hugging Face CEO vows to keep fighting for open-source AI",
+          "title_original": "Hugging Face CEO vows to keep fighting for open-source AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-12T18:17:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6375,
+      "importance": 0.6375,
+      "importance_score": 0.6375,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.8681,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-12T17:36:40Z",
+      "latest_at": "2026-11-12T18:17:29Z",
+      "primary_item": {
+        "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
+        "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+        "title_zh": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战",
+        "title_en": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+        "title_original": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T03:25:21.661242Z"
+      }
+    },
+    {
+      "story_id": "story_2b5fd228abd3",
+      "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+      "url": "https://www.aibase.com/news/32289",
+      "primary_url": "https://www.aibase.com/news/32289",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "79922057a2b0e741bc21f25560ca36e14d04ab95",
-          "title": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
-          "title_zh": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+          "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
+          "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+          "title_zh": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
           "title_en": null,
-          "title_original": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+          "title_original": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32273",
+          "url": "https://www.aibase.com/news/32289",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T08:23:40.433347Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1331,50 +1452,51 @@
       ],
       "items": [
         {
-          "id": "79922057a2b0e741bc21f25560ca36e14d04ab95",
-          "title": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
-          "title_zh": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+          "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
+          "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+          "title_zh": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
           "title_en": null,
-          "title_original": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+          "title_original": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32273",
+          "url": "https://www.aibase.com/news/32289",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T08:23:40.433347Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8128,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-12T08:23:40.433347Z",
-      "latest_at": "2026-11-12T08:23:40.433347Z",
+      "earliest_at": "2026-11-13T03:24:32.491288Z",
+      "latest_at": "2026-11-13T03:24:32.491288Z",
       "primary_item": {
-        "id": "79922057a2b0e741bc21f25560ca36e14d04ab95",
-        "title": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
-        "title_zh": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+        "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
+        "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+        "title_zh": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
         "title_en": null,
-        "title_original": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+        "title_original": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32273",
+        "url": "https://www.aibase.com/news/32289",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1382,42 +1504,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
-      "story_id": "story_d6c2e6cdc78d",
-      "title": "Insight7 语音 AI 代理 — 为您呼叫客户的 AI 语音代理 / Insight7 Voice AI Agents — AI voice agents that call your customers for you",
-      "url": "https://www.producthunt.com/products/insight7",
-      "primary_url": "https://www.producthunt.com/products/insight7",
+      "story_id": "story_38a54da14661",
+      "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+      "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "primary_url": "https://www.producthunt.com/products/adobe-ai-assistant",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "efcf2e0dacc1186d3c4029cfe1c671cca45bd28e",
-          "title": "Insight7 语音 AI 代理 — 为您呼叫客户的 AI 语音代理 / Insight7 Voice AI Agents — AI voice agents that call your customers for you",
-          "title_zh": "Insight7 语音 AI 代理 — 为您呼叫客户的 AI 语音代理",
-          "title_en": "Insight7 Voice AI Agents — AI voice agents that call your customers for you",
-          "title_original": "Insight7 Voice AI Agents — AI voice agents that call your customers for you",
-          "summary": "AI voice agents that call your customers for you",
+          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "summary": "Create and edit faster with AI across Adobe apps",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/insight7",
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-11T13:19:50Z",
-          "updated_at": "2026-11-12T22:42:36Z",
+          "published_at": "2026-11-10T18:55:39Z",
+          "updated_at": "2026-11-13T03:01:18Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "92dcb3e5e97a357f1fd166c98f458c507e5358ee",
-          "title": "Insight7 语音人工智能代理 / Insight7 Voice AI Agents",
-          "title_zh": "Insight7 语音人工智能代理",
-          "title_en": "Insight7 Voice AI Agents",
-          "title_original": "Insight7 Voice AI Agents",
+          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
+          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
+          "title_zh": "Adobe 人工智能助手",
+          "title_en": "Adobe AI Assistant",
+          "title_original": "Adobe AI Assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/insight7",
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1433,30 +1555,30 @@
       ],
       "items": [
         {
-          "id": "efcf2e0dacc1186d3c4029cfe1c671cca45bd28e",
-          "title": "Insight7 语音 AI 代理 — 为您呼叫客户的 AI 语音代理 / Insight7 Voice AI Agents — AI voice agents that call your customers for you",
-          "title_zh": "Insight7 语音 AI 代理 — 为您呼叫客户的 AI 语音代理",
-          "title_en": "Insight7 Voice AI Agents — AI voice agents that call your customers for you",
-          "title_original": "Insight7 Voice AI Agents — AI voice agents that call your customers for you",
-          "summary": "AI voice agents that call your customers for you",
+          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "summary": "Create and edit faster with AI across Adobe apps",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/insight7",
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-11T13:19:50Z",
-          "updated_at": "2026-11-12T22:42:36Z",
+          "published_at": "2026-11-10T18:55:39Z",
+          "updated_at": "2026-11-13T03:01:18Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "92dcb3e5e97a357f1fd166c98f458c507e5358ee",
-          "title": "Insight7 语音人工智能代理 / Insight7 Voice AI Agents",
-          "title_zh": "Insight7 语音人工智能代理",
-          "title_en": "Insight7 Voice AI Agents",
-          "title_original": "Insight7 Voice AI Agents",
+          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
+          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
+          "title_zh": "Adobe 人工智能助手",
+          "title_en": "Adobe AI Assistant",
+          "title_original": "Adobe AI Assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/insight7",
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1467,15 +1589,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "score": 0.5932,
+      "importance": 0.5932,
+      "importance_score": 0.5932,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9994,
+        "recency": 0.9944,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1483,16 +1605,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-12T13:28:23.745000Z",
-      "latest_at": "2026-11-12T22:42:36Z",
+      "latest_at": "2026-11-13T03:01:18Z",
       "primary_item": {
-        "id": "efcf2e0dacc1186d3c4029cfe1c671cca45bd28e",
-        "title": "Insight7 语音 AI 代理 — 为您呼叫客户的 AI 语音代理 / Insight7 Voice AI Agents — AI voice agents that call your customers for you",
-        "title_zh": "Insight7 语音 AI 代理 — 为您呼叫客户的 AI 语音代理",
-        "title_en": "Insight7 Voice AI Agents — AI voice agents that call your customers for you",
-        "title_original": "Insight7 Voice AI Agents — AI voice agents that call your customers for you",
-        "summary": "AI voice agents that call your customers for you",
+        "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+        "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+        "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "summary": "Create and edit faster with AI across Adobe apps",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/insight7",
+        "url": "https://www.producthunt.com/products/adobe-ai-assistant",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1500,30 +1622,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
-      "story_id": "story_8ac0372d73fd",
-      "title": "Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作",
-      "url": "https://www.aibase.com/news/32279",
-      "primary_url": "https://www.aibase.com/news/32279",
+      "story_id": "story_b9d6342534d1",
+      "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+      "url": "https://www.aibase.com/news/32294",
+      "primary_url": "https://www.aibase.com/news/32294",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4705ec4fde91399eeaa278e03558edf7f4991c6e",
-          "title": "Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作",
-          "title_zh": "Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作",
+          "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
+          "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+          "title_zh": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
           "title_en": null,
-          "title_original": "Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作",
+          "title_original": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32279",
+          "url": "https://www.aibase.com/news/32294",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T08:23:40.433347Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1534,50 +1656,51 @@
       ],
       "items": [
         {
-          "id": "4705ec4fde91399eeaa278e03558edf7f4991c6e",
-          "title": "Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作",
-          "title_zh": "Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作",
+          "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
+          "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+          "title_zh": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
           "title_en": null,
-          "title_original": "Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作",
+          "title_original": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32279",
+          "url": "https://www.aibase.com/news/32294",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T08:23:40.433347Z",
+          "published_at": "2026-11-13T03:24:32.491288Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8128,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-12T08:23:40.433347Z",
-      "latest_at": "2026-11-12T08:23:40.433347Z",
+      "earliest_at": "2026-11-13T03:24:32.491288Z",
+      "latest_at": "2026-11-13T03:24:32.491288Z",
       "primary_item": {
-        "id": "4705ec4fde91399eeaa278e03558edf7f4991c6e",
-        "title": "Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作",
-        "title_zh": "Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作",
+        "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
+        "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+        "title_zh": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
         "title_en": null,
-        "title_original": "Claude 交互式连接器升级：应用可在对话旁全屏打开并支持直接操作",
+        "title_original": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32279",
+        "url": "https://www.aibase.com/news/32294",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1585,243 +1708,158 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     },
     {
-      "story_id": "story_e9a136ad91f2",
-      "title": "Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "primary_url": "https://github.com/Alishahryar1/free-claude-code",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
+      "story_id": "story_7dea04634a3f",
+      "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "primary_url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "source": "synthanatomy.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9303d73b1ebca9745ee87a9e3de20b42e58cd361",
-          "title": "Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-          "title_zh": null,
-          "title_en": "Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-          "title_original": "Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-          "summary": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+          "id": "9f00fc2d629096721dffe633692930917d31a4d8",
+          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "title_en": null,
+          "title_original": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
+          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "source": "synthanatomy.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T02:14:41.035000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "7ad3cbe07d0ee3c125eaae99c56b832413b04759",
-          "title": "Alisahryar1 / 免费Claude代码 / Alishahryar1 /      free-claude-code",
-          "title_zh": "Alisahryar1 / 免费Claude代码",
-          "title_en": "Alishahryar1 /      free-claude-code",
-          "title_original": "Alishahryar1 /      free-claude-code",
+          "id": "1a2565d997e1904cdc3b056ec5deb97cd5b4f6fa",
+          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
+          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "github",
+          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-12T21:09:49Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "42aab307f2251f89fb6092215dd49118288ce466",
+          "title": "人工智能正在将苹果的应用程序审核流程变成合成开发人员的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
+          "title_zh": "人工智能正在将苹果的应用程序审核流程变成合成开发人员的噩梦",
+          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50474311",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-12T13:45:47.060000Z",
+          "published_at": "2026-11-12T21:09:49Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "GitHub Trending",
-        "github"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "synthanatomy.com"
       ],
       "items": [
         {
-          "id": "9303d73b1ebca9745ee87a9e3de20b42e58cd361",
-          "title": "Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-          "title_zh": null,
-          "title_en": "Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-          "title_original": "Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-          "summary": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+          "id": "9f00fc2d629096721dffe633692930917d31a4d8",
+          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "title_en": null,
+          "title_original": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
+          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "source": "synthanatomy.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T02:14:41.035000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "7ad3cbe07d0ee3c125eaae99c56b832413b04759",
-          "title": "Alisahryar1 / 免费Claude代码 / Alishahryar1 /      free-claude-code",
-          "title_zh": "Alisahryar1 / 免费Claude代码",
-          "title_en": "Alishahryar1 /      free-claude-code",
-          "title_original": "Alishahryar1 /      free-claude-code",
+          "id": "1a2565d997e1904cdc3b056ec5deb97cd5b4f6fa",
+          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
+          "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "source": "github",
+          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-12T21:09:49Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "42aab307f2251f89fb6092215dd49118288ce466",
+          "title": "人工智能正在将苹果的应用程序审核流程变成合成开发人员的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
+          "title_zh": "人工智能正在将苹果的应用程序审核流程变成合成开发人员的噩梦",
+          "title_en": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "title_original": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50474311",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-12T13:45:47.060000Z",
+          "published_at": "2026-11-12T21:09:49Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5723,
-      "importance": 0.5723,
-      "importance_score": 0.5723,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5678,
+      "importance": 0.5678,
+      "importance_score": 0.5678,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8781,
-        "story_heat": 0.25
+        "recency": 0.9833,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-12T13:44:50.957591Z",
-      "latest_at": "2026-11-12T13:45:47.060000Z",
+      "earliest_at": "2026-11-12T21:09:49Z",
+      "latest_at": "2026-11-13T02:14:41.035000Z",
       "primary_item": {
-        "id": "9303d73b1ebca9745ee87a9e3de20b42e58cd361",
-        "title": "Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-        "title_zh": null,
-        "title_en": "Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-        "title_original": "Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-        "summary": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "id": "9f00fc2d629096721dffe633692930917d31a4d8",
+        "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+        "title_zh": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+        "title_en": null,
+        "title_original": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/Alishahryar1/free-claude-code",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
+        "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+        "source": "synthanatomy.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
-      }
-    },
-    {
-      "story_id": "story_63a3b373addd",
-      "title": "Gemini Decisions API — 快速、经过校准的多模式决策 / Gemini Decisions API — Fast, calibrated multimodal decisions",
-      "url": "https://www.producthunt.com/products/google",
-      "primary_url": "https://www.producthunt.com/products/google",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "6452d08e87c7dbe76d4e0c1f3fe524ba308be602",
-          "title": "Gemini Decisions API — 快速、经过校准的多模式决策 / Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "title_zh": "Gemini Decisions API — 快速、经过校准的多模式决策",
-          "title_en": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "title_original": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "summary": "Fast, calibrated multimodal decisions",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/google",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-11T19:44:51Z",
-          "updated_at": "2026-11-12T22:37:39Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "9dee586a35b3fae37b89147de0a8fb0e568c28f0",
-          "title": "Gemini Decisions API",
-          "title_zh": null,
-          "title_en": "Gemini Decisions API",
-          "title_original": "Gemini Decisions API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/google",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T13:28:23.745000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "6452d08e87c7dbe76d4e0c1f3fe524ba308be602",
-          "title": "Gemini Decisions API — 快速、经过校准的多模式决策 / Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "title_zh": "Gemini Decisions API — 快速、经过校准的多模式决策",
-          "title_en": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "title_original": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "summary": "Fast, calibrated multimodal decisions",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/google",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-11T19:44:51Z",
-          "updated_at": "2026-11-12T22:37:39Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "9dee586a35b3fae37b89147de0a8fb0e568c28f0",
-          "title": "Gemini Decisions API",
-          "title_zh": null,
-          "title_en": "Gemini Decisions API",
-          "title_original": "Gemini Decisions API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/google",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T13:28:23.745000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9982,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-12T13:28:23.745000Z",
-      "latest_at": "2026-11-12T22:37:39Z",
-      "primary_item": {
-        "id": "6452d08e87c7dbe76d4e0c1f3fe524ba308be602",
-        "title": "Gemini Decisions API — 快速、经过校准的多模式决策 / Gemini Decisions API — Fast, calibrated multimodal decisions",
-        "title_zh": "Gemini Decisions API — 快速、经过校准的多模式决策",
-        "title_en": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-        "title_original": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-        "summary": "Fast, calibrated multimodal decisions",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/google",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T22:46:03.619969Z"
+        "scored_at": "2026-11-13T03:25:21.661242Z"
       }
     }
   ]
