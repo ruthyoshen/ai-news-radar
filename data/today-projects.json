@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-11-14T12:10:55.693250Z",
-  "date": "2026-11-14",
+  "generated_at": "2026-11-14T19:10:32.812650Z",
+  "date": "2026-11-15",
   "total_items": 4,
   "items": [
     {
-      "id": "project_f7cfdfd7bcc3",
-      "project_name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "summary": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "id": "project_ec453d1217c2",
+      "project_name": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "拿一段自己的代码试试它的 AI 审查，看看能否发现遗漏的问题。",
-      "recommend_reason_en": "Run its AI review on a piece of your own code and see whether it catches anything you missed.",
+      "recommend_reason_zh": "看看这个开源项目的「Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading str…」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading str...\") and judge whether it fits a task you have on hand.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-14T12:10:00.252007Z"
+      "observed_at": "2026-11-14T19:09:40.964112Z"
     },
     {
-      "id": "project_e13b6e436d4b",
-      "project_name": "Gemini Robotics 2.5",
-      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-      "summary": "Gemini Robotics 2.5: Google’s most capable robot model",
+      "id": "project_61f5e9e3327d",
+      "project_name": "Tabletop by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "summary": "Build interactive group experiences with AI.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Gemini Robotics 2.5: Google’s most capable robot model」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Gemini Robotics 2.5: Google’s most capable robot model\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-12T20:18:13Z",
-      "updated_at": "2026-11-14T12:09:52Z",
+      "recommend_reason_zh": "体验它主打的「Build interactive group experiences with AI」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Build interactive group experiences with AI\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-13T11:39:17Z",
+      "updated_at": "2026-11-14T18:56:40Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-14T12:10:44.284861Z"
+      "observed_at": "2026-11-14T19:10:17.452648Z"
     },
     {
-      "id": "project_65f8a2e3eddb",
-      "project_name": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "id": "project_a67bb8d2a6b4",
+      "project_name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "summary": "Chrome DevTools for coding agents",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/p…」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/p...\") and judge whether it fits a task you have on hand.",
+      "recommend_reason_zh": "看看这个开源项目的「Chrome DevTools for coding agents」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"Chrome DevTools for coding agents\") and judge whether it fits a task you have on hand.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-14T12:10:00.252007Z"
+      "observed_at": "2026-11-14T19:09:40.964112Z"
     },
     {
-      "id": "project_069cc36d727b",
-      "project_name": "HiringNow",
-      "url": "https://www.producthunt.com/products/hiringnow",
-      "summary": "AI job agent that finds & apply for jobs before anyone else.",
+      "id": "project_8d9ebdd0a803",
+      "project_name": "FreeFlow Dictation",
+      "url": "https://www.producthunt.com/products/freeflow-dictation",
+      "summary": "On-device Mac dictation with a Claude Code voice hook",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI job agent that finds & apply for jobs before anyone else」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI job agent that finds & apply for jobs before anyone else\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-02T10:23:37Z",
-      "updated_at": "2026-11-14T12:06:38Z",
+      "recommend_reason_zh": "体验它主打的「On-device Mac dictation with a Claude Code voice hook」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"On-device Mac dictation with a Claude Code voice hook\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-10T08:38:27Z",
+      "updated_at": "2026-11-14T17:59:56Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-14T12:10:44.284861Z"
+      "observed_at": "2026-11-14T19:10:17.452648Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 12,
-      "duration_ms": 1132,
+      "item_count": 15,
+      "duration_ms": 1662,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 96,
+      "duration_ms": 108,
       "error": null
     }
   ]

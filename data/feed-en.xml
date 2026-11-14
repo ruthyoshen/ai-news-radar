@@ -5,40 +5,8 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 12:10:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 19:09:40 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
-<item>
-<title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
-<link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
-<description>Build a Robot Pick-and-Place Simulation with SimReady Assets (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 Hydrogen in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot</guid>
-<description>Gemini 4 Hydrogen in GitHub Copilot (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 13 Nov 2026 18:23:48 +0000</pubDate>
-</item>
-<item>
-<title>Introducing ChatGPT Wallet</title>
-<link>https://openai.com/index/introducing-chatgpt-wallet</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
-<description>Introducing ChatGPT Wallet (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>XYBench: Helping with the problem behind the question</title>
-<link>https://huggingface.co/blog/allenai/xybench</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
-<description>XYBench: Helping with the problem behind the question (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
-</item>
 <item>
 <title>Upcoming deprecation of selected GitHub Copilot models in December</title>
 <link>https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</link>
@@ -56,68 +24,36 @@
 <pubDate>Sat, 14 Nov 2026 09:02:30 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Enterprise Server support in the GitHub Copilot app</title>
-<link>https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</guid>
-<description>GitHub Enterprise Server support in the GitHub Copilot app (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
-</item>
-<item>
-<title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-<description>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
-</item>
-<item>
-<title>Manage AI Scan for repositories using the REST API</title>
-<link>https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</guid>
-<description>Manage AI Scan for repositories using the REST API (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
-</item>
-<item>
-<title>Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!</title>
-<link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</guid>
-<description>Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen! (TechCrunch AI)</description>
+<title>The OpenAI board member who fired Sam Altman says we still can&amp;#8217;t trust AI CEOs</title>
+<link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
+<guid isPermaLink="true">https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
+<description>The OpenAI board member who fired Sam Altman says we still can&amp;#8217;t trust AI CEOs (The Verge)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Claude Meetings — Add Claude to your call and get work started as you talk</title>
-<link>https://www.producthunt.com/products/claude</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/claude</guid>
-<description>Add Claude to your call and get work started as you talk (Product Hunt)</description>
+<title>Businesses in ChatGPT — Help customers discover your business through ChatGPT</title>
+<link>https://www.producthunt.com/products/openai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/openai</guid>
+<description>Help customers discover your business through ChatGPT (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 14 Nov 2026 12:06:57 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 19:08:48 +0000</pubDate>
 </item>
 <item>
-<title>Trainn MCP — Create product videos and courses from any AI chat</title>
-<link>https://www.producthunt.com/products/trainn</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/trainn</guid>
-<description>Create product videos and courses from any AI chat (Product Hunt)</description>
+<title>Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model</title>
+<link>https://www.producthunt.com/products/gemini-robotics-2-5</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/gemini-robotics-2-5</guid>
+<description>Gemini Robotics 2.5: Google’s most capable robot model (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 14 Nov 2026 11:51:52 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 19:00:06 +0000</pubDate>
 </item>
 <item>
-<title>ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents</title>
-<link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-<guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
-<description>Chrome DevTools for coding agents (GitHub Trending)</description>
+<title>Claude asked to renumber pages deletes professor's syllabus, year of notes</title>
+<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits</link>
+<guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits</guid>
+<description>Claude asked to renumber pages deletes professor's syllabus, year of notes</description>
 <category>Worth watching</category>
-<pubDate>Fri, 13 Nov 2026 13:05:10 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free</title>
-<link>https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free</link>
-<guid isPermaLink="true">https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free</guid>
-<description>Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free</description>
-<category>Multi-source buzz</category>
-<pubDate>Sat, 14 Nov 2026 00:28:11 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 17:51:13 +0000</pubDate>
 </item>
 <item>
 <title>克劳德会议</title>
@@ -144,28 +80,60 @@
 <pubDate>Fri, 13 Nov 2026 21:53:54 +0000</pubDate>
 </item>
 <item>
-<title>随着其通用模型开始操控机器人，OpenAI解散了其机器人团队</title>
-<link>https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots</link>
-<guid isPermaLink="true">https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots</guid>
-<description>随着其通用模型开始操控机器人，OpenAI解散了其机器人团队 (fortune.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Fri, 13 Nov 2026 21:05:49 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 Hydrogen — Fast agentic development for coders</title>
-<link>https://www.producthunt.com/products/gemini-6</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/gemini-6</guid>
-<description>Fast agentic development for coders (Product Hunt)</description>
+<title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
+<link>https://news.ycombinator.com/item?id=50493251</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=50493251</guid>
+<description>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs (hackernews)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 14 Nov 2026 11:42:49 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 02:52:59 +0000</pubDate>
 </item>
 <item>
-<title>谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测</title>
-<link>https://text.npr.org/nx-s1-6029408</link>
-<guid isPermaLink="true">https://text.npr.org/nx-s1-6029408</guid>
-<description>谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测 (text.npr.org)</description>
+<title>Perplexity Decider v1.3：训练、评估及应用场景</title>
+<link>https://www.perplexity.ai/hub/blog/perplexity-decider</link>
+<guid isPermaLink="true">https://www.perplexity.ai/hub/blog/perplexity-decider</guid>
+<description>Perplexity Decider v1.3：训练、评估及应用场景 (www.perplexity.ai)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 14 Nov 2026 02:39:53 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: DeepSeek V3 in ~200 lines of pure Jax</title>
+<link>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</link>
+<guid isPermaLink="true">https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</guid>
+<description>Show HN: DeepSeek V3 in ~200 lines of pure Jax</description>
+<category>Worth watching</category>
+<pubDate>Sat, 14 Nov 2026 15:04:15 +0000</pubDate>
+</item>
+<item>
+<title>Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM</title>
+<link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm</link>
+<guid isPermaLink="true">https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm</guid>
+<description>Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM</description>
+<category>Worth watching</category>
+<pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Agweb – a browser for agents that stays out of your way</title>
+<link>https://github.com/paul-nameless/agweb</link>
+<guid isPermaLink="true">https://github.com/paul-nameless/agweb</guid>
+<description>Show HN: Agweb – a browser for agents that stays out of your way</description>
+<category>Worth watching</category>
+<pubDate>Sat, 14 Nov 2026 14:08:12 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free</title>
+<link>https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free</link>
+<guid isPermaLink="true">https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free</guid>
+<description>Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free</description>
 <category>Multi-source buzz</category>
-<pubDate>Fri, 13 Nov 2026 19:29:43 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 00:28:11 +0000</pubDate>
+</item>
+<item>
+<title>Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth</title>
+<link>https://atg.science/careers</link>
+<guid isPermaLink="true">https://atg.science/careers</guid>
+<description>Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth</description>
+<category>Worth watching</category>
+<pubDate>Fri, 13 Nov 2026 21:01:11 +0000</pubDate>
 </item>
 </channel>
 </rss>
