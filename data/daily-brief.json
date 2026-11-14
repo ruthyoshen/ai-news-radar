@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T22:40:50.822204Z",
+  "generated_at": "2026-11-14T03:12:15.921033Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8543,
-      "importance": 0.8543,
-      "importance_score": 0.8543,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9348,
+        "recency": 0.8757,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8492,
-      "importance": 0.8492,
-      "importance_score": 0.8492,
+      "score": 0.8385,
+      "importance": 0.8385,
+      "importance_score": 0.8385,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.94,
+        "recency": 0.8806,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.895,
+        "recency": 0.8384,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,132 +261,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
-      }
-    },
-    {
-      "story_id": "story_c0e4bca0c953",
-      "title": "Codex CLI 0.168.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aff218038415ee87812e41136d03188eae6f9248",
-          "title": "Codex CLI 0.168.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.168.0",
-          "title_original": "Codex CLI 0.168.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
-          "title": "Codex CLI 0.169.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.169.0",
-          "title_original": "Codex CLI 0.169.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "aff218038415ee87812e41136d03188eae6f9248",
-          "title": "Codex CLI 0.168.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.168.0",
-          "title_original": "Codex CLI 0.168.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
-          "title": "Codex CLI 0.169.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.169.0",
-          "title_original": "Codex CLI 0.169.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7207,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T00:00:00Z",
-      "latest_at": "2026-11-13T00:00:00Z",
-      "primary_item": {
-        "id": "aff218038415ee87812e41136d03188eae6f9248",
-        "title": "Codex CLI 0.168.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.168.0",
-        "title_original": "Codex CLI 0.168.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
       "story_id": "story_6462d932fa5b",
-      "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+      "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
       "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
       "primary_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
       "source": "GitHub Changelog",
@@ -394,8 +274,8 @@
       "sources": [
         {
           "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
-          "title": "Upcoming deprecation of selected GitHub Copilot models in December",
-          "title_zh": null,
+          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
           "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
           "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
           "summary": null,
@@ -416,8 +296,8 @@
       "items": [
         {
           "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
-          "title": "Upcoming deprecation of selected GitHub Copilot models in December",
-          "title_zh": null,
+          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
           "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
           "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
           "summary": null,
@@ -433,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8468,
-      "importance": 0.8468,
-      "importance_score": 0.8468,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9714,
+        "recency": 0.9099,
         "story_heat": 0.0
       },
       "category": "official",
@@ -454,8 +334,8 @@
       "latest_at": "2026-11-13T20:40:05Z",
       "primary_item": {
         "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
-        "title": "Upcoming deprecation of selected GitHub Copilot models in December",
-        "title_zh": null,
+        "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+        "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
         "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
         "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
         "summary": null,
@@ -468,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -520,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8459,
-      "importance": 0.8459,
-      "importance_score": 0.8459,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9218,
+        "recency": 0.8635,
         "story_heat": 0.0
       },
       "category": "official",
@@ -555,67 +435,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
-      "story_id": "story_ad1ef7aac19f",
-      "title": "构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills",
-      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
-      "source": "GitHub AI & ML",
+      "story_id": "story_9a507b7582fa",
+      "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "primary_url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "13e0408b97181b085aa7be248237f7c4b37492e3",
-          "title": "构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills",
-          "title_zh": "构建一次，在任何代理上运行：代理技能实用指南",
-          "title_en": "Build once, run on any agent: A practical guide to agent skills",
-          "title_original": "Build once, run on any agent: A practical guide to agent skills",
+          "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+          "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_zh": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作",
+          "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
-          "source": "GitHub AI & ML",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T22:54:52Z",
+          "published_at": "2026-11-13T08:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "13e0408b97181b085aa7be248237f7c4b37492e3",
-          "title": "构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills",
-          "title_zh": "构建一次，在任何代理上运行：代理技能实用指南",
-          "title_en": "Build once, run on any agent: A practical guide to agent skills",
-          "title_original": "Build once, run on any agent: A practical guide to agent skills",
+          "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+          "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_zh": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作",
+          "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
-          "source": "GitHub AI & ML",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T22:54:52Z",
+          "published_at": "2026-11-13T08:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7095,
+        "recency": 0.7578,
         "story_heat": 0.0
       },
       "category": "official",
@@ -624,25 +504,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T22:54:52Z",
-      "latest_at": "2026-11-12T22:54:52Z",
+      "earliest_at": "2026-11-13T08:00:00Z",
+      "latest_at": "2026-11-13T08:00:00Z",
       "primary_item": {
-        "id": "13e0408b97181b085aa7be248237f7c4b37492e3",
-        "title": "构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills",
-        "title_zh": "构建一次，在任何代理上运行：代理技能实用指南",
-        "title_en": "Build once, run on any agent: A practical guide to agent skills",
-        "title_original": "Build once, run on any agent: A practical guide to agent skills",
+        "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+        "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+        "title_zh": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作",
+        "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
-        "source": "GitHub AI & ML",
+        "url": "https://openai.com/business/customer-stories/shield",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -694,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8413,
-      "importance": 0.8413,
-      "importance_score": 0.8413,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9408,
+        "recency": 0.8813,
         "story_heat": 0.0
       },
       "category": "official",
@@ -729,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -781,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8833,
+        "recency": 0.8275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -816,7 +696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -868,15 +748,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8706,
+        "recency": 0.8156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -901,7 +781,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -953,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8618,
+        "recency": 0.8073,
         "story_heat": 0.0
       },
       "category": "official",
@@ -988,7 +868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -1040,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8706,
+        "recency": 0.8156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,7 +953,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -1125,15 +1005,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8706,
+        "recency": 0.8156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1158,7 +1038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -1210,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8706,
+        "recency": 0.8156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1243,7 +1123,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -1328,15 +1208,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.647,
-      "importance": 0.647,
-      "importance_score": 0.647,
+      "score": 0.6362,
+      "importance": 0.6362,
+      "importance_score": 0.6362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9438,
+        "recency": 0.8841,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1361,7 +1241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -1413,15 +1293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8706,
+        "recency": 0.8156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1446,42 +1326,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
-      "story_id": "story_a94ee2c59dfc",
-      "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
-      "url": "https://www.producthunt.com/products/templify",
-      "primary_url": "https://www.producthunt.com/products/templify",
+      "story_id": "story_3a9d31bcd45f",
+      "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+      "url": "https://www.producthunt.com/products/claude",
+      "primary_url": "https://www.producthunt.com/products/claude",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
-          "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
-          "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
-          "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
-          "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
-          "summary": "Powerful content editor for people who aren’t editors",
+          "id": "072fed0d14b2f3764839a0d7918f791443619e85",
+          "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
+          "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "summary": "Add Claude to your call and get work started as you talk",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/templify",
+          "url": "https://www.producthunt.com/products/claude",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-26T11:56:03Z",
-          "updated_at": "2026-11-13T22:40:49Z",
+          "published_at": "2026-11-13T02:24:55Z",
+          "updated_at": "2026-11-14T03:09:24Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "53768632186713c8fc462e5326f1895f6f813bd8",
-          "title": "Templify AI",
+          "id": "ac7589f692f8ff7db45bfc63491ffe72b00ef84b",
+          "title": "Claude Meetings",
           "title_zh": null,
-          "title_en": "Templify AI",
-          "title_original": "Templify AI",
+          "title_en": "Claude Meetings",
+          "title_original": "Claude Meetings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/templify",
+          "url": "https://www.producthunt.com/products/claude",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1497,30 +1377,30 @@
       ],
       "items": [
         {
-          "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
-          "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
-          "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
-          "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
-          "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
-          "summary": "Powerful content editor for people who aren’t editors",
+          "id": "072fed0d14b2f3764839a0d7918f791443619e85",
+          "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
+          "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "summary": "Add Claude to your call and get work started as you talk",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/templify",
+          "url": "https://www.producthunt.com/products/claude",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-26T11:56:03Z",
-          "updated_at": "2026-11-13T22:40:49Z",
+          "published_at": "2026-11-13T02:24:55Z",
+          "updated_at": "2026-11-14T03:09:24Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "53768632186713c8fc462e5326f1895f6f813bd8",
-          "title": "Templify AI",
+          "id": "ac7589f692f8ff7db45bfc63491ffe72b00ef84b",
+          "title": "Claude Meetings",
           "title_zh": null,
-          "title_en": "Templify AI",
-          "title_original": "Templify AI",
+          "title_en": "Claude Meetings",
+          "title_original": "Claude Meetings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/templify",
+          "url": "https://www.producthunt.com/products/claude",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1531,15 +1411,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9993,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1547,16 +1427,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-13T13:05:49.034000Z",
-      "latest_at": "2026-11-13T22:40:49Z",
+      "latest_at": "2026-11-14T03:09:24Z",
       "primary_item": {
-        "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
-        "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
-        "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
-        "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
-        "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
-        "summary": "Powerful content editor for people who aren’t editors",
+        "id": "072fed0d14b2f3764839a0d7918f791443619e85",
+        "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+        "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
+        "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
+        "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
+        "summary": "Add Claude to your call and get work started as you talk",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/templify",
+        "url": "https://www.producthunt.com/products/claude",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1564,7 +1444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -1616,15 +1496,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8098,
+        "recency": 0.7586,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1649,7 +1529,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
+      }
+    },
+    {
+      "story_id": "story_a94ee2c59dfc",
+      "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+      "url": "https://www.producthunt.com/products/templify",
+      "primary_url": "https://www.producthunt.com/products/templify",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
+          "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+          "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
+          "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
+          "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
+          "summary": "Powerful content editor for people who aren’t editors",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/templify",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-26T11:56:03Z",
+          "updated_at": "2026-11-14T03:02:05Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "53768632186713c8fc462e5326f1895f6f813bd8",
+          "title": "Templify AI",
+          "title_zh": null,
+          "title_en": "Templify AI",
+          "title_original": "Templify AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/templify",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T13:05:49.034000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
+          "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+          "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
+          "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
+          "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
+          "summary": "Powerful content editor for people who aren’t editors",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/templify",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-26T11:56:03Z",
+          "updated_at": "2026-11-14T03:02:05Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "53768632186713c8fc462e5326f1895f6f813bd8",
+          "title": "Templify AI",
+          "title_zh": null,
+          "title_en": "Templify AI",
+          "title_original": "Templify AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/templify",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T13:05:49.034000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5938,
+      "importance": 0.5938,
+      "importance_score": 0.5938,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9976,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T13:05:49.034000Z",
+      "latest_at": "2026-11-14T03:02:05Z",
+      "primary_item": {
+        "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
+        "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+        "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
+        "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
+        "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
+        "summary": "Powerful content editor for people who aren’t editors",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/templify",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -1734,15 +1732,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5709,
-      "importance": 0.5709,
-      "importance_score": 0.5709,
+      "score": 0.561,
+      "importance": 0.561,
+      "importance_score": 0.561,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8706,
+        "recency": 0.8156,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1767,7 +1765,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     },
     {
@@ -1885,15 +1883,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5688,
-      "importance": 0.5688,
-      "importance_score": 0.5688,
+      "score": 0.5575,
+      "importance": 0.5575,
+      "importance_score": 0.5575,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9888,
+        "recency": 0.9262,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1918,7 +1916,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T22:52:34.050777Z"
+        "scored_at": "2026-11-14T03:13:04.561503Z"
       }
     }
   ]
