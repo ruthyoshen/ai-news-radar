@@ -1,91 +1,210 @@
 {
-  "generated_at": "2026-11-15T02:38:29.245971Z",
+  "generated_at": "2026-11-15T09:32:05.301624Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 10,
   "items": [
     {
-      "story_id": "story_1d42fa256bab",
-      "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-      "url": "https://www.aibase.com/news/32323",
-      "primary_url": "https://www.aibase.com/news/32323",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_ac1cd00bb907",
+      "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
           "title_en": null,
-          "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32323",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-14T09:02:30.355756Z",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-15T03:35:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Daily Digest"
       ],
       "items": [
         {
-          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
           "title_en": null,
-          "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32323",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-14T09:02:30.355756Z",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-15T03:35:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7756,
+        "recency": 0.9176,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-14T09:02:30.355756Z",
-      "latest_at": "2026-11-14T09:02:30.355756Z",
+      "earliest_at": "2026-11-15T03:35:00Z",
+      "latest_at": "2026-11-15T03:35:00Z",
       "primary_item": {
-        "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-        "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-        "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+        "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+        "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
         "title_en": null,
-        "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+        "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32323",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:39:16.115139Z"
+        "scored_at": "2026-11-15T09:33:06.368649Z"
+      }
+    },
+    {
+      "story_id": "story_4d05123f2fa0",
+      "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "primary_url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
+          "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
+          "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "summary": "Help customers discover your business through ChatGPT",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-13T08:53:51Z",
+          "updated_at": "2026-11-15T09:31:48Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "e387ac621e5743eebe352a18f4e53b8877c8aa46",
+          "title": "Businesses in ChatGPT",
+          "title_zh": null,
+          "title_en": "Businesses in ChatGPT",
+          "title_original": "Businesses in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T19:00:06.948000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
+          "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
+          "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "summary": "Help customers discover your business through ChatGPT",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-13T08:53:51Z",
+          "updated_at": "2026-11-15T09:31:48Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "e387ac621e5743eebe352a18f4e53b8877c8aa46",
+          "title": "Businesses in ChatGPT",
+          "title_zh": null,
+          "title_en": "Businesses in ChatGPT",
+          "title_original": "Businesses in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T19:00:06.948000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9999,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T19:00:06.948000Z",
+      "latest_at": "2026-11-15T09:31:48Z",
+      "primary_item": {
+        "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
+        "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+        "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
+        "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+        "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+        "summary": "Help customers discover your business through ChatGPT",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/openai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T09:33:06.368649Z"
       }
     },
     {
@@ -169,15 +288,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6001,
-      "importance": 0.6001,
-      "importance_score": 0.6001,
+      "score": 0.5857,
+      "importance": 0.5857,
+      "importance_score": 0.5857,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8453,
+        "recency": 0.7652,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -202,125 +321,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:39:16.115139Z"
-      }
-    },
-    {
-      "story_id": "story_4d05123f2fa0",
-      "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "primary_url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
-          "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
-          "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "summary": "Help customers discover your business through ChatGPT",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-13T08:53:51Z",
-          "updated_at": "2026-11-15T02:32:22Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "e387ac621e5743eebe352a18f4e53b8877c8aa46",
-          "title": "Businesses in ChatGPT",
-          "title_zh": null,
-          "title_en": "Businesses in ChatGPT",
-          "title_original": "Businesses in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T19:00:06.948000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
-          "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
-          "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "summary": "Help customers discover your business through ChatGPT",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-13T08:53:51Z",
-          "updated_at": "2026-11-15T02:32:22Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "e387ac621e5743eebe352a18f4e53b8877c8aa46",
-          "title": "Businesses in ChatGPT",
-          "title_zh": null,
-          "title_en": "Businesses in ChatGPT",
-          "title_original": "Businesses in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T19:00:06.948000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9985,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T19:00:06.948000Z",
-      "latest_at": "2026-11-15T02:32:22Z",
-      "primary_item": {
-        "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
-        "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-        "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
-        "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-        "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-        "summary": "Help customers discover your business through ChatGPT",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/openai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:39:16.115139Z"
+        "scored_at": "2026-11-15T09:33:06.368649Z"
       }
     },
     {
@@ -344,7 +345,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-12T20:18:13Z",
-          "updated_at": "2026-11-15T02:32:22Z",
+          "updated_at": "2026-11-15T08:42:15Z",
           "recency_basis": "updated_at"
         },
         {
@@ -383,7 +384,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-12T20:18:13Z",
-          "updated_at": "2026-11-15T02:32:22Z",
+          "updated_at": "2026-11-15T08:42:15Z",
           "recency_basis": "updated_at"
         },
         {
@@ -405,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.5921,
+      "importance": 0.5921,
+      "importance_score": 0.5921,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9985,
+        "recency": 0.9881,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -421,7 +422,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-14T19:00:06.948000Z",
-      "latest_at": "2026-11-15T02:32:22Z",
+      "latest_at": "2026-11-15T08:42:15Z",
       "primary_item": {
         "id": "b32276ca2116fcf7be6059da782eb0897c2c80bb",
         "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
@@ -438,7 +439,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:39:16.115139Z"
+        "scored_at": "2026-11-15T09:33:06.368649Z"
+      }
+    },
+    {
+      "story_id": "story_7667efff6c94",
+      "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "primary_url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "source": "litnews.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
+          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+          "title_zh": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+          "title_en": null,
+          "title_original": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+          "source": "litnews.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T08:37:45.544000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8c7c156d6403ab820f12ca3d85789ad9d7a49f76",
+          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议 / Court denies motion to dismiss DRAM price fixing case",
+          "title_zh": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+          "title_en": "Court denies motion to dismiss DRAM price fixing case",
+          "title_original": "Court denies motion to dismiss DRAM price fixing case",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T01:18:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "litnews.ai"
+      ],
+      "items": [
+        {
+          "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
+          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+          "title_zh": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+          "title_en": null,
+          "title_original": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+          "source": "litnews.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T08:37:45.544000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8c7c156d6403ab820f12ca3d85789ad9d7a49f76",
+          "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议 / Court denies motion to dismiss DRAM price fixing case",
+          "title_zh": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+          "title_en": "Court denies motion to dismiss DRAM price fixing case",
+          "title_original": "Court denies motion to dismiss DRAM price fixing case",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T01:18:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.987,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T01:18:36Z",
+      "latest_at": "2026-11-15T08:37:45.544000Z",
+      "primary_item": {
+        "id": "d296057ae2ab292aeaaa2e954f6de19ce983086a",
+        "title": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+        "title_zh": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+        "title_en": null,
+        "title_original": "法院驳回了关于DRAM价格垄断案的驳回起诉动议",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+        "source": "litnews.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T09:33:06.368649Z"
       }
     },
     {
@@ -556,15 +675,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5573,
-      "importance": 0.5573,
-      "importance_score": 0.5573,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9249,
+        "recency": 0.8372,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -589,7 +708,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:39:16.115139Z"
+        "scored_at": "2026-11-15T09:33:06.368649Z"
       }
     },
     {
@@ -707,15 +826,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5535,
-      "importance": 0.5535,
-      "importance_score": 0.5535,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.904,
+        "recency": 0.8183,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -740,158 +859,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:39:16.115139Z"
+        "scored_at": "2026-11-15T09:33:06.368649Z"
       }
     },
     {
-      "story_id": "story_82c8d925bbcc",
-      "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "www.techpowerup.com",
-      "source_name": "Buzzing",
+      "story_id": "story_3e25872cf7b5",
+      "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "primary_url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_zh": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_en": null,
-          "title_original": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T04:09:11Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_zh": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_original": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_zh": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性",
-          "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_original": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50493251",
+          "url": "https://news.ycombinator.com/item?id=50503930",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z",
+          "published_at": "2026-11-15T04:09:11Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.techpowerup.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_zh": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_en": null,
-          "title_original": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T04:09:11Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_zh": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_original": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_zh": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性",
-          "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_original": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50493251",
+          "url": "https://news.ycombinator.com/item?id=50503930",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z",
+          "published_at": "2026-11-15T04:09:11Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7925,
-        "story_heat": 0.5
+        "recency": 0.9252,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T02:52:59Z",
-      "latest_at": "2026-11-14T10:32:03.584000Z",
+      "earliest_at": "2026-11-15T04:09:11Z",
+      "latest_at": "2026-11-15T04:09:11Z",
       "primary_item": {
-        "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-        "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-        "title_zh": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-        "title_en": null,
-        "title_original": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+        "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+        "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+        "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+        "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+        "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "source": "www.techpowerup.com",
-        "source_name": "Buzzing"
+        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:39:16.115139Z"
+        "scored_at": "2026-11-15T09:33:06.368649Z"
       }
     },
     {
@@ -976,15 +1062,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
+      "score": 0.5093,
+      "importance": 0.5093,
+      "importance_score": 0.5093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8808,
+        "recency": 0.7974,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1009,7 +1095,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:39:16.115139Z"
+        "scored_at": "2026-11-15T09:33:06.368649Z"
       }
     },
     {
@@ -1017,11 +1103,11 @@
       "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
       "url": "https://github.com/paul-nameless/agweb",
       "primary_url": "https://github.com/paul-nameless/agweb",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+          "id": "5afc09bd96b721532395b875c430d395588d155b",
           "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
           "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
           "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
@@ -1029,9 +1115,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T14:08:12Z",
           "updated_at": null,
           "recency_basis": null
@@ -1055,12 +1141,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+          "id": "5afc09bd96b721532395b875c430d395588d155b",
           "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
           "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
           "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
@@ -1068,9 +1154,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T14:08:12Z",
           "updated_at": null,
           "recency_basis": null
@@ -1094,15 +1180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5161,
-      "importance": 0.5161,
-      "importance_score": 0.5161,
+      "score": 0.5018,
+      "importance": 0.5018,
+      "importance_score": 0.5018,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8348,
+        "recency": 0.7557,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1112,7 +1198,7 @@
       "earliest_at": "2026-11-14T14:08:12Z",
       "latest_at": "2026-11-14T14:08:12Z",
       "primary_item": {
-        "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+        "id": "5afc09bd96b721532395b875c430d395588d155b",
         "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
         "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
         "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
@@ -1120,14 +1206,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://github.com/paul-nameless/agweb",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:39:16.115139Z"
+        "scored_at": "2026-11-15T09:33:06.368649Z"
       }
     }
   ]
