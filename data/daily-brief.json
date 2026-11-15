@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:45:57.133416Z",
+  "generated_at": "2026-11-15T21:51:10.913285Z",
   "window_hours": 24,
   "total_items": 8,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7916,
+        "recency": 0.7681,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -85,7 +85,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T19:47:01.407420Z"
+        "scored_at": "2026-11-15T21:51:59.006750Z"
+      }
+    },
+    {
+      "story_id": "story_407fc4b6b767",
+      "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+      "primary_url": "https://www.producthunt.com/products/byteask-cloud-agents",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
+          "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
+          "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "summary": "Find the fix in big codebases. Ship it from Slack.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-14T06:54:44Z",
+          "updated_at": "2026-11-15T19:52:27Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "ba1f2a865694a4044a78f42267526de56dee011a",
+          "title": "ByteAsk Cloud Agents",
+          "title_zh": null,
+          "title_en": "ByteAsk Cloud Agents",
+          "title_original": "ByteAsk Cloud Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T12:29:09.521000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
+          "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
+          "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "summary": "Find the fix in big codebases. Ship it from Slack.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-14T06:54:44Z",
+          "updated_at": "2026-11-15T19:52:27Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "ba1f2a865694a4044a78f42267526de56dee011a",
+          "title": "ByteAsk Cloud Agents",
+          "title_zh": null,
+          "title_en": "ByteAsk Cloud Agents",
+          "title_original": "ByteAsk Cloud Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T12:29:09.521000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5891,
+      "importance": 0.5891,
+      "importance_score": 0.5891,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9718,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T12:29:09.521000Z",
+      "latest_at": "2026-11-15T19:52:27Z",
+      "primary_item": {
+        "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
+        "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+        "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
+        "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+        "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+        "summary": "Find the fix in big codebases. Ship it from Slack.",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T21:51:59.006750Z"
       }
     },
     {
@@ -170,15 +288,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5889,
+      "importance": 0.5889,
+      "importance_score": 0.5889,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9703,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -203,125 +321,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T19:47:01.407420Z"
-      }
-    },
-    {
-      "story_id": "story_407fc4b6b767",
-      "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
-      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-      "primary_url": "https://www.producthunt.com/products/byteask-cloud-agents",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
-          "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
-          "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
-          "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
-          "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
-          "summary": "Find the fix in big codebases. Ship it from Slack.",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-14T06:54:44Z",
-          "updated_at": "2026-11-15T17:53:40Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "ba1f2a865694a4044a78f42267526de56dee011a",
-          "title": "ByteAsk Cloud Agents",
-          "title_zh": null,
-          "title_en": "ByteAsk Cloud Agents",
-          "title_original": "ByteAsk Cloud Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T12:29:09.521000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
-          "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
-          "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
-          "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
-          "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
-          "summary": "Find the fix in big codebases. Ship it from Slack.",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-14T06:54:44Z",
-          "updated_at": "2026-11-15T17:53:40Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "ba1f2a865694a4044a78f42267526de56dee011a",
-          "title": "ByteAsk Cloud Agents",
-          "title_zh": null,
-          "title_en": "ByteAsk Cloud Agents",
-          "title_original": "ByteAsk Cloud Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-15T12:29:09.521000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5894,
-      "importance": 0.5894,
-      "importance_score": 0.5894,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9733,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-15T12:29:09.521000Z",
-      "latest_at": "2026-11-15T17:53:40Z",
-      "primary_item": {
-        "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
-        "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
-        "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
-        "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
-        "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
-        "summary": "Find the fix in big codebases. Ship it from Slack.",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T19:47:01.407420Z"
+        "scored_at": "2026-11-15T21:51:59.006750Z"
       }
     },
     {
@@ -439,15 +439,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5634,
-      "importance": 0.5634,
-      "importance_score": 0.5634,
+      "score": 0.5583,
+      "importance": 0.5583,
+      "importance_score": 0.5583,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9589,
+        "recency": 0.9304,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -472,7 +472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T19:47:01.407420Z"
+        "scored_at": "2026-11-15T21:51:59.006750Z"
       }
     },
     {
@@ -590,15 +590,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5614,
-      "importance": 0.5614,
-      "importance_score": 0.5614,
+      "score": 0.5564,
+      "importance": 0.5564,
+      "importance_score": 0.5564,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9479,
+        "recency": 0.9198,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -623,7 +623,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T19:47:01.407420Z"
+        "scored_at": "2026-11-15T21:51:59.006750Z"
       }
     },
     {
@@ -708,15 +708,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9181,
+        "recency": 0.8908,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -741,7 +741,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T19:47:01.407420Z"
+        "scored_at": "2026-11-15T21:51:59.006750Z"
       }
     },
     {
@@ -826,15 +826,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8514,
+        "recency": 0.8262,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -859,7 +859,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T19:47:01.407420Z"
+        "scored_at": "2026-11-15T21:51:59.006750Z"
       }
     },
     {
@@ -867,11 +867,11 @@
       "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
       "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
       "primary_url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+          "id": "4f86319d54a2b3c3a9a224c31becb5d521f2e97a",
           "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
           "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
@@ -879,9 +879,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-15T04:09:11Z",
           "updated_at": null,
           "recency_basis": null
@@ -905,12 +905,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+          "id": "4f86319d54a2b3c3a9a224c31becb5d521f2e97a",
           "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
           "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
@@ -918,9 +918,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-15T04:09:11Z",
           "updated_at": null,
           "recency_basis": null
@@ -944,15 +944,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5095,
-      "importance": 0.5095,
-      "importance_score": 0.5095,
+      "score": 0.5052,
+      "importance": 0.5052,
+      "importance_score": 0.5052,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7982,
+        "recency": 0.7745,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -962,7 +962,7 @@
       "earliest_at": "2026-11-15T04:09:11Z",
       "latest_at": "2026-11-15T04:09:11Z",
       "primary_item": {
-        "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+        "id": "4f86319d54a2b3c3a9a224c31becb5d521f2e97a",
         "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
         "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
         "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
@@ -970,14 +970,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T19:47:01.407420Z"
+        "scored_at": "2026-11-15T21:51:59.006750Z"
       }
     }
   ]
