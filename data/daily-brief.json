@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T09:32:05.301624Z",
+  "generated_at": "2026-11-15T12:42:53.805410Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_ac1cd00bb907",
@@ -52,21 +52,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9176,
+        "recency": 0.8765,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-15T03:35:00Z",
       "latest_at": "2026-11-15T03:35:00Z",
@@ -86,46 +85,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:33:06.368649Z"
+        "scored_at": "2026-11-15T12:44:01.872263Z"
       }
     },
     {
-      "story_id": "story_4d05123f2fa0",
-      "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "primary_url": "https://www.producthunt.com/products/openai",
+      "story_id": "story_1f2a45880ff5",
+      "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+      "primary_url": "https://www.producthunt.com/products/byteask-cloud-agents",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
-          "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
-          "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "summary": "Help customers discover your business through ChatGPT",
+          "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
+          "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
+          "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "summary": "Find the fix in big codebases. Ship it from Slack.",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-13T08:53:51Z",
-          "updated_at": "2026-11-15T09:31:48Z",
+          "published_at": "2026-11-14T06:54:44Z",
+          "updated_at": "2026-11-15T12:22:48Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "e387ac621e5743eebe352a18f4e53b8877c8aa46",
-          "title": "Businesses in ChatGPT",
+          "id": "ba1f2a865694a4044a78f42267526de56dee011a",
+          "title": "ByteAsk Cloud Agents",
           "title_zh": null,
-          "title_en": "Businesses in ChatGPT",
-          "title_original": "Businesses in ChatGPT",
+          "title_en": "ByteAsk Cloud Agents",
+          "title_original": "ByteAsk Cloud Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T19:00:06.948000Z",
+          "published_at": "2026-11-15T12:29:09.521000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -137,66 +136,66 @@
       ],
       "items": [
         {
-          "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
-          "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
-          "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "summary": "Help customers discover your business through ChatGPT",
+          "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
+          "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
+          "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "summary": "Find the fix in big codebases. Ship it from Slack.",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-13T08:53:51Z",
-          "updated_at": "2026-11-15T09:31:48Z",
+          "published_at": "2026-11-14T06:54:44Z",
+          "updated_at": "2026-11-15T12:22:48Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "e387ac621e5743eebe352a18f4e53b8877c8aa46",
-          "title": "Businesses in ChatGPT",
+          "id": "ba1f2a865694a4044a78f42267526de56dee011a",
+          "title": "ByteAsk Cloud Agents",
           "title_zh": null,
-          "title_en": "Businesses in ChatGPT",
-          "title_original": "Businesses in ChatGPT",
+          "title_en": "ByteAsk Cloud Agents",
+          "title_original": "ByteAsk Cloud Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T19:00:06.948000Z",
+          "published_at": "2026-11-15T12:29:09.521000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5933,
+      "importance": 0.5933,
+      "importance_score": 0.5933,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9999,
+        "recency": 0.9952,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T19:00:06.948000Z",
-      "latest_at": "2026-11-15T09:31:48Z",
+      "earliest_at": "2026-11-15T12:22:48Z",
+      "latest_at": "2026-11-15T12:29:09.521000Z",
       "primary_item": {
-        "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
-        "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-        "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
-        "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-        "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-        "summary": "Help customers discover your business through ChatGPT",
+        "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
+        "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+        "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
+        "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+        "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+        "summary": "Find the fix in big codebases. Ship it from Slack.",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/openai",
+        "url": "https://www.producthunt.com/products/byteask-cloud-agents",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -204,7 +203,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:33:06.368649Z"
+        "scored_at": "2026-11-15T12:44:01.872263Z"
       }
     },
     {
@@ -288,15 +287,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5857,
-      "importance": 0.5857,
-      "importance_score": 0.5857,
+      "score": 0.5795,
+      "importance": 0.5795,
+      "importance_score": 0.5795,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7652,
+        "recency": 0.7308,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -321,42 +320,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:33:06.368649Z"
+        "scored_at": "2026-11-15T12:44:01.872263Z"
       }
     },
     {
-      "story_id": "story_ae54967edda4",
-      "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-      "primary_url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+      "story_id": "story_4d05123f2fa0",
+      "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "primary_url": "https://www.producthunt.com/products/openai",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "b32276ca2116fcf7be6059da782eb0897c2c80bb",
-          "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "title_zh": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型",
-          "title_en": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "title_original": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "summary": "Gemini Robotics 2.5: Google’s most capable robot model",
+          "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
+          "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
+          "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "summary": "Help customers discover your business through ChatGPT",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+          "url": "https://www.producthunt.com/products/openai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-12T20:18:13Z",
-          "updated_at": "2026-11-15T08:42:15Z",
+          "published_at": "2026-11-13T08:53:51Z",
+          "updated_at": "2026-11-15T12:07:05Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "08e87d64d5f647e65d8d8c0fb509fc64a53fea79",
-          "title": "Gemini Robotics 2.5",
+          "id": "e387ac621e5743eebe352a18f4e53b8877c8aa46",
+          "title": "Businesses in ChatGPT",
           "title_zh": null,
-          "title_en": "Gemini Robotics 2.5",
-          "title_original": "Gemini Robotics 2.5",
+          "title_en": "Businesses in ChatGPT",
+          "title_original": "Businesses in ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+          "url": "https://www.producthunt.com/products/openai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -372,30 +371,30 @@
       ],
       "items": [
         {
-          "id": "b32276ca2116fcf7be6059da782eb0897c2c80bb",
-          "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "title_zh": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型",
-          "title_en": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "title_original": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "summary": "Gemini Robotics 2.5: Google’s most capable robot model",
+          "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
+          "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
+          "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+          "summary": "Help customers discover your business through ChatGPT",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+          "url": "https://www.producthunt.com/products/openai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-12T20:18:13Z",
-          "updated_at": "2026-11-15T08:42:15Z",
+          "published_at": "2026-11-13T08:53:51Z",
+          "updated_at": "2026-11-15T12:07:05Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "08e87d64d5f647e65d8d8c0fb509fc64a53fea79",
-          "title": "Gemini Robotics 2.5",
+          "id": "e387ac621e5743eebe352a18f4e53b8877c8aa46",
+          "title": "Businesses in ChatGPT",
           "title_zh": null,
-          "title_en": "Gemini Robotics 2.5",
-          "title_original": "Gemini Robotics 2.5",
+          "title_en": "Businesses in ChatGPT",
+          "title_original": "Businesses in ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+          "url": "https://www.producthunt.com/products/openai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -406,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5921,
-      "importance": 0.5921,
-      "importance_score": 0.5921,
+      "score": 0.5927,
+      "importance": 0.5927,
+      "importance_score": 0.5927,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9881,
+        "recency": 0.9914,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -422,16 +421,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-14T19:00:06.948000Z",
-      "latest_at": "2026-11-15T08:42:15Z",
+      "latest_at": "2026-11-15T12:07:05Z",
       "primary_item": {
-        "id": "b32276ca2116fcf7be6059da782eb0897c2c80bb",
-        "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-        "title_zh": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型",
-        "title_en": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-        "title_original": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-        "summary": "Gemini Robotics 2.5: Google’s most capable robot model",
+        "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
+        "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+        "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
+        "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+        "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
+        "summary": "Help customers discover your business through ChatGPT",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+        "url": "https://www.producthunt.com/products/openai",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -439,7 +438,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:33:06.368649Z"
+        "scored_at": "2026-11-15T12:44:01.872263Z"
       }
     },
     {
@@ -524,15 +523,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.987,
+        "recency": 0.9427,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -557,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:33:06.368649Z"
+        "scored_at": "2026-11-15T12:44:01.872263Z"
       }
     },
     {
@@ -675,15 +674,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8372,
+        "recency": 0.7997,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -708,7 +707,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:33:06.368649Z"
+        "scored_at": "2026-11-15T12:44:01.872263Z"
+      }
+    },
+    {
+      "story_id": "story_ae54967edda4",
+      "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+      "primary_url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "b32276ca2116fcf7be6059da782eb0897c2c80bb",
+          "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
+          "title_zh": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型",
+          "title_en": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
+          "title_original": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
+          "summary": "Gemini Robotics 2.5: Google’s most capable robot model",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-12T20:18:13Z",
+          "updated_at": "2026-11-15T11:52:48Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "08e87d64d5f647e65d8d8c0fb509fc64a53fea79",
+          "title": "Gemini Robotics 2.5",
+          "title_zh": null,
+          "title_en": "Gemini Robotics 2.5",
+          "title_original": "Gemini Robotics 2.5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T19:00:06.948000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "b32276ca2116fcf7be6059da782eb0897c2c80bb",
+          "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
+          "title_zh": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型",
+          "title_en": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
+          "title_original": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
+          "summary": "Gemini Robotics 2.5: Google’s most capable robot model",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-12T20:18:13Z",
+          "updated_at": "2026-11-15T11:52:48Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "08e87d64d5f647e65d8d8c0fb509fc64a53fea79",
+          "title": "Gemini Robotics 2.5",
+          "title_zh": null,
+          "title_en": "Gemini Robotics 2.5",
+          "title_original": "Gemini Robotics 2.5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T19:00:06.948000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.592,
+      "importance": 0.592,
+      "importance_score": 0.592,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.988,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T19:00:06.948000Z",
+      "latest_at": "2026-11-15T11:52:48Z",
+      "primary_item": {
+        "id": "b32276ca2116fcf7be6059da782eb0897c2c80bb",
+        "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
+        "title_zh": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型",
+        "title_en": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
+        "title_original": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
+        "summary": "Gemini Robotics 2.5: Google’s most capable robot model",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T12:44:01.872263Z"
       }
     },
     {
@@ -826,15 +943,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8183,
+        "recency": 0.7816,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -859,7 +976,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:33:06.368649Z"
+        "scored_at": "2026-11-15T12:44:01.872263Z"
       }
     },
     {
@@ -944,15 +1061,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9252,
+        "recency": 0.8837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -977,7 +1094,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:33:06.368649Z"
+        "scored_at": "2026-11-15T12:44:01.872263Z"
       }
     },
     {
@@ -1062,15 +1179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5093,
-      "importance": 0.5093,
-      "importance_score": 0.5093,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7974,
+        "recency": 0.7616,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1095,7 +1212,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:33:06.368649Z"
+        "scored_at": "2026-11-15T12:44:01.872263Z"
       }
     },
     {
@@ -1180,15 +1297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5018,
-      "importance": 0.5018,
-      "importance_score": 0.5018,
+      "score": 0.4957,
+      "importance": 0.4957,
+      "importance_score": 0.4957,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7557,
+        "recency": 0.7218,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1210,10 +1327,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T09:33:06.368649Z"
+        "scored_at": "2026-11-15T12:44:01.872263Z"
       }
     }
   ]
