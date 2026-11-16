@@ -5,23 +5,63 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 13:37:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 18:37:41 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
-<title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
-<link>https://openai.com/index/lvmh-media-division-partnership</link>
-<guid isPermaLink="true">https://openai.com/index/lvmh-media-division-partnership</guid>
-<description>LVMH’s Media Division announces strategic partnership with OpenAI (OpenAI News)</description>
+<title>Strengthening the fight against online child sexual abuse with new tools and support</title>
+<link>https://openai.com/index/strengthening-online-child-safety</link>
+<guid isPermaLink="true">https://openai.com/index/strengthening-online-child-safety</guid>
+<description>Strengthening the fight against online child sexual abuse with new tools and support (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 18:12:48 +0000</pubDate>
 </item>
 <item>
-<title>The King’s Trust and OpenAI launch £1m partnership</title>
-<link>https://openai.com/index/the-kings-trust-and-openai</link>
-<guid isPermaLink="true">https://openai.com/index/the-kings-trust-and-openai</guid>
-<description>The King’s Trust and OpenAI launch £1m partnership (OpenAI News)</description>
+<title>Bulk start AI Scan for repositories</title>
+<link>https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories</guid>
+<description>Bulk start AI Scan for repositories (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Mon, 16 Nov 2026 15:50:22 +0000</pubDate>
+</item>
+<item>
+<title>New Ask Maps features to help with holiday travel and prep</title>
+<link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026</guid>
+<description>New Ask Maps features to help with holiday travel and prep (Google AI Blog)</description>
+<category>Official update</category>
+<pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Broadening access to AI for scientists</title>
+<link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+<guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+<description>Broadening access to AI for scientists (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
+<link>https://huggingface.co/blog/openrouter</link>
+<guid isPermaLink="true">https://huggingface.co/blog/openrouter</guid>
+<description>Hugging Face and OpenRouter join forces to make open-weight models easy to run (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Take GitHub Mobile with you on iPhone Duo</title>
+<link>https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo</guid>
+<description>Take GitHub Mobile with you on iPhone Duo (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Mon, 16 Nov 2026 14:30:07 +0000</pubDate>
+</item>
+<item>
+<title>Science at the Frontier: How scientists use ChatGPT</title>
+<link>https://openai.com/index/science-at-the-frontier</link>
+<guid isPermaLink="true">https://openai.com/index/science-at-the-frontier</guid>
+<description>Science at the Frontier: How scientists use ChatGPT (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军</title>
@@ -32,12 +72,12 @@
 <pubDate>Mon, 16 Nov 2026 13:37:16 +0000</pubDate>
 </item>
 <item>
-<title>A step toward defining the Standard Model on a lattice</title>
-<link>https://openai.com/index/step-toward-defining-the-standard-model</link>
-<guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
-<description>A step toward defining the Standard Model on a lattice (OpenAI News)</description>
+<title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
+<link>https://openai.com/index/lvmh-media-division-partnership</link>
+<guid isPermaLink="true">https://openai.com/index/lvmh-media-division-partnership</guid>
+<description>LVMH’s Media Division announces strategic partnership with OpenAI (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
 <title>黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会</title>
@@ -48,12 +88,12 @@
 <pubDate>Mon, 16 Nov 2026 13:37:16 +0000</pubDate>
 </item>
 <item>
-<title>Our new blog for science</title>
-<link>https://openai.com/index/our-new-blog-for-science</link>
-<guid isPermaLink="true">https://openai.com/index/our-new-blog-for-science</guid>
-<description>Our new blog for science (OpenAI News)</description>
+<title>More ways to move care forward with ChatGPT for Healthcare</title>
+<link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
+<guid isPermaLink="true">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
+<description>More ways to move care forward with ChatGPT for Healthcare (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整</title>
@@ -64,12 +104,36 @@
 <pubDate>Mon, 16 Nov 2026 08:01:56 +0000</pubDate>
 </item>
 <item>
+<title>Our first phase of embedded assessments</title>
+<link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
+<guid isPermaLink="true">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
+<description>Our first phase of embedded assessments (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI will embed safety researchers to investigate AI subversion</title>
+<link>https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion</guid>
+<description>OpenAI will embed safety researchers to investigate AI subversion (TechCrunch AI)</description>
+<category>Worth watching</category>
+<pubDate>Mon, 16 Nov 2026 17:02:43 +0000</pubDate>
+</item>
+<item>
 <title>出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单</title>
 <link>https://www.aibase.com/news/32339</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32339</guid>
 <description>出道30天吸粉40万，AI演员“方桃子”首条商单引发6.82万元罚单 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 16 Nov 2026 08:01:56 +0000</pubDate>
+</item>
+<item>
+<title>Advancing computer-use agents for healthcare teams</title>
+<link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
+<guid isPermaLink="true">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
+<description>Advancing computer-use agents for healthcare teams (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
 </item>
 <item>
 <title>千问 AI 平台首发 Qwen4-Max: 以 Token 用量减半、得分升近28% 切入开发者市场</title>
@@ -80,12 +144,20 @@
 <pubDate>Mon, 16 Nov 2026 08:01:56 +0000</pubDate>
 </item>
 <item>
-<title>因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职</title>
-<link>https://www.aibase.com/news/32333</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32333</guid>
-<description>因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 16 Nov 2026 08:01:56 +0000</pubDate>
+<title>The King’s Trust and OpenAI launch £1m partnership</title>
+<link>https://openai.com/index/the-kings-trust-and-openai</link>
+<guid isPermaLink="true">https://openai.com/index/the-kings-trust-and-openai</guid>
+<description>The King’s Trust and OpenAI launch £1m partnership (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.</title>
+<link>https://github.com/NVIDIA/SkillEvaluator</link>
+<guid isPermaLink="true">https://github.com/NVIDIA/SkillEvaluator</guid>
+<description>Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. (GitHub Trending)</description>
+<category>Worth watching</category>
+<pubDate>Mon, 16 Nov 2026 18:37:41 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card</title>
@@ -93,79 +165,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/chatgpt</guid>
 <description>Let ChatGPT agents buy things without seeing your card (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Mon, 16 Nov 2026 13:37:50 +0000</pubDate>
-</item>
-<item>
-<title>火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式</title>
-<link>https://www.aibase.com/news/32340</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32340</guid>
-<description>火山引擎宣布Seedance2.54K API全面开放，支持10-bit色深与样片模式 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 16 Nov 2026 08:01:56 +0000</pubDate>
-</item>
-<item>
-<title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
-<link>https://github.com/elementalsouls/Claude-BugHunter</link>
-<guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
-<description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. (GitHub Trending)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 15 Nov 2026 19:45:57 +0000</pubDate>
-</item>
-<item>
-<title>腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13</title>
-<link>https://www.aibase.com/news/32335</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32335</guid>
-<description>腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 16 Nov 2026 08:01:56 +0000</pubDate>
-</item>
-<item>
-<title>所有由人工智能生成的代码都应开源</title>
-<link>https://jakub.jankiewicz.org/blog/ai-code-open-source</link>
-<guid isPermaLink="true">https://jakub.jankiewicz.org/blog/ai-code-open-source</guid>
-<description>所有由人工智能生成的代码都应开源 (jakub.jankiewicz.org)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sun, 15 Nov 2026 16:03:47 +0000</pubDate>
-</item>
-<item>
-<title>"Who is Hiring?" postings stuck near 12-year lows as AI reaches half of all jobs</title>
-<link>https://www.hntrends.com/2026/november.html</link>
-<guid isPermaLink="true">https://www.hntrends.com/2026/november.html</guid>
-<description>"Who is Hiring?" postings stuck near 12-year lows as AI reaches half of all jobs</description>
-<category>Worth watching</category>
-<pubDate>Mon, 16 Nov 2026 01:31:30 +0000</pubDate>
-</item>
-<item>
-<title>苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户</title>
-<link>https://www.aibase.com/news/32338</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32338</guid>
-<description>苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 16 Nov 2026 08:01:56 +0000</pubDate>
-</item>
-<item>
-<title>豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景</title>
-<link>https://www.aibase.com/news/32336</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32336</guid>
-<description>豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 16 Nov 2026 08:01:56 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS</title>
-<link>https://github.com/db-branch/db-branch</link>
-<guid isPermaLink="true">https://github.com/db-branch/db-branch</guid>
-<description>Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS</description>
-<category>Worth watching</category>
-<pubDate>Sun, 15 Nov 2026 13:50:51 +0000</pubDate>
-</item>
-<item>
-<title>阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%</title>
-<link>https://www.aibase.com/news/32332</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32332</guid>
-<description>阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58% (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 16 Nov 2026 08:01:56 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 18:29:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
